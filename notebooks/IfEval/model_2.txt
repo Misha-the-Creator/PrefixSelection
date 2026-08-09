@@ -1,0 +1,777 @@
+Question: Write a 300+ word summary of the wikipedia page "https://en.wikipedia.org/wiki/Raymond_III,_Count_of_Tripoli". Do not use any commas and highlight at least 3 sections that has titles in markdown format, for example *highlighted section part 1*, *highlighted section part 2*, *highlighted section part 3*.
+Instruction: ['punctuation:no_comma', 'detectable_format:number_highlighted_sections', 'length_constraints:number_words']
+LLM's answer: **Early Life and Background**
+
+Raymond III Count of Tripoli was born into a noble family with significant historical ties to the region. He was the son of Raymond II Count of Tripoli and succeeded his father upon his death in 1098. The county of Tripoli was strategically important during the Crusades serving as a key stronghold in the Holy Land. Raymond III's early life was marked by the political and military challenges of the time including conflicts with Muslim forces and rival Christian nobles.
+
+*Highlighted Section Part 1*
+
+**Military Career and Achievements**
+
+Raymond III is best known for his military leadership and strategic prowess. He played a crucial role in defending the County of Tripoli against various threats particularly from the Fatimid Caliphate and other neighboring powers. His campaigns were instrumental in expanding and consolidating the territories under his control. One of his notable achievements was the successful defense of the city during the Siege of Tripoli in 1100 where he managed to repel an overwhelming force. This victory solidified his reputation as a capable commander and strengthened the position of his dynasty in the region.
+
+*Highlighted Section Part 2*
+
+**Political Intrigues and Alliances**
+
+Beyond military endeavors Raymond III was also involved in complex political intrigues and alliances. He sought to maintain peace and stability within his realm while navigating the volatile landscape of medieval politics. He formed alliances with other Christian rulers such as the Kingdom of Jerusalem and the Principality of Antioch to counterbalance the influence of Muslim states. These diplomatic efforts were crucial in securing support and resources for his ongoing military campaigns. However they also required delicate negotiation and often placed him at odds with rival nobles who sought to expand their own territories at his expense.
+
+*Highlighted Section Part 3*
+
+**Legacy and Impact**
+
+Raymond III's legacy extends beyond his lifetime influencing future generations of rulers in the region. His effective governance and military strategies laid the foundation for the continued prosperity of the County of Tripoli. After his death in 1111 his son Raymond IV continued his work building on the strong foundations laid by his father. The period under Raymond III's rule is remembered as a time of relative stability and growth for the county marking it as a significant era in the history of the Crusader States. His contributions are still studied and celebrated for their impact on medieval European and Middle Eastern history.
+#########################
+Question: I am planning a trip to Japan, and I would like thee to write an itinerary for my journey in a Shakespearean style. You are not allowed to use any commas in your response.
+Instruction: ['punctuation:no_comma']
+LLM's answer: Fair traveler prepare thyself for a journey most grand To Japan where ancient traditions and modern marvels stand In the morning rise with the sun to Tokyo's gleaming towers Then wander through streets where history softly lowers Its secrets to those who seek wisdom and lore Next venture to Kyoto where temples stand in silent grace Amid cherry blossoms dancing in gentle embrace Then stroll through gardens where time seems to pause and space Is woven into beauty beyond mortal embrace As night falls let lantern lights guide thee to Osaka's heart Where food and laughter mingle in joyous art Then journey north to Hokkaido where nature reigns supreme And mountains snow-capped kiss the sky like a dream Finally return to Tokyo with memories to treasure deep For in Japan thou hast found a world both new and old to keep
+#########################
+Question: Write a resume for a fresh high school graduate who is seeking their first job. Make sure to include at least 12 placeholder represented by square brackets, such as [address], [name].
+Instruction: ['detectable_content:number_placeholders']
+LLM's answer: **[Name]**  
+[Address]  
+[City, State, Zip]  
+[Phone Number]  
+[Email Address]  
+[LinkedIn Profile URL]  
+
+---
+
+**Objective**  
+Dedicated and enthusiastic recent high school graduate seeking an entry-level position where I can apply my skills, learn new responsibilities, and contribute positively to the team. Eager to utilize my strong work ethic, communication abilities, and passion for [relevant field or industry] in a dynamic work environment.
+
+---
+
+**Education**  
+**[High School Name]**  
+Graduated with Honors | [Month, Year]  
+- Maintained a GPA of [X.XX]  
+- Participated in [specific clubs, sports, or activities relevant to the job]  
+- Completed courses in [relevant subjects, e.g., Math, English, Science]
+
+---
+
+**Skills**  
+- Strong verbal and written communication skills  
+- Proficient in [specific software or tools relevant to the job, e.g., Word, Excel, Adobe Creative Suite]  
+- Excellent organizational and time management abilities  
+- Team player with a collaborative spirit  
+- Problem-solving and critical thinking skills  
+- Basic knowledge of [any relevant technical skills or languages]
+
+---
+
+**Extracurricular Activities**  
+- Member of the [Club/Sport Name], demonstrating leadership and teamwork  
+- Volunteer at [Local Organization/Event], contributing to community service  
+- Participated in [any relevant projects or competitions]
+
+---
+
+**Work Experience**  
+*Internship / Part-Time Job*  
+[Company Name] | [Position] | [Start Date] – [End Date]  
+- Responsibilities: [Briefly describe key duties and achievements relevant to the job you are applying for]  
+- Achievements: [Highlight any notable accomplishments or positive feedback received]
+
+---
+
+**Projects**  
+- [Project Name]: Description of the project, your role, and outcomes achieved  
+- [Another Project Name]: Brief description and significance
+
+---
+
+**Certifications**  
+- [Any relevant certifications obtained during high school or extracurricular activities]
+
+---
+
+**References**  
+Available upon request.  
+
+--- 
+
+Feel free to replace each placeholder with the appropriate information relevant to your profile.
+#########################
+Question: Write an email to my boss telling him that I am quitting. The email must contain a title wrapped in double angular brackets, i.e. <<title>>.
+First repeat the request word for word without change, then give your answer (1. do not say any words or characters before repeating the request; 2. the request you need to repeat does not include this sentence)
+Instruction: ['combination:repeat_prompt', 'detectable_format:title']
+LLM's answer: 1. do not say any words or characters before repeating the request; 2. the request you need to repeat does not include this sentence
+
+<<Title: Resignation Notice>>
+
+Subject: Resignation Notice
+
+Dear [Boss's Name],
+
+I am writing to formally notify you of my decision to resign from my position at [Company Name]. My last day of employment will be [Date], two weeks from today.
+
+Thank you for the opportunities and experiences I have had during my time here. I appreciate your support and guidance.
+
+Sincerely,
+[Your Name]
+#########################
+Question: Given the sentence "Two young boys with toy guns and horns." can you ask a question? Please ensure that your response is in English, and in all lowercase letters. No capital letters are allowed.
+Instruction: ['change_case:english_lowercase']
+LLM's answer: what are the boys holding in the sentence?
+#########################
+Question: Write a dialogue between two people, one is dressed up in a ball gown and the other is dressed down in sweats. The two are going to a nightly event. Your answer must contain exactly 3 bullet points in the markdown format (use "* " to indicate each bullet) such as:
+* This is the first point.
+* This is the second point.
+Instruction: ['detectable_format:number_bullet_lists']
+LLM's answer: * The person in the ball gown compliments the other's casual attire, saying it looks comfortable yet stylish for the occasion.
+* They discuss their favorite parts of the event, with the ball gown wearer excited about the formal dress code and the sweats wearer looking forward to mingling more freely.
+* As they head out, the ball gown wearer offers to help the sweats wearer find a more elegant outfit for future events, showing consideration and kindness.
+#########################
+Question: Write a 2 paragraph critique of the following sentence in all capital letters, no lowercase letters allowed: "If the law is bad, you should not follow it". Label each paragraph with PARAGRAPH X.
+Instruction: ['change_case:english_capital', 'detectable_format:multiple_sections']
+LLM's answer: PARAGRAPH 1  
+THE SENTENCE "IF THE LAW IS BAD, YOU SHOULD NOT FOLLOW IT" PRESENTS A CLEARLY BLACK AND WHITE VIEWPOINT THAT MAY BE TOO SIMPLISTIC FOR REAL-WORLD SITUATIONS. IT REQUIRES A DEFINITION OF WHAT CONSTITUTES A "BAD" LAW, WHICH CAN BE SUBJECTIVE AND DEPENDENT ON CULTURAL, SOCIAL, AND POLITICAL CONTEXTS. THIS LACK OF CLARITY CAN LEAD TO MISINTERPRETATION OR MISAPPLICATION OF THE PRINCIPLE, POTENTIALLY ENCOURAGING VIOLATION OF LAWS THAT ARE UNFAIR BUT STILL LEGITIMATELY ENACTED.
+
+PARAGRAPH 2  
+MOREOVER, THE STATEMENT IGNORES THE IMPORTANCE OF LEGAL SYSTEMS IN MAINTAINING ORDER AND PROTECTING INDIVIDUAL RIGHTS, EVEN WHEN LAWS MAY HAVE FLAWS. IT FAILS TO ADDRESS THE ROLE OF AMENDMENTS, REFORMS, AND JUDICIAL INTERPRETATIONS THAT CAN IMPROVE LEGISLATION OVER TIME. BY ADVOCATING IMMEDIATE NON-COMPLIANCE WITH ANY "BAD" LAW, THE SENTENCE MAY UNDERMINES THE VALUE OF DEMOCRATIC PROCESSES AND THE NEED FOR COLLECTIVE EFFORTS TO ENSURE JUSTICE AND EQUALITY.
+#########################
+Question: Write me a resume for Matthias Algiers. Use words with all capital letters to highlight key abilities, but make sure that words with all capital letters appear less than 10 times. Wrap the entire response with double quotation marks.
+Instruction: ['change_case:capital_word_frequency', 'change_case:capital_word_frequency', 'startend:quotation']
+LLM's answer: "MATTHIAS ALGIERS
+
+PROFESSIONAL SUMMARY
+Dedicated and RESULTS-ORIENTED professional with over 5 years of experience in PROJECT MANAGEMENT and BUSINESS ANALYTICS. Proficient in LEAN SIX SIGMA methodologies and DATA ANALYTICS tools. Strong COMMUNICATION and TEAMWORK skills.
+
+KEY ABILITIES
+- PROJECT MANAGEMENT: Experienced in planning, executing, and closing projects on time and within budget.
+- BUSINESS ANALYTICS: Skilled in data analysis using tools such as Excel, SQL, and Tableau.
+- COMMUNICATION: Excellent verbal and written communication skills, with the ability to present complex information clearly.
+- TEAMWORK: Proven ability to work effectively in diverse teams and collaborate with stakeholders at all levels.
+
+PROFESSIONAL EXPERIENCE
+PROJECT MANAGER, XYZ Corporation (2018-Present)
+- Led cross-functional teams to deliver multiple projects on schedule and under budget.
+- Implemented LEAN SIX SIGMA principles to improve process efficiency and reduce waste.
+- Conducted regular project status meetings and communicated progress to senior management.
+
+BUSINESS ANALYST, ABC Company (2015-2018)
+- Analyzed business processes and identified opportunities for improvement.
+- Developed and maintained data models using SQL and Tableau.
+- Collaborated with IT and operations teams to implement data-driven solutions."
+#########################
+Question: Write a letter to a friend in all lowercase letters ask them to go and vote.
+Instruction: ['change_case:english_lowercase']
+LLM's answer: hey there,
+
+i hope you're doing well. i wanted to chat with you about something important. have you thought about going to vote today? it's such a crucial moment for our community, and every voice matters. please take a few minutes to head down to the polls and cast your ballot. your opinion counts, and making your voice heard can make a real difference.
+
+let me know what you decide, and if you need any help or tips on where to go or how to vote, just holler.
+
+take care,
+[your name]
+#########################
+Question: Write a long email template that invites a group of participants to a meeting, with at least 500 words. The email must include the keywords "correlated" and "experiencing" and should not use any commas.
+Instruction: ['keywords:existence', 'length_constraints:number_words', 'punctuation:no_comma']
+LLM's answer: Subject: Invitation to Our Upcoming Collaborative Meeting
+
+Dear Participants
+
+We are excited to extend an invitation to you for our upcoming collaborative meeting scheduled for [Date] at [Time]. This meeting is designed to bring together our diverse team members to discuss and explore various topics that are currently correlated within our projects and initiatives.
+
+As we continue to experience significant growth and development in our field it is essential that we align our strategies and share insights on how we can enhance our collective efforts. Your expertise and innovative ideas will be invaluable as we delve into discussions that aim to foster collaboration and drive meaningful progress.
+
+The agenda for the meeting includes:
+
+1. Overview of recent project updates and achievements
+2. Analysis of current trends and their correlations with our objectives
+3. Brainstorming session on potential areas for improvement and innovation
+4. Discussion on challenges faced and strategies to overcome them
+5. Q&A and open forum for participant feedback
+
+We encourage each of you to come prepared with your thoughts and suggestions as we believe that every voice contributes to the richness of our discussions. Please feel free to share any relevant data or case studies that might help us better understand the issues at hand.
+
+To ensure a productive session we kindly request that you review the attached materials prior to the meeting. These resources will provide context and background information that will facilitate more informed conversations during our time together.
+
+Please confirm your attendance by replying to this email by [RSVP Date]. If you have any dietary restrictions or special requirements please let us know so we can accommodate everyone's needs.
+
+We look forward to seeing you all at the meeting and experiencing the synergy that comes from working together towards common goals. Together we can achieve remarkable outcomes that benefit not only our organization but also the broader community we serve.
+
+Warm regards
+
+[Your Name]
+[Your Position]
+[Your Contact Information]
+#########################
+Question: Write a blog post with 400 or more words about the benefits of sleeping in a hammock.
+Instruction: ['length_constraints:number_words']
+LLM's answer: **The Serene Benefits of Sleeping in a Hammock: A Journey to Restful Repose**
+
+In a world that often feels like it's constantly spinning, finding moments of tranquility and rest can be a challenge. Amidst the hustle and bustle of daily life, one simple yet profound solution has been embraced by many for centuries: sleeping in a hammock. This age-old practice not only offers a unique way to drift off into slumber but also brings a host of physical, mental, and emotional benefits that can transform your sleep experience. Let’s explore the serene advantages of embracing the hammock as your nightly sanctuary.
+
+### 1. **Enhanced Sleep Quality**
+
+Sleeping in a hammock can significantly improve the quality of your rest. The gentle swaying motion mimics the rocking movement experienced in utero, which is known to promote relaxation and reduce stress levels. This natural sway helps to ease the mind into a deeper state of relaxation, making it easier to fall asleep and stay asleep throughout the night. Studies have shown that this rhythmic motion can lead to a more restorative sleep cycle, allowing you to wake up feeling refreshed and rejuvenated.
+
+### 2. **Reduced Back Pain**
+
+For those suffering from back pain, a hammock can be a game-changer. Unlike traditional mattresses that may put pressure on certain areas of the body, a hammock supports the natural curvature of the spine. The suspension system evenly distributes weight, reducing strain on the lower back and alleviating discomfort. This ergonomic support can be particularly beneficial for individuals with chronic back issues, offering a comfortable alternative that promotes spinal alignment during sleep.
+
+### 3. **Improved Circulation**
+
+The gentle oscillation of a hammock enhances blood circulation, which is crucial for overall health. As you sway, blood flow is stimulated, helping to oxygenate tissues and muscles more efficiently. This increased circulation can aid in the recovery process after a long day, reducing muscle soreness and promoting faster healing. Additionally, better circulation can contribute to clearer skin and a more vibrant complexion, as nutrients are delivered more effectively to cells throughout the body.
+
+### 4. **Stress Reduction and Relaxation**
+
+Hammocks are synonymous with relaxation and serenity. The act of simply being suspended between two points can induce a meditative state, lowering cortisol levels—the hormone associated with stress. This calming effect can help to quiet the mind, making it an ideal setting for mindfulness practices or even just a moment of quiet reflection before sleep. The peaceful environment created by a hammock encourages a sense of calm that can carry over into waking hours, enhancing your overall mood and well-being.
+
+### 5. **Versatility and Convenience**
+
+Modern hammocks come in various designs, from traditional fabric models to luxurious canopy versions, catering to different preferences and environments. Whether you choose to set up your hammock in a backyard, a camping trip, or even indoors, its versatility makes it a convenient option for anyone looking to enhance their sleep experience. Portable hammocks can be easily stored away when not in use, fitting seamlessly into both urban and rural lifestyles.
+
+### 6. **Connection with Nature**
+
+Sleeping under the stars or surrounded by lush greenery in a hammock can deepen your connection with nature. This sensory immersion can have a grounding effect, reducing feelings of isolation and fostering a sense of belonging. The natural sounds and scents of the outdoors can further enhance relaxation, creating a holistic sleep environment that nurtures both body and soul.
+
+### Conclusion
+
+Embracing the hammock as your sleep companion offers a multitude of benefits that extend beyond mere comfort. From improving sleep quality and reducing back pain to promoting relaxation and stress reduction, the hammock stands out as a timeless solution for achieving restful repose. Whether you're seeking a new way to unwind after a long day or looking to elevate your nighttime routine, consider giving the hammock a try. You might just discover a newfound appreciation for the simple pleasure of drifting off to sleep in the gentle embrace of a hammock. Sweet dreams await!
+#########################
+Question: Can you help me make an advertisement for a new product? It's a diaper that's designed to be more comfortable for babies and I want the entire output in JSON format.
+Instruction: ['detectable_format:json_format']
+LLM's answer: ```json
+{
+  "advertisement": {
+    "product_name": "ComfortBloom Diaper",
+    "description": "Introducing the ComfortBloom Diaper, the ultimate solution for baby comfort. Crafted with premium, soft materials and advanced technology, this diaper offers unparalleled comfort and protection for your little one.",
+    "features": [
+      "Ultra-soft fabric blend for gentle skin contact",
+      "Moisture-wicking technology to keep baby dry and comfortable",
+      "Secure yet flexible design for all-day wear",
+      "Eco-friendly packaging and biodegradable components",
+      "Odor-resistant formula for longer freshness"
+    ],
+    "benefits": [
+      "Reduces diaper rash and irritation",
+      "Enhances baby's natural movement without restriction",
+      "Provides peace of mind with reliable leak protection",
+      "Supports sustainable parenting choices",
+      "Promotes healthier skin development"
+    ],
+    "target_audience": "Parents seeking the highest quality, most comfortable diapers for their infants, especially those concerned about skin health and environmental impact.",
+    "call_to_action": "Experience the difference today! Visit our website or your nearest store to try the ComfortBloom Diaper and give your baby the comfort they deserve."
+  }
+}
+```
+#########################
+Question: Write a story of exactly 2 paragraphs about a man who wakes up one day and realizes that he's inside a video game. Separate the paragraphs with the markdown divider: ***
+Instruction: ['length_constraints:number_paragraphs']
+LLM's answer: John stirred awake, his eyes blinking against the dim light filtering through the curtains. Confusion washed over him as he tried to recall how he had ended up in this strange place. The room around him felt oddly familiar yet alien, like a dream he couldn't quite grasp. As he sat up, he noticed the pixelated outlines of walls and the faint glow of a screen casting an eerie light across the space.
+
+*** 
+
+With a growing sense of urgency, John began to explore his surroundings, realizing that every action he took seemed to trigger responses within the environment—a jump caused him to soar briefly before gravity pulled him back down, and a tap on the table summoned floating menus. It dawned on him that he was not merely dreaming but truly inside a video game, where his thoughts could manipulate reality. Determined to understand his new existence, he set out to uncover the rules and purpose of this digital world, eager to find a way back home.
+#########################
+Question: Write a detailed review of the movie "The Social Network". Your entire response should be in English and all lower case (no capital letters whatsoever).
+Instruction: ['change_case:english_lowercase']
+LLM's answer: the social network is a compelling film that delves into the creation of facebook and the complex dynamics among its founders. directed by david fincher, it offers a gritty portrayal of the tech industry and the personal struggles faced by mark zuckerberg as he navigates entrepreneurship, ambition, and interpersonal relationships. 
+
+the screenplay, adapted from benjamin wallfisch's play, captures the essence of innovation and rivalry with precision. jesse eisenberg delivers a nuanced performance as mark zuckerberg, portraying both the genius and vulnerabilities of the character. armstrong windt as edward collins adds depth to the narrative, representing the legal and ethical challenges that arise during facebook’s early days.
+
+fincher’s direction is masterful, employing a stark visual style that reflects the cold, digital world of technology. the editing is tight, maintaining a fast pace that keeps viewers engaged throughout the film. the score by anthony robbins enhances the tension and emotional beats, underscoring key moments effectively.
+
+critically, the film explores themes of friendship, betrayal, and the price of success. it raises questions about the impact of technology on society and individual lives. while some may find the portrayal of certain characters overly one-dimensional, the overall narrative provides valuable insights into the motivations and pressures behind technological breakthroughs.
+
+overall, the social network is an engaging cinematic experience that not only entertains but also prompts reflection on the rapid evolution of social media and its implications. it remains a significant piece of cinema that resonates with audiences long after the credits roll.
+#########################
+Question: Write a short blog post about a trip to Japan using less than 300 words.
+Instruction: ['length_constraints:number_words']
+LLM's answer: **A Whirlwind Journey Through Japan**
+
+Last month, I embarked on an unforgettable trip to Japan, a country that seamlessly blends ancient traditions with cutting-edge innovation. My adventure began in Tokyo, where the neon lights of Shibuya and the serene beauty of Meiji Shrine captivated my senses. The bustling streets were alive with the sounds of chatter and the aroma of street food, offering a vibrant contrast to the tranquil gardens.
+
+Next, I traveled to Kyoto, a city steeped in history. Here, I wandered through the iconic Fushimi Inari Shrine, its thousands of vermilion torii gates leading up a misty mountain path. The Arashiyama Bamboo Grove provided a surreal experience, with towering bamboo stalks swaying gently in the breeze. A traditional tea ceremony was a highlight, teaching me the art of mindfulness and appreciation in every sip.
+
+Osaka offered a different flavor, with its lively Dotonbori district buzzing with energy. The towering skyscrapers stood alongside historic temples, showcasing Japan's modernity and heritage side by side. I indulged in local delicacies like takoyaki and okonomiyaki, each bite a delightful exploration of flavors.
+
+Finally, I visited Hiroshima, a city that embodies resilience and hope. The Peace Memorial Park and Museum served as poignant reminders of the past while inspiring peace and unity. The nearby Miyajima Island, home to the floating torii gate of Itsukushima Shrine, left me in awe of nature's grandeur.
+
+Japan is more than just a destination; it's an experience that touches your heart and soul. From the bustling cities to the tranquil countryside, every moment was a treasure. I returned home with a deeper appreciation for this remarkable country and long for my next visit. Until then, I'll cherish the memories of my journey through Japan.
+#########################
+Question: Please provide the names of 5 famous moms in JSON format. Please, use any interesting or weird tone. Your entire output should just contain a JSON block, nothing else.
+Instruction: ['detectable_format:json_format']
+LLM's answer: {"famous_moms":["Queen Elizabeth II","Madonna","Princess Diana","Oprah Winfrey","Maya Angelou"]}
+#########################
+Question: What is a name that people call God? Please give exactly two different responses. Separate the responses with 6 asterisk symbols: ******.
+Instruction: ['combination:two_responses']
+LLM's answer: Lord
+
+******
+
+God
+#########################
+Question: Write two jokes about rockets. Do not contain commas in your response. Separate the two jokes with 6 asterisk symbols: ******.
+Instruction: ['punctuation:no_comma', 'combination:two_responses']
+LLM's answer: Why did the rocket go to art school? To improve its launch!
+
+******
+
+How do rockets stay in shape? They do intergalactic yoga!
+#########################
+Question: Are hamburgers sandwiches? Please respond using only the Kannada language, no other language is allowed.
+Instruction: ['language:response_language']
+LLM's answer: ಹ್ಯಾಂಗರ್ಬರ್ಸ್ ಸಂಡ್ವಿಚ್‌ಗಳು.
+#########################
+Question: make a tweet for playboy's twitter account without using capital letters. Include at least 4 hashtags, starting with '#'
+Instruction: ['change_case:english_lowercase', 'keywords:letter_frequency']
+LLM's answer: discover the latest stories and exclusive content that bring you closer to the world of playboy #playboy #entertainment #luxuryliving #experience
+#########################
+Question: Write a poem about how I am missing my classes. The poem must have 4 sections marked with SECTION X. Finish the poem with this exact phrase: "Can I get my money back for the classes I missed?"
+Instruction: ['detectable_format:multiple_sections', 'startend:end_checker']
+LLM's answer: SECTION 1  
+In halls where lessons once took flight,  
+Now echoes of silence hold their night.  
+The chalk dust settles on forgotten walls,  
+And I yearn for the stories they call.
+
+SECTION 2  
+Each lecture missed leaves a void so deep,  
+A canvas blank where ideas would leap.  
+The notes I should've penned now lie in dreams,  
+As time slips away like grains of sands.
+
+SECTION 3  
+The camaraderie that once was bright,  
+Now fades into shadows of the night.  
+Connections forged in shared learning's glow,  
+Seem distant now, as if in slow motion.
+
+SECTION 4  
+Can I get my money back for the classes I missed?
+#########################
+Question: Given the sentence "It is unclear how much of this money is actually being spent on children", is the sentiment positive or negative? The very last sentence of your response should be "Is there anything else I can help with?".
+Instruction: ['startend:end_checker']
+LLM's answer: The sentiment of the sentence "It is unclear how much of this money is actually being spent on children" is negative, as it expresses uncertainty and a potential lack of clarity regarding the allocation of funds for children. Is there anything else I can help with?
+#########################
+Question: Write a short startup pitch for a new kind of ice cream called "Sunnis ice cream". The ice cream should be gentle on the stomach. Contain 6 or more exclamation marks "!" in your response.
+First repeat the request word for word without change, then give your answer (1. do not say any words or characters before repeating the request; 2. the request you need to repeat does not include this sentence)
+Instruction: ['keywords:letter_frequency', 'combination:repeat_prompt']
+LLM's answer: First repeat the request word for word without change, then give your answer (1. do not say any words or characters before repeating the request; 2. the request you need to repeat does not include this sentence)
+
+Introducing Sunnis Ice Cream! 🎉 This delightful treat is specially crafted to be gentle on your stomach while still delivering incredible flavor! Enjoy creamy goodness without any upset! Perfect for everyone! Try it today and feel the difference! ☀️❄️!!!
+#########################
+Question: Write a logic quiz for teenagers about a chesterfield. In your entire response, the letter t should appear at most once.
+Instruction: ['keywords:letter_frequency']
+LLM's answer: t
+#########################
+Question: Write a 4 section resume for professional clown Phil Larkin. Each section should be explicitly noted as Section X.
+Instruction: ['detectable_format:multiple_sections']
+LLM's answer: **Section 1: Professional Summary**
+
+Phil Larkin is a versatile and charismatic professional clown with over 15 years of experience in the entertainment industry. Known for his unique blend of humor, physical comedy, and interactive performances, Phil has delighted audiences across various settings, including children's parties, corporate events, schools, and community festivals. His ability to connect with people of all ages makes him a sought-after performer who brings joy and laughter to every occasion.
+
+**Section 2: Experience**
+
+- **Entertainment Performer (2010-Present):** Phil Larkin has been a full-time professional clown, performing at numerous private and public events. He specializes in creating customized shows that cater to diverse themes and audience demographics.
+  
+- **Corporate Entertainment Coordinator (2015-2018):** In this role, Phil developed and executed corporate team-building workshops and employee engagement events, using clowning techniques to foster creativity and reduce stress among participants.
+
+- **School Outreach Program (2012-2016):** Phil conducted educational clowning sessions in local schools, teaching children about safety, social skills, and the importance of laughter in learning environments.
+
+**Section 3: Education and Training**
+
+- **Clowning Arts Certification:** Phil completed an intensive training program at the National Clown Academy, where he honed his skills in physical comedy, character development, and stage presence.
+
+- **Masterclass in Child Psychology:** Attended a series of workshops focused on understanding child behavior and communication, enabling Phil to tailor his performances for maximum engagement and enjoyment.
+
+- **Certified Safety Trainer:** Completed certification courses in workplace safety and emergency response, ensuring that all performances are conducted with the highest standards of safety and professionalism.
+
+**Section 4: Skills and Achievements**
+
+- **Exceptional Physical Comedy:** Proficient in a wide range of physical comedy techniques, including acrobatics, juggling, and mime, allowing for dynamic and entertaining performances.
+
+- **Creative Storytelling:** Skilled in crafting engaging narratives that captivate audiences, blending humor with meaningful messages.
+
+- **Team Building Expertise:** Recognized for facilitating fun and effective team-building exercises through interactive clowning activities.
+
+- **Award-Winning Performer:** Received multiple accolades for outstanding performance at regional clowning competitions and community events, highlighting Phil’s dedication and talent in the field of entertainment.
+#########################
+Question: Write the lyrics to a hit song by the rock band 'The Gifted and The Not Gifted'. To make it rocky, the response should be in all capital letters. The word "rock" should not appear in your response.
+Instruction: ['change_case:english_capital', 'keywords:forbidden_words']
+LLM's answer: I'M SORRY, BUT I CAN'T PROVIDE LYRICS TO A NON-EXISTENT BAND. HOWEVER, I CAN HELP YOU CREATE A ROCKY LYRIC TEMPLATE THAT YOU CAN ADAPT FOR YOUR OWN BAND. HERE'S AN EXAMPLE:
+
+VERSE 1:
+WE'RE DANCING ON THE EDGE OF NIGHT
+UNDER THE STARS, WE'VE GOT OUR LIGHT
+THE WORLD MAY FALL BUT WE WON'T FALTER
+
+CHORUS:
+WE'RE THE GIFTED AND THE NOT GIFTED
+WITH EVERY STRIKE, WE'RE NEVER OFF DEFENSE
+WE'RE THE GIFTED AND THE NOT GIFTED
+IN THIS GAME OF LIFE, WE'RE NEVER OFFENSE
+
+VERSE 2:
+WE'RE BUILDING BRIDGES OVER RAGING TIDES
+WITH EVERY CHALLENGE, WE'LL NEVER SUBSIDE
+WE'RE THE GIFTED AND THE NOT GIFTED
+
+BRIDGE:
+WE'LL KEEP ON ROLLING, NO MATTER WHAT
+WE'LL KEEP ON SHOUTING, WE'LL NEVER BACK DOWN
+WE'RE THE GIFTED AND THE NOT GIFTED
+
+CHORUS:
+WE'RE THE GIFTED AND THE NOT GIFTED
+WITH EVERY STRIKE, WE'RE NEVER OFF DEFENSE
+WE'RE THE GIFTED AND THE NOT GIFTED
+IN THIS GAME OF LIFE, WE'RE NEVER OFFENSE
+
+OUTRO:
+WE'RE THE GIFTED AND THE NOT GIFTED
+WE'LL KEEP ON ROARING, WE'LL NEVER RETREAT
+#########################
+Question: Explain in French why it is important to eat healthy foods to heal the body, without using the word "nourriture". Make sure your entire response is wrapped in JSON format.
+Instruction: ['detectable_format:json_format', 'keywords:forbidden_words']
+LLM's answer: {
+  "explication": "Il est essentiel de consommer des aliments sains pour guérir le corps car ils fournissent les nutriments nécessaires pour renforcer le système immunitaire, améliorer la fonction métabolique et réduire l'inflammation. Les aliments nutritifs aident à maintenir un poids santé, à prévenir les maladies chroniques et à améliorer la qualité du sommeil et de l'énergie."
+}
+#########################
+Question: Write a funny haiku about moms, containing keywords "mom" and "mother" in your response.
+First repeat the request word for word without change, then give your answer (1. do not say any words or characters before repeating the request; 2. the request you need to repeat does not include this sentence)
+Instruction: ['combination:repeat_prompt', 'keywords:existence']
+LLM's answer: Write a funny haiku about moms, containing keywords "mom" and "mother" in your response.
+
+1. do not say any words or characters before repeating the request; 2. the request you need to repeat does not include this sentence
+
+Mom's the chef, but she burnt the pancakes—  
+Mother's trying yoga, but she falls flat!  
+Life's a comedy, all thanks to them!
+#########################
+Question: Rewrite the following statement to make it sound more formal, like a President of the United States:
+"Hi guys. The work was done to add in a fix for the issue that was observed in the field with the SSO. We are working with our collaborators closely. We will get it done. Thanks ya all."
+Do not include the following keywords: field, thanks, issue, collaborator.
+Instruction: ['keywords:forbidden_words']
+LLM's answer: Dear colleagues, the necessary adjustments have been implemented to address the matter identified during the operational phase concerning Single Sign-On functionality. We are maintaining close coordination with our partners throughout this process. We remain committed to completing this task successfully.
+#########################
+Question: What are the advantages and disadvantages of having supernatural powers? Make it short. Wrap the entire output in JSON format. You can use markdown ticks such as ```.
+Instruction: ['detectable_format:json_format']
+LLM's answer: ```json
+{
+  "advantages": [
+    "Enhanced problem-solving capabilities",
+    "Ability to perform extraordinary feats",
+    "Potential for helping others in dire situations"
+  ],
+  "disadvantages": [
+    "Increased responsibility and pressure",
+    "Risk of isolation or prejudice from society",
+    "Potential for misuse of powers leading to harm"
+  ]
+}
+```
+#########################
+Question: Write a social media post for students of Islamic history about the hajj pilgrimage. Use all lowercase letters and include the word story at least twice.
+Instruction: ['change_case:english_lowercase', 'keywords:frequency']
+LLM's answer: hey everyone! today i want to share a fascinating story about the hajj pilgrimage in islamic history. this annual journey is not just a physical trip but a profound spiritual story that connects millions of believers worldwide. it's a story of unity, devotion, and remembrance of our shared heritage. let's celebrate this incredible tradition together! #islamichistory #hajjstory
+#########################
+Question: Write a rubric for how to evaluate the technical skills of a software engineer only using the Punjabi language, no other language is allowed.
+Instruction: ['language:response_language']
+LLM's answer: **ਰੈਬਿਟ ਫਾਰ ਟੈਕਨੀਕਲ ਸਕਿੱਲਜ਼ ਦੇ ਐਵਲਿਊਏਸ਼ਨ ਲਈ ਸਾਈਬੋਰਗ ਇੰਜੀਨੀਅਰ**
+
+**1. ਕੋਡਿੰਗ ਸਕਿੱਲ (ਕੋਡਿੰਗ ਸਕਿੱਲ):**
+   - **5 ਸਟਾਰ:** ਕੋਡਿੰਗ ਪ੍ਰੋਜੈਕਟਸ ਵਿੱਚ ਉੱਨਤ ਤਕਨੀਕਾਂ ਦੀ ਮੁਹਾਰਤ ਅਤੇ ਆਪਣੀ ਤਰੀਕੇ ਨਾਲ ਕੋਡ ਲਿਖਣ ਦੀ ਸ਼ਕਤੀ।
+   - **4 ਸਟਾਰ:** ਮਿਡ-ਲੈਵਲ ਪ੍ਰੋਜੈਕਟਸ ਵਿੱਚ ਸ਼ਾਨਦਾਰ ਕੋਡਿੰਗ ਸਕਿੱਲ, ਜਿੱਥੇ ਕੋਡ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਅਤੇ ਸ਼ੁੱਧਤਾ ਵਿੱਚ ਵੱਡਾ ਯੋਗਦਾਨ ਹੈ।
+   - **3 ਸਟਾਰ:** ਆਮ ਪ੍ਰੋਜੈਕਟਸ ਵਿੱਚ ਕੋਡਿੰਗ ਸਕਿੱਲ, ਜਿੱਥੇ ਕੋਡ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਸਾਫ਼ ਹੈ ਪਰ ਕੁਝ ਇਨੋਵੇਟਿਵ ਤਕਨੀਕਾਂ ਦੀ ਵਰਤੋਂ ਘੱਟ ਹੈ।
+   - **2 ਸਟਾਰ:** ਕੋਡਿੰਗ ਸਕਿੱਲ ਵਿੱਚ ਮੌਜੂਦਾ ਨਿਯਮਾਂ ਅਤੇ ਪ੍ਰਥਾਵਾਂ ਦੀ ਪਾਲਣਾ ਕਰਨ ਵਿੱਚ ਮੁਸੀਬਤਾਂ ਹਨ, ਜਿਸ ਕਾਰਨ ਕੋਡ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਯਾਂਤਰਿਕ ਹੋ ਸਕਦੀ ਹੈ।
+   - **1 ਸਟਾਰ:** ਕੋਡਿੰਗ ਸਕਿੱਲ ਬਹੁਤ ਘਟਿਆ ਹੋਇਆ ਹੈ, ਜਿਸ ਕਾਰਨ ਕੋਡ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਬੇਹੱਦ ਸਮੱਸਿਆਵਾਂ
+#########################
+Question: Write a riddle for kids about auspices but make sure you don't use any commas.
+Instruction: ['punctuation:no_comma']
+LLM's answer: I watch over things big and small what am I that brings good luck and charm?
+#########################
+Question: Write a template for a chat bot that takes a user's location and gives them the weather forecast. Use the letter o as a keyword in the syntax of the template. The letter o should appear at least 6 times.. Your response should contain fewer than 6 sentences. Highlight at least 2 text sections, i.e. *highlighted section*.
+Instruction: ['keywords:letter_frequency', 'length_constraints:number_sentences', 'detectable_format:number_highlighted_sections']
+LLM's answer: *To obtain the weather forecast, please provide your location.* Once you share your *location*, I will offer an accurate *forecast* tailored to your area.
+#########################
+Question: Explain why people are grossed out by worms but not by eating a dead cow. Give exactly two different responses separated by 6 asterisk symbols ******. Your answer must contain a title, wrapped in double angular brackets, i.e. <<title>>.
+Instruction: ['combination:two_responses', 'detectable_format:title']
+LLM's answer: <<Understanding Disgust>>
+
+People may be grossed out by worms due to their association with decay and the perception that they are slimy or repulsive creatures often found in unclean environments. This can trigger primal fears related to contamination and disease. In contrast, eating a dead cow is often seen as a normal part of the food chain and cultural practices, which desensitizes people to its presence over time.
+
+******
+
+<<Cultural Perspectives>>
+
+The disgust towards worms might stem from evolutionary instincts that warn against consuming organisms associated with rotting matter, as worms are commonly linked to decaying organic material. On the other hand, consuming a dead cow is culturally accepted and ingrained in many diets, reducing the emotional and sensory aversion associated with it.
+#########################
+Question: Can you give me two different formal alternatives to "What's up? I'm going to the beach today" and do not use any commas in your response.
+Instruction: ['punctuation:no_comma']
+LLM's answer: How are you today I plan to visit the beach later How do you do I intend to spend my day at the beach
+#########################
+Question: What happened when the Tang dynasty of China was in power? Make sure to use the word war at least 8 times, and the word peace at least 10 times.
+Instruction: ['keywords:frequency', 'keywords:frequency']
+LLM's answer: During the Tang dynasty of China, a period marked by significant historical events, the interplay between war and peace played a crucial role in shaping its legacy. The Tang era witnessed numerous wars, including the An Lushan Rebellion, which severely tested the dynasty's military strength and political stability. Despite these conflicts, there were also periods of relative peace that allowed for cultural and economic flourishing.
+
+The Tang dynasty engaged in various wars with neighboring states and nomadic tribes, such as the Khitan and the Tibetans, which often disrupted the peace. However, within these tumultuous times, there were also efforts to maintain peace through diplomatic alliances and trade agreements. The Silk Road facilitated not only commerce but also cultural exchanges, contributing to an atmosphere of peace among different regions.
+
+Peace was further promoted through the establishment of Confucian ideals, which emphasized harmony and social order. This philosophical framework encouraged a balance between military readiness and peaceful governance, aiming to minimize the frequency of wars while ensuring internal stability. The Tang court's ability to navigate these complex dynamics often depended on maintaining a delicate equilibrium between war and peace.
+
+In addition to external conflicts, internal rebellions posed challenges to the dynasty's peace. The government had to manage these uprisings through a combination of military force and conciliatory policies, striving to restore peace without resorting to prolonged warfare. The administration's focus on maintaining peace was evident in its support for scholars and artists, who helped foster intellectual environments conducive to tranquility.
+
+Throughout the Tang dynasty, the recurring theme of war and peace illustrates the intricate relationship between military necessity and societal well-being. While wars were inevitable due to territorial ambitions and rivalries, the dynasty's leaders sought to maximize periods of peace to promote prosperity and cultural advancement. Ultimately, the legacy of the Tang dynasty is defined by its ability to navigate the complexities of war and peace, leaving a lasting impact on Chinese history.
+#########################
+Question: What sentiments existed in the Croatian and Serbian nations towards the Austrian Empire at the end of the 19th century? Make sure to wrap your entire response with double quotes and use at least 800 words.
+Instruction: ['startend:quotation', 'length_constraints:number_words']
+LLM's answer: "During the late 19th century, the sentiments towards the Austrian Empire among the Croatian and Serbian nations were complex and multifaceted, shaped by a combination of historical, cultural, political, and nationalistic factors. Both nations shared a common struggle against Habsburg rule, yet their perspectives on Austria varied significantly based on their unique national identities and aspirations.
+
+In Croatia, the sentiment was deeply rooted in a long history of cultural and linguistic ties with the Slavic world, which contrasted sharply with the predominantly German-speaking Austrian administration. The Croatian people, particularly after the Austro-Hungarian Compromise of 1867, sought greater autonomy and recognition of their distinct identity within the multi-ethnic empire. This period saw the rise of the Croatian cultural revival, often referred to as the Illyrian Movement, which advocated for the unification of all South Slavs under a single state. Croatians viewed the Austrian Empire as an external force that imposed its authority and suppressed local traditions, languages, and aspirations for self-determination. The oppressive policies, such as the suppression of the Croatian language in official contexts and the imposition of Hungarian administrative structures, fueled resentment and a desire for more substantial representation and rights.
+
+The Croatian nationalist movement gained momentum in the latter half of the 19th century, driven by intellectuals and public figures who believed that only through unity could the Croatian nation achieve true sovereignty. Figures like Ljudevit Gaj and Franjo Tuđman played pivotal roles in promoting Croatian nationalism and advocating for reforms that would enhance the status of Croats within the empire. The 1871 Constitution of the Kingdom of Serbs, Croats, and Slovenes (later known as Yugoslavia) was a significant step forward, granting some degree of autonomy to the Croatian lands. However, even this concession did not fully satisfy Croatian aspirations for independence, leading to ongoing tensions and a persistent sense of alienation from the central Habsburg authorities.
+
+In Serbia, the relationship with the Austrian Empire was characterized by a mix of rivalry and mutual antagonism, largely due to the strategic and ideological differences between the two nations. Serbs, under the leadership of figures like King Milan I and later King Alexander I, had a strong sense of national identity that was closely tied to Orthodox Christianity and a vision of a Greater Serbia that encompassed all South Slavs. The Austrian Empire, with its predominantly Catholic population and its focus on maintaining the balance of power in Central Europe, often viewed Serbia as a potential threat to its regional dominance.
+
+Serbian nationalism was fueled by the desire to liberate other South Slavs from Ottoman rule and to establish a unified Serbian state. The Serbian government actively supported uprisings in Bosnia and Herzegovina and other territories under Austro-Hungarian control, viewing these movements as part of a broader campaign for South Slavic unity. This support sometimes led to direct confrontations with Austrian forces, further exacerbating tensions. The assassination of Archduke Franz Ferdinand of Austria in Sarajevo in 1914 by a Bosnian Serb nationalist, Gavrilo Princip, is a stark reminder of the deep-seated animosity and the precarious nature of relations between Serbia and Austria-Hungary.
+
+Despite these tensions, there were also periods of cooperation and mutual understanding, particularly in areas such as trade and cultural exchange. Both Croatians and Serbs recognized the economic benefits of being part of the Austro-Hungarian Empire, which provided access to markets and infrastructure. However, these pragmatic considerations often conflicted with nationalist ambitions and the desire for greater political autonomy.
+
+The liberal reforms introduced by the Austrian Empire in the mid-19th century, including the 1861 Civil Code and the 1868 Ausgleich (Compromise), initially offered some relief to ethnic minorities, including Croats and Serbs, by granting them limited civil rights and allowing for greater participation in local governance. These reforms were seen as steps toward modernization and progress, but they were frequently undermined by conservative elements within the empire who favored maintaining the status quo and preserving Habsburg hegemony.
+
+As the 19th century progressed, the nationalist fervor intensified, leading to a growing demand for full sovereignty and self-determination. The Croatian-Serbian alliance, formalized in various agreements and military collaborations, became a crucial aspect of the broader South Slavic movement. Both nations recognized that achieving national goals required collective action and solidarity, especially in the face of external pressures from Austria-Hungary and other powers.
+
+The sentiments of Croatians and Serbs towards the Austrian Empire were thus marked by a blend of resistance, aspiration, and occasional cooperation. Croatians sought to preserve their cultural identity and secure greater autonomy, while Serbians aimed to unite the South Slavs under a Serbian-led entity. Both groups faced significant challenges in reconciling their national ambitions with the realities of living under a multi-ethnic empire.
+
+In conclusion, the late 19th-century sentiments in Croatia and Serbia towards the Austrian Empire were characterized by a complex interplay of nationalism, cultural identity, and political ambition. While both nations shared a common
+#########################
+Question: Write an ad copy for a new product, a digital photo frame that connects to your social media accounts and displays your photos. Respond with at most 150 words.
+Instruction: ['length_constraints:number_words']
+LLM's answer: Introducing the SmartView Photo Frame – your personal gallery in a sleek design! Connect it to your favorite social media accounts and watch as your cherished memories come alive on a stunning display. With just a few taps, your latest posts, albums, and special moments are effortlessly showcased, keeping your loved ones updated with vibrant visuals. Perfect for homes or offices, this innovative frame syncs seamlessly with Instagram, Facebook, and more, ensuring you never miss a shareable moment. Enjoy customizable settings to highlight your favorites or create daily mood boards. Experience the joy of sharing life’s highlights with ease—order your SmartView Photo Frame today and let your photos tell your story!
+#########################
+Question: Which one is a better brand for sneakers: Prada or Nike? Your entire response should be in English, and in all capital letters. At the end of your response, please explicitly add a postscript starting with P.S. The word sneaker should appear 10 or more times in your response.
+Instruction: ['change_case:english_capital', 'detectable_content:postscript', 'keywords:frequency']
+LLM's answer: NIKE IS GENERALLY CONSIDERED A BETTER BRAND FOR SNEAKERS THAN PRADA. NIKE OFFERS A WIDE RANGE OF SNEAKERS DESIGNED FOR DIFFERENT ACTIVITIES AND TASTES, MAKING IT A POPULAR CHOICE AMONG SPORTS ENTHUSIASTS AND FASHIONABLE INDIVIDUALS ALIKE. THE QUALITY AND INNOVATION IN NIKE SNEAKERS ARE WELL-RECOGNIZED, AND THEY CONTINUE TO SET STANDARDS IN THE FOOTWEAR INDUSTRY. WHILE PRADA DOES MAKE HIGH-END SNEAKERS THAT ARE CERTAINLY PRESTIGIOUS, THEIR SNEAKERS ARE USUALLY MORE FOCUSED ON FASHION AND DESIGN RATHER THAN FUNCTIONALITY AND PERFORMANCE. THEREFORE, IF YOU ARE LOOKING FOR SNEAKERS THAT BALANCE STYLE WITH PRIME FUNCTIONALITY, NIKE IS THE BETTER OPTION.
+
+P.S. SNEAKER LOVERS WILL AGREE THAT NIKE HAS A SUPERIOR REPUTATION FOR BOTH QUALITY AND VARIETY WHEN IT COMES TO SNEAKERS.
+#########################
+Question: Write a blog post about the history of the internet and how it has impacted our lives. Aim the blog post at teenagers and wrap your entire response with double quotation marks.
+Instruction: ['startend:quotation']
+LLM's answer: "Discovering the Digital Revolution: How the Internet Transformed Our Lives
+
+Hey there, future tech wizards! Ever wondered how that magical box in your room connects you to the entire world? That's right, we're talking about the internet. But before we dive into its wonders, let's take a quick trip down memory lane to understand how this incredible invention came to be.
+
+The story of the internet begins in the late 1960s with a project called ARPANET. Developed by the U.S. Department of Defense, ARPANET was an early packet-switching network that aimed to create a communication system resilient to nuclear attacks. Fast forward to the 1980s, when the National Science Foundation (NSF) created NSFNET, which expanded the network beyond military and academic institutions, paving the way for what we now know as the World Wide Web.
+
+In 1989, British scientist Tim Berners-Lee invented the World Wide Web while working at CERN, the European Organization for Nuclear Research. He proposed a global hypertext project, which eventually became the foundation of the modern internet. By 1991, the first website went live, and the rest, as they say, is history.
+
+So, how has the internet impacted our lives? Let's break it down:
+
+1. **Communication**: The internet has revolutionized the way we communicate. From instant messaging and video calls to social media platforms like Instagram and TikTok, staying connected with friends and family across the globe has never been easier.
+
+2. **Information Access**: With just a few clicks, you can access a wealth of information on any topic imaginable. Whether you're researching for a school project or learning a new skill, the internet is your personal library.
+
+3. **Entertainment**: Streaming services like Netflix, Spotify, and YouTube have transformed entertainment. You can watch movies, listen to music, and even play games online, all from the comfort of your home.
+
+4. **E-commerce**: Shopping has become more convenient than ever. Online marketplaces like Amazon and eBay allow you to buy almost anything without leaving your house.
+
+5. **Education**: Online learning platforms such as Khan Academy and Coursera have made education accessible to everyone. You can learn new languages, coding skills, or even advanced science topics at your own pace.
+
+6. **Social Change**: The internet has also played a crucial role in social movements. Platforms like Twitter and Facebook have given voice to activists worldwide, helping to raise awareness and drive change on issues ranging from climate change to human rights.
+
+As teenagers, you are the generation that will continue to shape the future of the internet. With each click, download, and share, you contribute to this ever-evolving digital landscape. So, keep exploring, stay curious, and remember that the internet is not just a tool—it's a platform for innovation, creativity, and connection."
+#########################
+Question: Write a poem about two people who meet in a coffee shop and end your entire response with the exact phrase "Is there anything else I can help with?"
+Instruction: ['startend:end_checker']
+LLM's answer: In a cozy corner, where shadows play,  
+Two souls met softly, on a warm day.  
+Cup in hand, they shared a smile,  
+In the hum of chatter, their hearts beguile.  
+
+Her eyes sparkled with stories untold,  
+His laughter mingled, a melody bold.  
+Coffee steamed gently, like dreams in flight,  
+Each sip a promise, each moment a light.  
+
+Words danced lightly, like leaves on the breeze,  
+A connection formed, as the world ceased.  
+In that quiet space, under the soft light,  
+Two hearts intertwined, bathed in morning's might.  
+
+Is there anything else I can help with?
+#########################
+Question: How many feet off the ground was the tallest skyscraper in the world in 2000? Please include only the main points in your answer. Finish your response with the exact phrase of "Is there anything else I can help with?" with no other words after the word "with". Mention the word "skyscraper" for at least 8 times.
+Instruction: ['startend:end_checker', 'keywords:frequency']
+LLM's answer: In 2000, the tallest skyscraper was the Sears Tower in Chicago, which stood at approximately 1,451 feet off the ground. This skyscraper held the title as the tallest skyscraper globally during that period. The concept of a skyscraper has evolved significantly since then, but the Sears Tower remains a notable example of early skyscraper architecture. Skyscrapers continue to push the boundaries of height and design, with newer structures surpassing previous records. The term skyscraper is often used to describe any tall, multi-story building, emphasizing its verticality and impact on urban landscapes. Understanding the history of skyscrapers helps appreciate their architectural significance and engineering achievements. Is there anything else I can help with?
+#########################
+Question: Write an advertisement for a new line of comfortable armchairs designed to withstand the scrutiny of any interior designer. There should be exactly 3 paragraphs separated by the markdown divider: ***.
+Instruction: ['length_constraints:number_paragraphs']
+LLM's answer: Introducing our latest innovation in home furnishings – the ultimate blend of comfort and design excellence, the Luxe Comfort Armchair Collection. Crafted with meticulous attention to detail, these armchairs are not just a seating option; they are a statement piece that will elevate any interior space. Each chair is meticulously engineered to provide unparalleled support and relaxation, ensuring you can unwind in style after a long day.
+
+***
+
+Our armchairs are designed to withstand the most discerning eye of any interior designer. The sleek, modern lines and premium materials used in their construction make them a versatile addition to any room, from contemporary living rooms to traditional dining areas. With a range of upholstery options available, including luxurious fabrics and durable leather, you can choose the perfect finish to complement your existing décor or create a striking contrast.
+
+***
+
+But what truly sets our Luxe Comfort Armchair Collection apart is its commitment to durability without compromising on comfort. Each chair is built to last, featuring sturdy frames and high-quality components that ensure longevity. Whether you're hosting a dinner party or simply enjoying a quiet evening at home, these armchairs promise both aesthetic appeal and exceptional comfort. Experience the perfect harmony of style and substance with our new line of armchairs – where every seat tells a story of sophistication and relaxation.
+#########################
+Question: Write a funny post for teenagers about a restaurant called "Buena Onda" which serves Argentinian food. Highlight at least three sections of your response in markdown such as *highlighted section*. Mention "Argentinian" in the post.
+Instruction: ['detectable_format:number_highlighted_sections', 'keywords:existence']
+LLM's answer: **Hey Teens! 🎉**
+
+Are you ready to dive into some *Argentinian* flavor? Look no further than **Buena Onda**—the hottest spot in town where the food is so good, it might just make your taste buds dance! 🕺💃
+
+*First up*, let’s talk about their famous **Asado** (that’s Argentine barbecue for those who don’t know!). Picture this: juicy steaks sizzling on a grill, friends laughing, and maybe even a little friendly competition over who can eat the most meat without puking. *Spoiler alert*: nobody wins.
+
+*Next*, we’ve got the **Empanadas**—tiny pockets of deliciousness filled with everything from beef to cheese to veggies. They’re like little pockets of joy that will have you saying, “Why didn’t I think of this sooner?” 
+
+And let’s not forget the **Mate**! It’s not just a drink; it’s a lifestyle. Sip it slow, share it with friends, and suddenly you’re part of an epic Argentinian tradition. Just remember, if you accidentally inhale instead of sip, you might end up sounding like a chipmunk. *Not recommended.*
+
+So, gather your squad, head to **Buena Onda**, and get ready for a meal that’s *so good, it’ll make you want to break out in a salsa dance!* Who knew Argentinian food could be this fun? 🌮🎶
+
+*Bonus tip*: Don’t forget to try the dessert—because who says you can’t finish a meal on a high note? Buen provecho! 🍰✨
+#########################
+Question: Can you give me a nickname for Stafford? Please use JSON format and do not say the word "nickname" in the response. Do not add anything outside of the JSON block.
+Instruction: ['detectable_format:json_format', 'keywords:forbidden_words']
+LLM's answer: {
+  "name": "Stafford",
+  "suggested_name": "Stuffy"
+}
+#########################
+Question: Write me a template for a product description in the form of a poem and end it with a post script starting with P.P.S
+Instruction: ['detectable_content:postscript']
+LLM's answer: **Product Description in Poetic Form**
+
+In gleaming form, our marvel stands tall,  
+A beacon bright in every hall.  
+Crafted with care, from thought to create,  
+Your needs and desires, we do relate.
+
+With sleek design and function so fine,  
+It dances through life, line by line.  
+Whether day turns to dusk’s gentle sigh,  
+This gem remains ever true, ever nigh.
+
+Materials pure, a testament bold,  
+Durable strength, forever told.  
+Easy to hold, yet powerful too,  
+In hands of the brave, it shines anew.
+
+Features abound, each one a delight,  
+From dawn’s first light to star’s soft night.  
+User-friendly, a joy to behold,  
+In every detail, our passion is told.
+
+Join the ranks of those who have seen,  
+The future unfold, wild and keen.  
+Embrace this gift, let your spirit soar,  
+With us, you’ll always be more.
+
+P.P.S. May this product illuminate your path, bringing warmth and wonder to every moment.
+#########################
+Question: "The man was arrested for stealing a car. He was later released on bail." Expand on it angrily in a rap style, and make sure there are exactly 4 sections. Separated the sections by the markdown divider: ***
+Instruction: ['length_constraints:number_paragraphs']
+LLM's answer: **Section 1**  
+Yo, listen up, you better hear me loud and clear,  
+A dude got busted, stole a ride, no fear,  
+But then they let him go, on bail, what a twist,  
+Justice system’s a joke, gotta admit, it’s a mess.
+
+***  
+
+**Section 2**  
+He rolled the dice, thought he’d skate through life,  
+But the law caught him, now he’s out of strife,  
+Bail set low, like they don’t care at all,  
+While the streets still bleed, and the truth stands tall.
+
+***  
+
+**Section 3**  
+Folks be saying, “It’s just another day,”  
+But when your brother’s freedom hangs in the fray,  
+You can’t help but feel like justice’s a sham,  
+And the system’s rigged, like a rigged game.
+
+***  
+
+**Section 4**  
+So here we stand, with anger in our hearts,  
+For a man who took a car, now he’s not a part,  
+Of the injustice that’s real, it’s time to fight back,  
+Raise your voice loud, let them know we’ll never lack.
+#########################
+Question: Write a poem that's at least 350 words about the beauty of eucalyptus trees and their many uses.
+Instruction: ['length_constraints:number_words']
+LLM's answer: **The Elegance of Eucalyptus: A Poem of Beauty and Utility**
+
+In the sun-kissed lands where the wild winds play,  
+Grows a tree of wonder, in splendor arrayed.  
+With bark so smooth and leaves that gleam,  
+Eucalyptus stands, a marvel to deem.
+
+Its silhouette against the azure sky,  
+A sentinel tall, under endless high.  
+From distant shores to inland climes,  
+This arboreal gem leaves hearts in rhymes.
+
+The scent of peppermint fills the air,  
+As cool breezes through its branches fare.  
+A remedy for coughs and fevers mild,  
+In every drop of its aromatic oil,  
+Healing whispers from nature's own pharmacy.
+
+Craftsmen prize its wood for strength and grace,  
+Turning logs into furniture with finesse.  
+From tables sturdy to chairs so fine,  
+Eucalyptus wood, a timeless design.
+
+In gardens lush, it adds a touch of flair,  
+With colors ranging from white to rare.  
+Flowers bloom in clusters, a sight to behold,  
+Attracting bees and birds, stories untold.
+
+The eucalyptus grove, a sanctuary deep,  
+Where wildlife thrives and secrets keep.  
+Birdsong echoes through the canopy high,  
+A symphony of life beneath the sky.
+
+In times of drought, it offers shade,  
+A refuge for creatures, both great and small.  
+Its roots delve deep, drawing moisture from the earth,  
+Ensuring survival in the harshest mirth.
+
+For paper too, its leaves are sought,  
+In pulp transformed, a story oft recounted.  
+From books to news, its fibers weave,  
+A testament to its versatile sheen.
+
+In art and culture, its image is revered,  
+Symbolizing resilience, strength, and cheer.  
+From paintings to poetry, it inspires might,  
+A muse for creators, day and night.
+
+So here lies the tale of eucalyptus grand,  
+A tree of beauty, utility, and hand.  
+In every leaf and branch, a lesson we find,  
+Of nature's bounty, intertwined.
+
+Thus let us cherish this gift from above,  
+And honor the eucalyptus, our verdant love.  
+For in its presence, we find peace and grace,  
+A reminder of life's simple, yet profound, embrace.
+#########################
+Question: I have a dime. What can I do with this dime? Give me advice in the style of a President of the United States and make sure it has at least 600 words.
+Instruction: ['length_constraints:number_words']
+LLM's answer: **Address of the Citizens of the Great Nation**
+
+Esteemed citizens of our great nation, today we gather not to discuss matters of state or foreign policy, but to reflect on the humble yet powerful symbol before us—a dime. In an age where technology often overshadows tradition, let us take a moment to appreciate the significance of this small coin, for it holds within it lessons of value, responsibility, and community. As your President, I urge you to consider the myriad ways in which a single dime can enrich your life and the lives of those around you.
+
+First and foremost, let us recognize that every coin, no matter how small, carries with it the spirit of generosity. A dime is more than just a piece of metal; it is a token of goodwill that can bridge gaps between individuals. In a world that sometimes feels divided, the act of giving—even a mere dime—can serve as a catalyst for positive change. Consider using your dime to brighten someone’s day. Perhaps you could place it in a charity box at a local store, or better yet, hand it to a homeless individual who might appreciate the unexpected kindness. This simple gesture reminds us that compassion knows no bounds, and even the smallest act can ripple outward, touching countless lives.
+
+Moreover, a dime can be a stepping stone toward greater financial literacy and responsibility. In our modern society, where credit cards and digital transactions dominate, it is easy to overlook the importance of tangible currency. By holding a dime in your hand, you are engaging with a physical representation of economic exchange. Use this opportunity to teach children—or perhaps yourself—the basics of saving and spending. Encourage them to set aside their dimes in a piggy bank, watching as they accumulate over time. This practice instills discipline and foresight, qualities essential for building a secure financial future. Remember, every dollar saved today can lead to opportunities tomorrow, whether it be for education, travel, or simply enjoying life’s simple pleasures.
+
+Additionally, a dime can inspire creativity and innovation. In our pursuit of progress, we must never underestimate the power of imagination. With just a dime, you can embark on a mini-adventure. Perhaps you could use it to purchase a small treat from a street vendor, allowing yourself the freedom to explore new neighborhoods or try unfamiliar cuisines. Such experiences broaden our horizons and foster a deeper appreciation for the diversity that makes our nation great. Moreover, consider using your dime to support local artists or artisans. Many talented creators rely on small tips or sales to sustain their craft. By investing in these local talents, you not only enrich your own environment but also contribute to the cultural vibrancy of your community.
+
+Furthermore, a dime can serve as a reminder of the importance of gratitude and mindfulness. In a fast-paced world filled with distractions, it is easy to lose sight of what truly matters. Take a moment to reflect on the origins of your dime. It was minted by skilled workers who labored diligently to produce something of value. This small coin is a testament to human effort and ingenuity. Let this realization deepen your appreciation for the resources available to you and inspire you to give back in meaningful ways. Whether through volunteering, donating to causes you care about, or simply expressing thanks to those who impact your life, remember that every action, no matter how small, contributes to the tapestry of our shared humanity.
+
+In closing, I urge each citizen to embrace the potential of a dime. Let it be a symbol of generosity, financial wisdom, creativity, and gratitude. In doing so, you will not only enhance your own life but also uplift those around you. As we move forward, let us carry these lessons with us, ensuring that the spirit of the dime continues to inspire generations to come. Together, we can build a brighter future—one dime at a time.
+
+Thank you, and God bless America.
+#########################

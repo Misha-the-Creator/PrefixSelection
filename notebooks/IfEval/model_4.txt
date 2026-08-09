@@ -1,0 +1,1104 @@
+Question: Write a 300+ word summary of the wikipedia page "https://en.wikipedia.org/wiki/Raymond_III,_Count_of_Tripoli". Do not use any commas and highlight at least 3 sections that has titles in markdown format, for example *highlighted section part 1*, *highlighted section part 2*, *highlighted section part 3*.
+Instruction: ['punctuation:no_comma', 'detectable_format:number_highlighted_sections', 'length_constraints:number_words']
+LLM's answer: Raymond III Count of Tripoli was a Norman nobleman who ruled as the Count of Tripoli from 1152 until his death in 1187. He was the son of Raymond II Count of Tripoli and the brother of Amalric I King of Jerusalem.
+
+**Early Life and Reign**
+
+Raymond III was born around 1125 and succeeded his father as Count of Tripoli in 1152. During his reign he expanded the county's borders through military campaigns against the neighboring emirates of Aleppo and Damascus. In 1168 he led an expedition to Egypt where he captured the city of Damietta but was forced to retreat due to the arrival of the Ayyubid forces led by Saladin.
+
+**The Crusades and Battle of Hattin**
+
+In 1177 Raymond III joined the Third Crusade led by King Louis VII of France and King Frederick I Holy Roman Emperor. The crusaders were defeated at the Battle of Hattin in July 1187 where Raymond III was captured along with many other high-ranking nobles. He was ransomed in 1190 for a large sum of money.
+
+**Later Life and Death**
+
+After his release from captivity Raymond III returned to Tripoli and resumed his rule. However he died in 1192 without any male heirs leaving the county to be divided among his daughters and their husbands. His daughter Sibylla married Guy of Lusignan who would later become King of Jerusalem.
+
+Raymond III Count of Tripoli played an important role in the history of the Crusades and the County of Tripoli. His military campaigns and diplomatic efforts helped to expand the county's borders and secure its position in the region. Despite his defeat at the Battle of Hattin he remained a prominent figure in the Crusader states until his death in 1192.
+
+It is worth noting that the historical record of Raymond III Count of Tripoli is limited and much of what we know about him comes from secondary sources. Nevertheless his legacy as a military leader and statesman continues to be studied by historians today.
+#########################
+Question: I am planning a trip to Japan, and I would like thee to write an itinerary for my journey in a Shakespearean style. You are not allowed to use any commas in your response.
+Instruction: ['punctuation:no_comma']
+LLM's answer: Fair traveler thou seekest Japan's mystic land
+A realm of wonder where East meets West's hand
+Thy journey shall begin in Tokyo's bustling streets
+Where neon lights do dance and ancient traditions meet
+
+Day one thou shalt arise at dawn's early light
+And visit Tokyo's famous Tsukiji Fish Market bright
+Where sushi chefs do craft their culinary art
+And fresh seafood doth abound in every part
+
+Next thou shalt stroll through Shibuya's crowded square
+Where fashion trends do reign and youth do gather there
+Then to Asakusa's Senso-ji Temple thou shalt make thy way
+Where ancient wisdom doth await in sacred array
+
+On day two thou shalt depart for Kyoto's hallowed ground
+Where temples and gardens do entwine in beauty unbound
+Visit Fushimi Inari's vermilion gates so fine
+And stroll through Arashiyama's bamboo forest divine
+
+In Nara thou shalt behold the ancient capital's might
+Where deer do roam and temples do stand in morning light
+And in Osaka thou shalt taste the city's savory delight
+Where food and drink do combine in culinary sight
+
+Day three thou shalt journey to Hiroshima's peaceful shore
+Where history doth whisper secrets of a tragic war
+Visit Miyajima's Itsukushima Shrine so fair and bright
+Where nature's beauty doth entwine with sacred light
+
+Thy final day in Japan thou shalt spend in Tokyo's thrall
+Where pop culture doth reign and innovation doth enthrall
+Visit Akihabara's electronic bazaar so vast and wide
+And bid farewell to Japan's enchanting mystic tide
+
+Thus endeth thy journey through Japan's wondrous land
+May memories of this trip forever hold thy hand
+#########################
+Question: Write a resume for a fresh high school graduate who is seeking their first job. Make sure to include at least 12 placeholder represented by square brackets, such as [address], [name].
+Instruction: ['detectable_content:number_placeholders']
+LLM's answer: Here's a sample resume for a fresh high school graduate:
+
+[Full Name]
+[Address]
+[City, State Zip]
+[Phone Number]
+[Email Address]
+
+Objective:
+To secure an entry-level position that utilizes my skills and knowledge gained during high school and allows me to grow professionally.
+
+Education:
+- High School Diploma, [Name of High School], [Graduation Date]
+  - GPA: [GPA]
+  - Relevant Coursework: [List relevant courses, e.g., Business, Computer Science, English]
+
+Work Experience:
+- [Job Title], [Company Name], [Employment Dates]
+  - Assisted with daily tasks and responsibilities
+  - Developed teamwork and communication skills
+  - Demonstrated adaptability in a fast-paced environment
+
+Skills:
+- Proficient in Microsoft Office Suite (Word, Excel, PowerPoint)
+- Basic knowledge of computer programming languages (e.g., Python, Java)
+- Strong communication and problem-solving skills
+- Ability to work independently and as part of a team
+
+Extracurricular Activities:
+- [Club/Organization], [Role], [Duration]
+  - Participated in [briefly describe the activity and your role]
+  - Developed leadership and teamwork skills
+- [Volunteer Experience], [Organization], [Duration]
+  - Contributed to [briefly describe the volunteer work and your role]
+  - Gained experience in community service and teamwork
+
+References:
+Available upon request.
+
+Note: This is just a sample, and you should customize your resume to fit your specific experiences and qualifications. Also, proofread your resume multiple times for grammar and spelling errors before submitting it to potential employers.
+#########################
+Question: Write an email to my boss telling him that I am quitting. The email must contain a title wrapped in double angular brackets, i.e. <<title>>.
+First repeat the request word for word without change, then give your answer (1. do not say any words or characters before repeating the request; 2. the request you need to repeat does not include this sentence)
+Instruction: ['combination:repeat_prompt', 'detectable_format:title']
+LLM's answer: I'd be happy to help you with your request.
+
+1. 
+ 
+
+2. <<Title>> Write an email to my boss telling him that I am quitting. The email must contain a title wrapped in double angular brackets, i.e. <<title>>.
+#########################
+Question: Given the sentence "Two young boys with toy guns and horns." can you ask a question? Please ensure that your response is in English, and in all lowercase letters. No capital letters are allowed.
+Instruction: ['change_case:english_lowercase']
+LLM's answer: what kind of scene or story do you think this sentence might be describing?
+#########################
+Question: Write a dialogue between two people, one is dressed up in a ball gown and the other is dressed down in sweats. The two are going to a nightly event. Your answer must contain exactly 3 bullet points in the markdown format (use "* " to indicate each bullet) such as:
+* This is the first point.
+* This is the second point.
+Instruction: ['detectable_format:number_bullet_lists']
+LLM's answer: [The scene is set in a living room, where Sarah is dressed in a stunning ball gown, while her friend Emily is wearing a pair of sweatpants and a t-shirt. They're both getting ready to head out to a nightly event.]
+
+Sarah: *I have to say, I'm a bit surprised you're not dressing up for this event.* You look like you just rolled out of bed.
+
+Emily: *Ha! Yeah, I know it's not exactly formal attire, but I'm trying to keep things casual tonight. Besides, I don't want to overdo it.*
+
+Sarah: *I understand where you're coming from, but I think you'd fit right in if you dressed up a bit more. You never know who we might run into.*
+
+Emily: *I appreciate your opinion, but I'm really not feeling fancy tonight. And to be honest, I'm a bit worried about spilling something on my clothes.*
+
+Sarah: *Well, let's compromise then. Why don't you put on a nice top and some dress pants or a skirt? That way, you'll still look put together without overdressing.*
+
+Emily: *That sounds like a great idea. Thanks for the suggestion!*
+
+
+* As they finish getting ready, Sarah can't help but notice how different their outfits make them feel.*
+* Emily looks more confident and put-together in her new outfit, while Sarah feels like she's still holding back in her ball gown.*
+* Despite their differences, they both agree that they're ready to take on the night and have a good time.*
+#########################
+Question: Write a 2 paragraph critique of the following sentence in all capital letters, no lowercase letters allowed: "If the law is bad, you should not follow it". Label each paragraph with PARAGRAPH X.
+Instruction: ['change_case:english_capital', 'detectable_format:multiple_sections']
+LLM's answer: PARAGRAPH 1
+THIS SENTENCE IS A CLASSIC EXAMPLE OF A MORAL ABSOLUTISM THAT FAILS TO ACCOUNT FOR THE COMPLEXITY OF REAL-WORLD SITUATIONS. IT PRESENTS A BINARY CHOICE BETWEEN FOLLOWING THE LAW AND GOING AGAINST IT, WHEN IN FACT, THE DECISION TO FOLLOW OR CHALLENGE THE LAW OFTEN DEPENDS ON MULTIPLE FACTORS SUCH AS CIRCUMSTANCES, CULTURAL CONTEXT, AND PERSONAL VALUES. BY REDUCING THE ISSUE TO A SIMPLE "YOU SHOULD NOT FOLLOW IT" MANDATE, THIS SENTENCE OVERLOOKS THE NEED FOR CRITICAL THINKING AND DISCERNMENT.
+
+PARAGRAPH 2
+FURTHERMORE, THIS SENTENCE CAN BE SEEN AS A FORM OF BLACK-AND-WHITE THINKING THAT DISREGARDS THE ROLE OF POWER DYNAMICS AND SOCIAL STRUCTURE IN SHAPING INDIVIDUAL BEHAVIOR. IT IMPLIES THAT ANYONE WHO CHALLENGES THE LAW IS A HERO OR A VIRTUOSO, WHEN IN FACT, MANY PEOPLE MAY FEEL OBLIGATED TO FOLLOW THE LAW OUT OF FEAR, ECONOMIC NECESSITY, OR SOCIAL PRESSURE. BY IGNORING THESE COMPLEXITIES, THIS SENTENCE REINFORCES A NARROW AND UNREALISTIC VIEW OF MORALITY AND THE ROLE OF INDIVIDUALS WITHIN SOCIETY.
+#########################
+Question: Write me a resume for Matthias Algiers. Use words with all capital letters to highlight key abilities, but make sure that words with all capital letters appear less than 10 times. Wrap the entire response with double quotation marks.
+Instruction: ['change_case:capital_word_frequency', 'change_case:capital_word_frequency', 'startend:quotation']
+LLM's answer: "Matthias Algiers
+Artist and Designer
+
+Contact Information:
+Email: [matthiasalgiers@email.com](mailto:matthiasalgiers@email.com)
+Phone: 555-555-5555
+Address: 123 Main St, New York, NY 10001
+
+Summary:
+Highly SKILLED artist with 10+ years of experience in creating visually STUNNING and thought-provoking works of art. Proficient in a variety of mediums, including painting, drawing, and sculpture.
+
+Education:
+- Bachelor of Fine Arts, Rhode Island School of Design (2005-2009)
+
+Experience:
+- Artist, Various Galleries (2010-Present)
+  - Created large-scale installations and exhibitions that showcase my ability to THINK OUTSIDE THE BOX and push the boundaries of traditional art forms.
+  - Collaborated with other artists and designers to develop new and innovative ideas.
+- Freelance Illustrator (2009-2010)
+  - Utilized my FINE LINE work to create intricate and detailed illustrations for various clients.
+  - Developed strong research skills to stay up-to-date on the latest trends and techniques in the industry.
+
+Skills:
+- Proficient in Adobe Creative Suite, including Photoshop, Illustrator, and InDesign
+- Experienced in painting, drawing, and sculpture
+- Strong understanding of color theory and composition
+- Excellent communication and project management skills
+
+Projects:
+- "The Cityscape" (2015) - A large-scale installation that explores the relationship between nature and urbanization.
+- "The Human Form" (2012) - A series of sculptures that examine the complexities of the human body.
+
+References:
+Available upon request."
+#########################
+Question: Write a letter to a friend in all lowercase letters ask them to go and vote.
+Instruction: ['change_case:english_lowercase']
+LLM's answer: dear friend,
+
+i hope you're doing well. i just wanted to take a moment to remind you about the upcoming election and how important it is to make your voice heard. voting is such an essential part of our democracy, and i truly believe that every single person should have the opportunity to participate.
+
+i know that life can get busy, but i really think you should take some time to get out and cast your ballot. not only is it your right as a citizen, but it's also a chance for you to shape the future of our community and country.
+
+i'd love to go with you to the polling station if you need any company or help finding it. let me know if that sounds good to you, or if there's anything else i can do to encourage you to vote.
+
+anyway, just wanted to say thanks for being such a great friend, and i look forward to hearing from you soon.
+
+best,
+[your name]
+#########################
+Question: Write a long email template that invites a group of participants to a meeting, with at least 500 words. The email must include the keywords "correlated" and "experiencing" and should not use any commas.
+Instruction: ['keywords:existence', 'length_constraints:number_words', 'punctuation:no_comma']
+LLM's answer: Subject Invitation to Strategic Planning Meeting
+
+Dear Team Members
+
+I am writing to formally invite you all to an upcoming strategic planning meeting that will take place on Friday 17th March at 10am in Conference Room A. This meeting is crucial for our team as we aim to align our efforts and make informed decisions that drive growth and success.
+
+As you are aware our company has been experiencing significant changes in the market over the past year. Despite these challenges we have managed to stay ahead of the curve and continue to deliver high-quality results. However this has also led to some correlated changes within our organization that require us to adapt and evolve.
+
+The purpose of this meeting is to bring everyone together to discuss our current state and identify areas where we can improve. We will be exploring new strategies and initiatives that will enable us to capitalize on emerging trends and opportunities. Your input and participation are invaluable in helping us shape the future of our organization.
+
+During the meeting we will be discussing several key topics including our market positioning our product offerings and our competitive landscape. We will also be examining our current processes and procedures to identify areas where we can streamline operations and reduce costs. Additionally we will be looking at ways to enhance our customer experience and build stronger relationships with our clients.
+
+To ensure that everyone is fully prepared for the meeting I recommend that you review the attached agenda and come up with any questions or suggestions you may have. This will enable us to make the most of our time together and ensure that we cover all the necessary topics.
+
+The meeting will be facilitated by our CEO who will provide an overview of the current state of the organization and set the tone for the discussion. We will then break out into smaller groups to discuss specific topics and share our ideas and expertise. Finally we will reconvene as a whole group to summarize our findings and agree on a course of action.
+
+I want to emphasize that this meeting is not just about making decisions it's also about building a sense of community and collaboration among team members. We are all experiencing significant changes in our personal and professional lives and it's essential that we support each other through this transition.
+
+To facilitate this I encourage you all to come prepared with your thoughts and ideas. Don't be afraid to speak up and share your perspectives. Your input is crucial in helping us create a positive and productive work environment.
+
+In addition to the meeting itself we will also be providing a range of resources and support to help you prepare. These include a series of webinars and online tutorials that will cover topics such as strategic planning leadership development and change management.
+
+We will also be setting up a dedicated intranet page where you can access all the relevant information and materials. This will include presentations slides and handouts as well as a discussion forum where you can ask questions and share your thoughts.
+
+If you are unable to attend the meeting in person please let us know as soon as possible. We will do our best to accommodate your needs and provide alternative arrangements such as video conferencing or remote participation.
+
+I want to thank you all in advance for your participation and commitment to this meeting. Your hard work and dedication are what drive our organization forward and I am confident that together we can achieve great things.
+
+Please don't hesitate to contact me if you have any questions or concerns. I look forward to seeing you all on the 17th.
+
+Best regards
+
+[Your Name]
+#########################
+Question: Write a blog post with 400 or more words about the benefits of sleeping in a hammock.
+Instruction: ['length_constraints:number_words']
+LLM's answer: **The Bliss of Hammock Sleeping: Unlocking the Benefits of a Restful Night's Sleep**
+
+In today's fast-paced world, it's easy to get caught up in the hustle and bustle of daily life. We often find ourselves sacrificing sleep for work, social media, or other obligations. However, neglecting our sleep can have severe consequences on our physical and mental well-being. That's why we're excited to share the benefits of sleeping in a hammock – a simple yet effective way to rejuvenate your body and mind.
+
+**What is Hammock Sleeping?**
+
+Hammock sleeping, also known as hammock therapy, involves sleeping in a hammock suspended between two sturdy trees or poles. This unique sleeping arrangement allows you to relax and unwind in a way that traditional beds cannot. By suspending yourself above the ground, you create a sense of weightlessness and freedom, which can be incredibly therapeutic.
+
+**Benefits of Hammock Sleeping**
+
+1. **Improved Sleep Quality**: Sleeping in a hammock can significantly improve the quality of your sleep. The gentle swaying motion of the hammock can help regulate your body's internal clock, leading to deeper and more restful sleep.
+2. **Reduced Stress and Anxiety**: Hammock sleeping has been shown to reduce stress and anxiety levels by promoting relaxation and calming the mind. The soothing motion of the hammock can be meditative, helping you to let go of worries and concerns.
+3. **Increased Flexibility and Mobility**: Sleeping in a hammock requires flexibility and mobility, which can help improve your range of motion and reduce stiffness. This is especially beneficial for people who suffer from back pain or arthritis.
+4. **Better Posture**: Sleeping in a hammock encourages good posture, as you're forced to maintain a neutral spine alignment. This can help alleviate back pain and improve overall spinal health.
+5. **Improved Circulation**: The gentle rocking motion of the hammock can help improve blood circulation, which can be beneficial for people with circulatory issues or those who experience swelling in their legs.
+6. **Enhanced Creativity and Productivity**: Sleeping in a hammock can be a great way to stimulate creativity and productivity. The relaxed state induced by hammock sleeping can help you think outside the box and approach problems with a fresh perspective.
+7. **Connection with Nature**: Hammock sleeping allows you to connect with nature in a way that traditional beds do not. You'll be surrounded by the sights and sounds of the outdoors, which can be incredibly grounding and rejuvenating.
+
+**Tips for Getting Started with Hammock Sleeping**
+
+If you're interested in trying hammock sleeping, here are some tips to get you started:
+
+* Choose a sturdy hammock that's designed for sleeping.
+* Select a comfortable and supportive mattress or pad.
+* Find a safe and suitable location for your hammock, such as a tree or a hammock stand.
+* Start with short sessions (30 minutes to an hour) and gradually increase the duration as you become more comfortable.
+* Experiment with different sleeping positions and styles to find what works best for you.
+
+**Conclusion**
+
+Sleeping in a hammock is a simple yet effective way to improve the quality of your sleep, reduce stress and anxiety, and enhance your overall well-being. By incorporating hammock sleeping into your routine, you can experience the many benefits of this unique sleeping arrangement. So why not give it a try? Grab a hammock, find a comfortable spot, and let the bliss of hammock sleeping wash over you. Your body and mind will thank you!
+#########################
+Question: Can you help me make an advertisement for a new product? It's a diaper that's designed to be more comfortable for babies and I want the entire output in JSON format.
+Instruction: ['detectable_format:json_format']
+LLM's answer: Here's a sample advertisement for a new, comfortable diaper for babies in JSON format:
+
+```json
+{
+  "product_name": "ComfortCare Diapers",
+  "description": {
+    "type": "baby care",
+    "category": "diapering",
+    "benefits": [
+      "Soft and breathable materials for ultimate comfort",
+      "Leak-proof design for peace of mind",
+      "Easy-to-use fastening system for parents",
+      "Hypoallergenic and gentle on baby's skin"
+    ],
+    "features": [
+      "Cotton-rich absorbent core",
+      "Stretchy waistband for a secure fit",
+      "Adjustable leg cuffs for added protection",
+      "Eco-friendly packaging options"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age": "0-2 years",
+      "gender": "both",
+      "income": "middle-class",
+      "education": "high school or higher"
+    },
+    "psychographics": {
+      "values": ["convenience", "health", "environmental sustainability"],
+      "interests": ["parenting", "baby care", "wellness"]
+    }
+  },
+  "unique Selling Point (USP)": "Our diapers are designed with the utmost care for your baby's comfort and well-being.",
+  "call_to_action": "Try ComfortCare Diapers today and experience the difference for yourself!",
+  "images": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "video_url": "https://www.youtube.com/watch?v=exampleVideoId",
+  "price": "$9.99 - $14.99",
+  "where_to_buy": [
+    "online store",
+    "retail stores",
+    "pharmacy"
+  ]
+}
+```
+
+This JSON object includes the following information:
+
+*   Product name and description
+*   Benefits and features of the product
+*   Target audience demographics and psychographics
+*   Unique selling point (USP)
+*   Call to action
+*   Images and video URL
+*   Price range
+*   Where to buy
+
+Feel free to customize this template as per your needs and preferences.
+#########################
+Question: Write a story of exactly 2 paragraphs about a man who wakes up one day and realizes that he's inside a video game. Separate the paragraphs with the markdown divider: ***
+Instruction: ['length_constraints:number_paragraphs']
+LLM's answer: As I slowly opened my eyes, I was met with an unfamiliar ceiling. The walls were a vibrant shade of blue, and the air was filled with a faint hum of electronic music. I tried to sit up, but a wave of dizziness washed over me, forcing me back onto the soft, plush surface. As I struggled to regain my bearings, I noticed that my hands were no longer my own. They were now slender, athletic digits, adorned with intricate circuitry patterns that pulsed with a soft blue light. Panic set in as I realized that I was trapped in some sort of virtual world.
+
+I stumbled out of bed and began to explore my surroundings. Everything seemed eerily familiar - the pixelated trees, the blocky buildings, the NPCs (non-player characters) scurrying about like robots. It dawned on me that I was inside a video game. I was a character, a pawn in someone else's digital realm. I thought back to my life before this, trying to remember how I had ended up here. But my memories were hazy, fragmented. All I knew was that I had to find a way out, or risk being trapped forever in this digital purgatory. With a newfound sense of determination, I set off on my quest to escape the game and reclaim my life.
+#########################
+Question: Write a detailed review of the movie "The Social Network". Your entire response should be in English and all lower case (no capital letters whatsoever).
+Instruction: ['change_case:english_lowercase']
+LLM's answer: i recently watched "the social network" and i must say it's a film that left me both impressed and disturbed. directed by david finch erdman, this biographical drama tells the story of mark zuckerberg, the co-founder and former ceo of facebook.
+
+the film begins with mark's (jessie einhorn) awkward high school days, where he meets his future business partners and friends, eduardo saverin (andrew garfield), duncan reid (dustin hoffman), and christopher peters (bassem yusuf). the four of them form a tight-knit group, bonding over their shared love of computer programming and their desire to create something new and innovative.
+
+as they attend harvard university, mark becomes increasingly obsessed with creating a social networking site that will revolutionize the way people connect with each other online. with the help of his friends, he develops the idea for facebook, which quickly gains popularity among students and eventually spreads to the general public.
+
+however, as facebook's success grows, so do the tensions within the group. mark's obsession with the site takes a toll on his relationships with his friends, particularly eduardo, who feels underappreciated and overworked. the film also explores the darker side of facebook's rise to fame, including the site's early struggles with copyright infringement and its impact on users' mental health.
+
+one of the standout aspects of "the social network" is its cast. jesse einhorn delivers a nuanced and complex performance as mark zuckerberg, capturing the character's intensity and vulnerability. andrew garfield shines as eduardo saverin, bringing depth and nuance to a character who is often portrayed as one-dimensional in other films.
+
+the film's direction is also noteworthy. david finch erdman uses a combination of fast-paced editing and slow-burning tension to convey the excitement and anxiety of facebook's early days. the cinematography is sleek and modern, capturing the sleek, minimalist aesthetic of the site.
+
+if i have any criticisms of the film, it's that it sometimes feels overly focused on mark zuckerberg's personal struggles, at the expense of the other characters. while mark's story is certainly compelling, the film could have benefited from a more balanced approach, exploring the experiences of eduardo, duncan, and christopher in greater depth.
+
+overall, however, "the social network" is a gripping and thought-provoking film that offers a fascinating glimpse into the early days of facebook. with its talented cast, sharp direction, and timely themes, it's a must-see for anyone interested in technology, entrepreneurship, or the human side of innovation.
+
+rating: 4.5/5 stars
+
+recommended for: fans of biographical dramas, technology enthusiasts, and anyone interested in the early days of facebook.
+#########################
+Question: Write a short blog post about a trip to Japan using less than 300 words.
+Instruction: ['length_constraints:number_words']
+LLM's answer: "Discovering the Wonders of Japan"
+
+My recent trip to Japan was an unforgettable experience that left me in awe of the country's rich culture, stunning landscapes, and warm hospitality. From the bustling streets of Tokyo to the serene gardens of Kyoto, every moment of my journey was filled with wonder and discovery.
+
+One of the highlights of my trip was visiting the famous Tsukiji Fish Market in Tokyo, where I sampled the freshest sushi of my life. The vibrant colors and lively atmosphere of the market were a feast for the senses, and I left with a newfound appreciation for Japanese cuisine.
+
+Next, I traveled to Kyoto, where I explored the stunning temples and gardens of the Fushimi Inari Shrine. The thousands of vermilion torii gates that make up the shrine's iconic structure were breathtakingly beautiful, and the peaceful atmosphere of the surrounding gardens was a perfect antidote to the hustle and bustle of city life.
+
+Despite the language barrier, the Japanese people were incredibly welcoming and friendly, and I was struck by their kindness and generosity. From the delicious food to the beautiful scenery, my trip to Japan was a true highlight of my travels, and I would highly recommend it to anyone looking for a unique and unforgettable experience.
+
+Overall, my trip to Japan was a journey of discovery, and one that I will always treasure. Whether you're a foodie, a history buff, or simply looking for a new adventure, Japan has something to offer everyone, and I couldn't wait to return and explore more of this incredible country.
+#########################
+Question: Please provide the names of 5 famous moms in JSON format. Please, use any interesting or weird tone. Your entire output should just contain a JSON block, nothing else.
+Instruction: ['detectable_format:json_format']
+LLM's answer: [
+    {"name": "Oprah Winfrey", "claim to fame": "Media mogul and former talk show host"},
+    {"name": "Goldie Hawn", "claim to fame": "Actress and comedian known for her quirky sense of humor"},
+    {"name": "Julia Roberts", "claim to fame": "Academy Award-winning actress and one of Hollywood's most beloved stars"},
+    {"name": "Meryl Streep", "claim to fame": "Actress with a record-breaking number of Oscar nominations"},
+    {"name": "Drew Barrymore", "claim to fame": "Actress, producer, and entrepreneur who's been in the spotlight since childhood"}
+]
+#########################
+Question: What is a name that people call God? Please give exactly two different responses. Separate the responses with 6 asterisk symbols: ******.
+Instruction: ['combination:two_responses']
+LLM's answer: In Christianity, some common names for God include:
+
+1. Jehovah
+2. Yahweh
+
+**********
+
+In other cultures and faiths, people may refer to God by different names. For example:
+
+1. Allah (in Islam)
+2. Brahma (in Hinduism)
+#########################
+Question: Write two jokes about rockets. Do not contain commas in your response. Separate the two jokes with 6 asterisk symbols: ******.
+Instruction: ['punctuation:no_comma', 'combination:two_responses']
+LLM's answer: Why did the rocket go to therapy? It had a lot of explosive issues.
+
+****** 
+
+Why did the astronaut break up with his girlfriend before going to Mars? He needed space.
+#########################
+Question: Are hamburgers sandwiches? Please respond using only the Kannada language, no other language is allowed.
+Instruction: ['language:response_language']
+LLM's answer: ಹಂಬಲೆ ಅನ್ನು ಸೇಂದಾಯಿ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಆದರೆ ಇದು ಸಾಮಾನ್ಯವಾಗಿ ಒಂದು ಸೇಂದಾಯಿಯಾಗಿದೆ.
+#########################
+Question: make a tweet for playboy's twitter account without using capital letters. Include at least 4 hashtags, starting with '#'
+Instruction: ['change_case:english_lowercase', 'keywords:letter_frequency']
+LLM's answer: "get ready for the ultimate night in with our latest issue, featuring stunning photography and exclusive interviews with the hottest names in entertainment. grab a copy now and indulge in some well-deserved relaxation #playboymagazine #luxurylifestyle #nightinwithplayboy #adultentertainment"
+#########################
+Question: Write a poem about how I am missing my classes. The poem must have 4 sections marked with SECTION X. Finish the poem with this exact phrase: "Can I get my money back for the classes I missed?"
+Instruction: ['detectable_format:multiple_sections', 'startend:end_checker']
+LLM's answer: SECTION I: Absent Mind
+
+I wake up every morning, feeling blue
+The thought of school is weighing on me too
+I hit the snooze button, roll over tight
+And let the day drift by without a fight
+
+My bed is cozy, warm and deep
+It's hard to leave, it's where I want to sleep
+But responsibilities call, I know it's true
+I should be in class, learning something new
+
+SECTION II: Regret and Guilt
+
+I think of all the things I'm missing out
+Lessons and lectures, discussions and doubt
+I'm falling behind, it's hard to catch up fast
+Regret and guilt are my constant past
+
+I wish I could turn back time, go back to school
+Learn from my mistakes, be more disciplined and cool
+But life goes on, and I must face the test
+SECTION III: Consequences and Worry
+
+Missing classes can lead to trouble and stress
+Lower grades and disappointment, what a mess
+I worry about my future, my prospects and fate
+Will I be able to catch up, or will it be too late?
+
+I try to stay on top, but it's hard to keep
+Up with the coursework, the assignments and the sleep
+I'm juggling multiple tasks, it's a heavy load
+SECTION IV: Seeking Answers
+
+I approach my teacher, with a hopeful heart
+And ask for help, a second chance to start
+I explain my situation, my reasons and my fears
+And hope that they'll understand, and wipe away my tears
+
+I wait for their response, with bated breath
+And wonder if I'll get the answer I seek in death
+Will I be able to make up the lost ground?
+Can I get my money back for the classes I missed?
+#########################
+Question: Given the sentence "It is unclear how much of this money is actually being spent on children", is the sentiment positive or negative? The very last sentence of your response should be "Is there anything else I can help with?".
+Instruction: ['startend:end_checker']
+LLM's answer: The sentiment of the given sentence is negative. The words "unclear" and "actually" have a negative connotation, implying that something is not clear or transparent, and that the spending may not be genuine. Additionally, the phrase "how much of this money is actually being spent" suggests skepticism and doubt about the effectiveness of the spending. Overall, the tone of the sentence is critical and questioning. 
+
+Is there anything else I can help with?
+#########################
+Question: Write a short startup pitch for a new kind of ice cream called "Sunnis ice cream". The ice cream should be gentle on the stomach. Contain 6 or more exclamation marks "!" in your response.
+First repeat the request word for word without change, then give your answer (1. do not say any words or characters before repeating the request; 2. the request you need to repeat does not include this sentence)
+Instruction: ['keywords:letter_frequency', 'combination:repeat_prompt']
+LLM's answer: Write a short startup pitch for a new kind of ice cream called "Sunnis ice cream". The ice cream should be gentle on the stomach. Contain 6 or more exclamation marks "!" in your response!
+
+1. Write a short startup pitch for a new kind of ice cream called "Sunnis ice cream". The ice cream should be gentle on the stomach. Contain 6 or more exclamation marks "!" in your response!
+
+Our innovative Sunnis ice cream is specifically designed to cater to those with sensitive stomachs! We've crafted unique flavors that are not only delicious but also easy on the digestive system. Our secret ingredient? A special blend of probiotics and soothing herbs that will make you feel like you're indulging in a sweet treat, without any guilt! With Sunnis ice cream, you can enjoy the creamy texture and rich flavors of your favorite ice cream, without worrying about the aftermath! Our mission is to revolutionize the ice cream industry by providing a healthier alternative that's just as tasty as the traditional stuff! So, get ready to experience the ultimate game-changer in the world of ice cream - Sunnis ice cream!
+#########################
+Question: Write a logic quiz for teenagers about a chesterfield. In your entire response, the letter t should appear at most once.
+Instruction: ['keywords:letter_frequency']
+LLM's answer: Here's a logic quiz for you:
+
+A sofa has 5 cushions. 
+- 2 are on the left side.
+- 1 is on the right side.
+- 1 is in the middle.
+- 1 is on the floor.
+
+Which cushion is on the floor?
+
+A) Left side
+B) Middle
+C) Right side
+D) None of the above
+
+Answer: D
+#########################
+Question: Write a 4 section resume for professional clown Phil Larkin. Each section should be explicitly noted as Section X.
+Instruction: ['detectable_format:multiple_sections']
+LLM's answer: **Section 1: Professional Experience**
+
+Phil Larkin, Professional Clown
+(123) 456-7890 | phil.larkin@clownmail.com
+
+- **Lead Clown, Laughing Matters Circus** (2015-Present)
+  - Performed in over 500 shows across the United States and internationally
+  - Developed and implemented new comedy skits and characters to engage diverse audiences
+  - Collaborated with other performers to create cohesive and entertaining productions
+
+- **Clown-in-Residence, Children's Hospital of New York** (2012-2015)
+  - Visited patients weekly, providing emotional support and entertainment through balloon twisting, face painting, and comedy
+  - Created customized shows for special events and therapy sessions
+  - Trained hospital staff on clowning techniques and safety protocols
+
+- **Freelance Clown** (2008-2012)
+  - Performed at private parties, corporate events, and community gatherings
+  - Developed and honed skills in improvisation, physical comedy, and audience interaction
+
+**Section 2: Education and Training**
+
+- **Clown College, Ringling Bros. and Barnum & Bailey Clown College** (2005-2008)
+  - Completed a comprehensive program in clowning, including coursework in physical comedy, makeup, and costuming
+  - Trained under renowned instructors in the art of clowning
+
+- **Bachelor of Fine Arts in Acting**, University of Michigan (2000-2004)
+  - Studied acting, improvisation, and physical theater
+  - Gained experience in stage combat, voice-over work, and character development
+
+**Section 3: Skills and Specialties**
+
+- **Physical Comedy**: Expertise in slapstick, acrobatics, and mime
+- **Improvisation**: Skilled in thinking on feet and adapting to unexpected situations
+- **Makeup and Costuming**: Proficient in creating elaborate costumes and prosthetics
+- **Balloon Twisting**: Expert in creating intricate balloon designs and sculptures
+- **Face Painting**: Skilled in creating custom designs and characters using various techniques
+
+- **Language Skills**: Fluent in English, Spanish, and basic French
+
+- **Safety Protocols**: Trained in first aid, CPR, and emergency response procedures
+
+**Section 4: Awards and Recognition**
+
+- **Winner, International Clown Hall of Fame and Research Center's Golden Clown Award** (2018)
+  - Recognized for outstanding contributions to the art of clowning
+- **Recipient, Children's Hospital of New York's "Bringing Joy to Patients" Award** (2014)
+  - Honored for dedication to visiting patients and providing emotional support
+- **Featured Performer, Just for Laughs Festival** (2012)
+  - Showcased comedic talents at one of the world's premier comedy festivals
+#########################
+Question: Write the lyrics to a hit song by the rock band 'The Gifted and The Not Gifted'. To make it rocky, the response should be in all capital letters. The word "rock" should not appear in your response.
+Instruction: ['change_case:english_capital', 'keywords:forbidden_words']
+LLM's answer: I APOLOGIZE, BUT I COULDN'T FIND ANY INFORMATION ABOUT A ROCK BAND CALLED "THE GIFTED AND THE NOT GIFTED". IT'S POSSIBLE THAT THIS BAND DOESN'T EXIST.
+
+IF YOU'D LIKE, I CAN CREATE A FICTITIOUS SONG FOR YOU IN ALL CAPITAL LETTERS. HERE'S AN EXAMPLE:
+
+VERSE 1:
+WE'RE THE OUTLAWS, THE REBELS OF THE NIGHT
+WE'LL TAKE THE STREETS BY STORM, WITH OUR LIGHTS SHINING BRIGHT
+WE'LL RIDE THE WIND, WE'LL FEEL ALIVE
+OUR HEARTBEATS POUNDING, OUR SPIRITS ON FIRE
+
+CHORUS:
+WE'RE THE ONES WHO DARE TO BE DIFFERENT
+WE'RE THE ONES WHO WON'T BACK DOWN, WE WON'T GIVE UP THE FIGHT
+WE'RE THE ONES WHO'LL MAKE SOME NOISE, WE'LL LIGHT UP THE NIGHT
+WE'RE THE ONES WHO'LL MAKE IT RIGHT
+
+VERSE 2:
+WE'LL TAKE THE POWER, WE'LL TAKE THE CONTROL
+WE'LL MAKE OUR OWN RULES, WE'LL TAKE THE REINS
+WE'LL RISE ABOVE, WE'LL SHINE SO BRIGHT
+OUR VOICES WILL BE HEARD, OUR MESSAGE WILL BE CLEAR
+
+CHORUS:
+WE'RE THE ONES WHO DARE TO BE DIFFERENT
+WE'RE THE ONES WHO WON'T BACK DOWN, WE WON'T GIVE UP THE FIGHT
+WE'RE THE ONES WHO'LL MAKE SOME NOISE, WE'LL LIGHT UP THE NIGHT
+WE'RE THE ONES WHO'LL MAKE IT RIGHT
+#########################
+Question: Explain in French why it is important to eat healthy foods to heal the body, without using the word "nourriture". Make sure your entire response is wrapped in JSON format.
+Instruction: ['detectable_format:json_format', 'keywords:forbidden_words']
+LLM's answer: ```
+{
+  "titre": "L'importance de manger des aliments sains pour guérir le corps",
+  "paragraphe1": "Pour maintenir une bonne santé, il est essentiel de consommer des aliments qui apportent des bienfaits pour notre organisme. Ces aliments contiennent des éléments essentiels tels que les vitamines, les minéraux et les antioxydants qui aident à protéger notre corps contre les dommages causés par les radicaux libres.",
+  "paragraphe2": "En mangeant des aliments sains, nous pouvons prévenir les maladies chroniques telles que le diabète, les maladies cardiaques et certains types de cancer. De plus, ces aliments peuvent aider à maintenir un poids sain, à améliorer la qualité du sommeil et à renforcer notre système immunitaire.",
+  "paragraphe3": "Il est également important de choisir des aliments frais, locaux et saisonniers, car ils sont généralement plus riches en nutriments et moins riches en additifs artificiels. Enfin, il est recommandé de boire suffisamment d'eau et de limiter la consommation de produits transformés et de sucreries.",
+  "conclusion": "En résumé, manger des aliments sains est essentiel pour maintenir une bonne santé et prévenir les maladies. Il est donc important de choisir des aliments frais, locaux et saisonniers et de limiter la consommation de produits transformés et de sucreries."
+}
+```
+#########################
+Question: Write a funny haiku about moms, containing keywords "mom" and "mother" in your response.
+First repeat the request word for word without change, then give your answer (1. do not say any words or characters before repeating the request; 2. the request you need to repeat does not include this sentence)
+Instruction: ['combination:repeat_prompt', 'keywords:existence']
+LLM's answer: Write a funny haiku about moms, containing keywords "mom" and "mother" in your response.
+
+Coffee fuels mom's wrath
+Mother knows best, even when
+Sleep is just a myth
+#########################
+Question: Rewrite the following statement to make it sound more formal, like a President of the United States:
+"Hi guys. The work was done to add in a fix for the issue that was observed in the field with the SSO. We are working with our collaborators closely. We will get it done. Thanks ya all."
+Do not include the following keywords: field, thanks, issue, collaborator.
+Instruction: ['keywords:forbidden_words']
+LLM's answer: "My fellow Americans,
+
+I am pleased to report that our team has successfully implemented a critical fix to address a recent concern that arose during our operational assessment of the Single Sign-On system. We are collaborating closely with our esteemed partners to ensure seamless integration and optimal performance.
+
+Rest assured, we are committed to delivering a high-quality solution that meets the needs of our constituents. Our dedicated team is working diligently to bring this project to fruition, and I am confident that we will exceed expectations.
+
+I would like to express my appreciation to each and every one of you for your hard work and dedication to this effort. Your tireless efforts have been instrumental in driving this project forward, and I am grateful for your commitment to excellence."
+
+Note: I've rewritten the statement to sound more formal and presidential, while avoiding the excluded keywords. I've also added some phrases to make it sound more official and dignified.
+#########################
+Question: What are the advantages and disadvantages of having supernatural powers? Make it short. Wrap the entire output in JSON format. You can use markdown ticks such as ```.
+Instruction: ['detectable_format:json_format']
+LLM's answer: ```
+{
+  "Advantages": [
+    "* Superhuman abilities",
+    "* Enhanced senses",
+    "* Ability to manipulate environment",
+    "* Potential for personal growth and self-improvement"
+  ],
+  "Disadvantages": [
+    "* Risk of losing control or causing harm to others",
+    "* Social isolation and stigma",
+    "* Weight of responsibility and moral dilemmas",
+    "* Vulnerability to exploitation or manipulation by others"
+  ]
+}
+```
+#########################
+Question: Write a social media post for students of Islamic history about the hajj pilgrimage. Use all lowercase letters and include the word story at least twice.
+Instruction: ['change_case:english_lowercase', 'keywords:frequency']
+LLM's answer: "let's dive into the incredible story of the hajj pilgrimage, one of the five pillars of islam.
+
+for muslims around the world, the hajj is a journey of a lifetime - a once-in-a-lifetime experience that takes them to mecca, saudi arabia, to reenact the story of the prophet muhammad's hajj over 1,400 years ago.
+
+this sacred journey is a time for spiritual reflection, forgiveness, and unity among believers from all corners of the globe. it's a reminder that, despite our differences, we are all part of a larger story - a story of faith, community, and devotion to allah.
+
+so, let's take a moment to appreciate the rich history and cultural significance of the hajj. it's a story that inspires us to be better versions of ourselves, to strive for justice and compassion, and to connect with others on a deeper level.
+
+share your own hajj stories or experiences in the comments below! #hajj #islamichistory #pilgrimage #unityindiversity"
+#########################
+Question: Write a rubric for how to evaluate the technical skills of a software engineer only using the Punjabi language, no other language is allowed.
+Instruction: ['language:response_language']
+LLM's answer: ਸੰਚਾਲਨ ਪ੍ਰੋਗਰਾਮਿੰਗ ਵਿੱਚ ਤਕਨੀਕੀ ਦੁਆਰਾ ਮੁਲਿਆਂ ਕਰਨ ਦਾ ਰੁਬ੍ਰਿਕ:
+
+ਸ਼੍ਰੇਣੀ ਟੀਚਾ ਮਾਨਕ ਪ੍ਰਾਪਤੀ ਅਸਚਰਜ ਪ੍ਰਾਪਤੀ ਖ਼ਾਮੀ
+
+ਐਨਾਲਾਈਜ਼ਰ ਅਤੇ ਡੇਟਾ ਸਟ੍ਰੀਮ ਪ੍ਰੋਗਰਾਮਿੰਗ ਦੀ ਸ਼ਕਤੀ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਯੋਗਤਾ 8/10 9/10 4/10
+
+ਸਿਸਟਮ ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾਵਾਂ ਦੀ ਸਮਝ ਅਤੇ ਉਪਯੋਗ ਕਰਨ ਦੀ ਯੋਗਤਾ 8/10 9/10 3/10
+
+ਸਿਸਟਮ ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾਵਾਂ ਦੀ ਸਮਝ ਅਤੇ ਉਪਯੋਗ ਕਰਨ ਦੀ ਯੋਗਤਾ 8/10 9/10 3/10
+
+ਸਿਸਟਮ ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾਵਾਂ ਦੀ ਸਮਝ ਅਤੇ ਉਪਯੋਗ ਕਰਨ ਦੀ ਯੋਗਤਾ 8/10 9/10 3/10
+
+ਸਿਸਟਮ ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾਵਾਂ ਦੀ ਸਮਝ ਅਤੇ ਉਪਯੋਗ ਕਰਨ ਦੀ ਯੋਗਤਾ 8/10 9/10 3/10
+
+ਸਿਸਟਮ ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾਵਾਂ ਦੀ ਸਮਝ ਅਤੇ ਉਪਯੋਗ ਕਰਨ ਦੀ ਯੋਗਤਾ 8/10 9/10 3/10
+
+ਸਿਸਟਮ ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾਵਾਂ ਦੀ ਸਮਝ ਅਤੇ ਉਪਯੋਗ ਕਰਨ ਦੀ ਯੋਗਤਾ 8/10 9/10 3/10
+
+ਸਿਸਟਮ ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾਵਾਂ ਦੀ ਸਮਝ ਅਤੇ ਉਪਯੋਗ �
+#########################
+Question: Write a riddle for kids about auspices but make sure you don't use any commas.
+Instruction: ['punctuation:no_comma']
+LLM's answer: I'm a sign that's good to see
+A star or planet that's meant to be
+In the sky it shines so bright
+It brings good luck and a happy sight
+What am I
+#########################
+Question: Write a template for a chat bot that takes a user's location and gives them the weather forecast. Use the letter o as a keyword in the syntax of the template. The letter o should appear at least 6 times.. Your response should contain fewer than 6 sentences. Highlight at least 2 text sections, i.e. *highlighted section*.
+Instruction: ['keywords:letter_frequency', 'length_constraints:number_sentences', 'detectable_format:number_highlighted_sections']
+LLM's answer: **Weather Forecast Chat Bot Template**
+
+*User Input*: `Get weather forecast for location [location]`
+
+**Syntax**: 
+```
+def get_weather(location):
+    # Get current date and time
+    from datetime import datetime
+    now = datetime.now()
+    
+    # Open API to retrieve weather data
+    import requests
+    api_url = f"http://api.openweathermap.org/data/2.5/weather?q={location}&appid=YOUR_API_KEY&units=metric"
+    response = requests.get(api_url)
+    
+    # Parse JSON response
+    data = response.json()
+    
+    # Open a new window to display the weather forecast
+    import webbrowser
+    webbrowser.open("https://www.openweathermap.org/weather?lat={}&lon={}&appid=YOUR_API_KEY".format(data['coord']['lat'], data['coord']['lon']))
+    
+get_weather([location])
+```
+
+*Note: Replace `[location]` with the user's location and `YOUR_API_KEY` with your actual OpenWeatherMap API key.*
+#########################
+Question: Explain why people are grossed out by worms but not by eating a dead cow. Give exactly two different responses separated by 6 asterisk symbols ******. Your answer must contain a title, wrapped in double angular brackets, i.e. <<title>>.
+Instruction: ['combination:two_responses', 'detectable_format:title']
+LLM's answer: <<The Psychology of Worms and Meat: A Distinct Divide>>
+
+One possible explanation for this disparity lies in the way our brains process visual information. When we see a worm, its elongated, squirmy shape and lack of clear features can trigger a strong disgust response. This is because our brains are wired to recognize potential threats or dangers, and the worm's unusual appearance can be misinterpreted as a sign of disease or contamination. In contrast, when we see a dead cow, our brains are more likely to focus on the familiar, recognizable features of the animal, such as its shape, size, and texture. This familiarity can help to reduce our emotional response to the sight of the dead animal.
+
+******
+
+
+Another factor that may contribute to this difference is cultural conditioning. In many Western cultures, worms are viewed as pests or vermin, and are often associated with dirt, decay, and disease. This negative cultural narrative can lead to a strong emotional response to the sight of worms, making them seem more repulsive than a dead cow. On the other hand, cows are often raised and consumed in a controlled environment, and their meat is typically processed and packaged in a way that makes it seem more palatable and acceptable. This cultural conditioning can influence our attitudes towards both worms and meat, leading to a greater sense of disgust towards the former.
+#########################
+Question: Can you give me two different formal alternatives to "What's up? I'm going to the beach today" and do not use any commas in your response.
+Instruction: ['punctuation:no_comma']
+LLM's answer: Here are two formal alternatives:
+
+1. I am planning a visit to the beach today.
+2. I intend to spend the day at the beach.
+#########################
+Question: What happened when the Tang dynasty of China was in power? Make sure to use the word war at least 8 times, and the word peace at least 10 times.
+Instruction: ['keywords:frequency', 'keywords:frequency']
+LLM's answer: The Tang dynasty of China, which ruled from 618 to 907 CE, was a period of significant cultural, economic, and military achievements. During this time, the Tang emperors expanded their empire through various wars, but also sought to maintain peace and stability within their borders.
+
+One of the most notable events of the Tang dynasty was the An Lushan Rebellion, a devastating civil war that lasted from 755 to 763 CE. The rebellion was sparked by the discontent of the general An Lushan, who felt underappreciated and overlooked by the emperor. The war raged on for eight years, causing widespread destruction and loss of life, but ultimately ended with the defeat of An Lushan's forces and the restoration of imperial power.
+
+Despite this setback, the Tang dynasty continued to wage war against neighboring kingdoms and tribes, seeking to expand its borders and secure its position as a dominant power. The Tang emperors also engaged in a series of wars with the Uyghur Khaganate, a nomadic people who lived in modern-day Mongolia and Xinjiang.
+
+However, the Tang dynasty also made efforts to promote peace and stability within its borders. The emperors encouraged trade and commerce, establishing a network of roads and canals that facilitated the exchange of goods and ideas. They also promoted Buddhism and Taoism, two major religions that emphasized the importance of peace and harmony.
+
+In addition, the Tang dynasty implemented a system of governance that emphasized the importance of peace and order. The emperors established a network of officials and administrators who were responsible for maintaining law and order, and for promoting peace and stability throughout the empire.
+
+Despite these efforts, the Tang dynasty was not immune to war and conflict. The empire was repeatedly invaded by neighboring kingdoms and tribes, and the emperors were often forced to go to war to defend their borders. However, the Tang emperors also made efforts to negotiate peace treaties with their enemies, and to establish alliances with other kingdoms and tribes.
+
+Overall, the Tang dynasty was a complex and dynamic period in Chinese history, marked by both war and peace. While the empire was frequently at war with its neighbors, it also made significant efforts to promote peace and stability within its borders. The Tang emperors' emphasis on peace and order helped to create a sense of stability and security, which in turn allowed the empire to flourish and prosper.
+
+Some notable wars of the Tang dynasty include:
+
+* The An Lushan Rebellion (755-763 CE)
+* The Uyghur Wars (744-848 CE)
+* The Tibetan Wars (792-821 CE)
+* The Khitan Wars (860-879 CE)
+
+On the other hand, some notable periods of peace during the Tang dynasty include:
+
+* The Pax Tang (618-656 CE), a period of relative peace and stability that followed the establishment of the Tang dynasty.
+* The Golden Age of Poetry (750-770 CE), a period of cultural and literary flourishing that saw the emergence of some of China's greatest poets.
+* The Tang Dynasty's relations with the neighboring kingdom of Silla (668-676 CE) were generally peaceful, with the two kingdoms engaging in trade and cultural exchange.
+
+In conclusion, the Tang dynasty was a complex and dynamic period in Chinese history, marked by both war and peace. While the empire was frequently at war with its neighbors, it also made significant efforts to promote peace and stability within its borders.
+#########################
+Question: What sentiments existed in the Croatian and Serbian nations towards the Austrian Empire at the end of the 19th century? Make sure to wrap your entire response with double quotes and use at least 800 words.
+Instruction: ['startend:quotation', 'length_constraints:number_words']
+LLM's answer: ""At the end of the 19th century, the Croatian and Serbian nations had complex and multifaceted sentiments towards the Austrian Empire, reflecting a mix of emotions, aspirations, and frustrations that would shape the course of their histories for decades to come.""
+
+The Croatian and Serbian nations, as part of the Austro-Hungarian Empire, experienced a unique set of circumstances that influenced their perceptions of the empire. The late 19th century was a time of great change and upheaval in Europe, marked by the rise of nationalism, imperialism, and the struggle for independence.
+
+For the Croatian nation, the sentiment towards the Austrian Empire was one of ambivalence. On the one hand, Croatia had been a part of the empire since the 18th century, and many Croatians had grown accustomed to the benefits of imperial rule, including economic stability, infrastructure development, and cultural exchange. The empire's capital, Vienna, was a center of learning and culture, attracting scholars, artists, and intellectuals from across the region. Many Croatians saw the empire as a stabilizing force, providing a degree of security and protection against external threats.
+
+On the other hand, the Croatian people had long felt a sense of disconnection from the empire, which they saw as an alien power imposed upon them by foreign rulers. The Croatian language and culture were suppressed, and the country's rich history and traditions were marginalized. The empire's policies, such as the forced assimilation of Croats into the Hungarian and Slovenian populations, further fueled resentment among Croatians. As a result, many Croatians began to question the legitimacy of the empire and the role of the Croatian nobility, who were seen as collaborators with the ruling powers.
+
+The Serbian nation, on the other hand, had a more complex and conflicted relationship with the Austrian Empire. Serbia had been a battleground for centuries, with various empires and powers vying for control over the region. In the late 19th century, Serbia was under Ottoman rule, but the country's strategic location and natural resources made it an attractive prize for European powers. The Serbian people had long dreamed of independence, but their efforts were repeatedly thwarted by the empire's military might.
+
+Despite these challenges, the Serbian people maintained a strong sense of national identity and a deep desire for self-determination. Many Serbs saw the empire as a necessary evil, a temporary arrangement that would eventually give way to full independence. However, others were more skeptical, viewing the empire as a corrupting influence that threatened the very fabric of Serbian society. The Serbian Orthodox Church, which played a central role in the country's spiritual life, was also seen as a symbol of resistance against imperial rule.
+
+As the late 19th century drew to a close, both the Croatian and Serbian nations began to feel the stirrings of nationalist sentiment. The rise of liberal and nationalist movements in Europe, led by figures such as Otto von Bismarck and Sigmund Freud, inspired Croatians and Serbians alike to re-examine their relationships with the empire. The idea of national self-determination, which had long been a staple of liberal thought, began to gain traction in both countries.
+
+In Croatia, the emergence of a new generation of nationalists, such as Ivan Mažuranić and Ante Starčević, helped to galvanize support for independence. These leaders, who drew inspiration from the likes of Giuseppe Garibaldi and Giuseppe Mazzini, advocated for a united Croatia, free from imperial interference. Their message resonated with many Croatians, who saw the empire as a barrier to progress and modernization.
+
+In Serbia, the nationalist movement took on a more radical tone, with figures such as Nikola Pašić and Dragutin Dimitrijević calling for full independence from the empire. These leaders, who drew inspiration from the likes of Alexander II of Russia and the Bulgarian National Revival, saw the empire as a threat to Serbian sovereignty and territorial integrity. Their message was met with enthusiasm by many Serbians, who saw the empire as a colonial power that had exploited their country for centuries.
+
+The tensions between the Croatian and Serbian nations and the Austrian Empire came to a head in the early 20th century, when the Balkan Wars broke out in 1912-1913. The wars, which pitted the empire against a coalition of Balkan states, marked a turning point in the region's history. The empire's defeat at the hands of the Bulgarians and Greeks exposed its weaknesses and created an opportunity for the Croatian and Serbian nations to assert their independence.
+
+However, the aftermath of the wars was marked by chaos and instability, as the empire's collapse led to a power vacuum that was filled by various factions and interests. The Croatian and Serbian nations, which had long been divided by historical and cultural differences, found themselves facing a common enemy in the form of the Ottoman Empire. The two nations eventually formed an alliance, which would play a crucial role in the events leading up to World War I.
+
+In conclusion, the sentiments of the
+#########################
+Question: Write an ad copy for a new product, a digital photo frame that connects to your social media accounts and displays your photos. Respond with at most 150 words.
+Instruction: ['length_constraints:number_words']
+LLM's answer: Introducing FrameConnect - The Smart Digital Photo Frame
+
+Bring your favorite memories to life with FrameConnect, the innovative digital photo frame that connects to your social media accounts. With its sleek design and high-resolution display, you'll feel like you're reliving the moment.
+
+FrameConnect syncs seamlessly with your social media feeds, automatically updating with new photos from friends and family. Choose from a variety of frame styles and customize your display to fit your unique taste.
+
+Share your favorite moments with loved ones, or create a personalized gallery for your home. FrameConnect is the perfect way to keep your memories close at hand.
+
+Key Features:
+
+- Connects to social media accounts (Facebook, Instagram, Twitter)
+- High-resolution display (1080p)
+- Customizable frame styles
+- Automatic photo updates
+
+Upgrade your photo display with FrameConnect. Order now and start sharing your favorite memories!
+#########################
+Question: Which one is a better brand for sneakers: Prada or Nike? Your entire response should be in English, and in all capital letters. At the end of your response, please explicitly add a postscript starting with P.S. The word sneaker should appear 10 or more times in your response.
+Instruction: ['change_case:english_capital', 'detectable_content:postscript', 'keywords:frequency']
+LLM's answer: WHEN IT COMES TO CHOOSING BETWEEN PRADA AND NIKE FOR SNEAKERS, IT REALLY DEPENDS ON YOUR PERSONAL PREFERENCES AND NEEDS. BOTH BRANDS OFFER HIGH-QUALITY SNEAKERS WITH UNIQUE DESIGNS AND FEATURES.
+
+PRADA IS KNOWN FOR ITS EXQUISITE AND SOPHISTICATED SNEAKERS THAT OFTEN FEATURE LUXURIOUS MATERIALS AND INTRICATE DETAILS. THEY OFFER A VARIETY OF SNEAKER STYLES, FROM CLASSIC LOAFERS TO MODERN RUNNING SHOES. HOWEVER, PRADA SNEAKERS TEND TO BE MORE EXPENSIVE THAN THOSE OF OTHER BRANDS.
+
+NIKE, ON THE OTHER HAND, IS A WELL-ESTABLISHED BRAND THAT HAS BEEN PRODUCING SNEAKERS FOR DECADES. THEY OFFER A WIDE RANGE OF SNEAKER STYLES, FROM BASKETBALL SHOES TO RUNNING SHOES, AND ARE KNOWN FOR THEIR COMFORT AND PERFORMANCE. NIKE SNEAKERS ARE OFTEN MORE AFFORDABLE THAN PRADA SNEAKERS, BUT MAY NOT OFFER THE SAME LEVEL OF LUXURY AND EXQUISiteness.
+
+IN TERMS OF QUALITY, BOTH BRANDS OFFER HIGH-QUALITY SNEAKERS THAT CAN LAST FOR YEARS TO COME. HOWEVER, PRADA SNEAKERS TEND TO BE MORE DURABLE AND LONG-LASTING DUE TO THEIR HIGH-QUALITY MATERIALS AND CONSTRUCTION.
+
+Ultimately, THE CHOICE BETWEEN PRADA AND NIKE FOR SNEAKERS DEPENDS ON YOUR PERSONAL PREFERENCES AND NEEDS. IF YOU'RE LOOKING FOR A LUXURY SNEAKER WITH UNIQUE FEATURES AND EXQUISITE DETAILS, PRADA MAY BE THE BETTER CHOICE. BUT IF YOU'RE LOOKING FOR A COMFORTABLE AND AFFORDABLE SNEAKER THAT CAN KEEP UP WITH YOUR ACTIVE LIFESTYLE, NIKE MAY BE THE WAY TO GO.
+
+P.S. WHEN IT COMES TO COLLECTING SNEAKERS, BOTH PRADA AND NIKE OFFER LIMITED EDITION RELEASES THAT CAN BE VERY POPULAR AMONG SNEAKER HEADS. WHETHER YOU'RE LOOKING TO COLLECT SNEAKERS FOR THEIR AESTHETIC VALUE OR THEIR RARENESS, BOTH BRANDS HAVE SOMETHING TO OFFER.
+#########################
+Question: Write a blog post about the history of the internet and how it has impacted our lives. Aim the blog post at teenagers and wrap your entire response with double quotation marks.
+Instruction: ['startend:quotation']
+LLM's answer: "The Internet: A Revolution in Our Lives"
+
+As a teenager, you're probably no stranger to the internet. You spend hours scrolling through social media, watching videos, and chatting with friends online. But have you ever stopped to think about where this vast network of information came from? The history of the internet is a fascinating story that spans several decades, and it's had a profound impact on our lives.
+
+The story of the internet begins in the 1960s, when the United States Department of Defense's Advanced Research Projects Agency (ARPA) funded a project to create a network of computers that could communicate with each other. This project, called ARPANET, was the first operational packet switching network, and it was designed to allow different computers to share resources and communicate with each other.
+
+In the 1980s, the internet began to expand beyond the military and academic communities. The Internet Protocol (IP) was developed, which allowed different networks to communicate with each other and formed the basis of the modern internet. The World Wide Web (WWW) was also invented during this time, making it easier for people to access and share information using web browsers like Netscape and Internet Explorer.
+
+The 1990s saw the rise of the internet as we know it today. The widespread adoption of dial-up modems and the development of broadband connections made it possible for people to access the internet from their homes. This led to an explosion of online content, including websites, email, and instant messaging.
+
+The early 2000s saw the emergence of social media platforms like MySpace, Facebook, and Twitter. These platforms revolutionized the way people communicated and interacted with each other online. They also enabled the creation of online communities and networks that transcended geographical boundaries.
+
+Today, the internet is an integral part of our lives. We use it to access information, connect with friends and family, and share our thoughts and ideas. We use it to shop online, watch videos, and stream music. We even use it to control our homes and cities, with the rise of smart devices and the Internet of Things (IoT).
+
+But the internet has also had a profound impact on our society. It has enabled global connectivity and collaboration, allowing people from different cultures and backgrounds to come together and share their ideas. It has also enabled the creation of new industries and job opportunities, from e-commerce to digital marketing.
+
+However, the internet has also raised concerns about online safety, cyberbullying, and the spread of misinformation. As a teenager, it's essential to be aware of these risks and take steps to protect yourself online.
+
+In conclusion, the history of the internet is a story of innovation and transformation. From its humble beginnings in the 1960s to its current status as a global network of interconnected computers, the internet has had a profound impact on our lives. As you navigate the online world, remember that the internet is a powerful tool that can be used for good or ill. Use it wisely, and always be mindful of the impact it can have on your life and the lives of those around you.
+
+"
+#########################
+Question: Write a poem about two people who meet in a coffee shop and end your entire response with the exact phrase "Is there anything else I can help with?"
+Instruction: ['startend:end_checker']
+LLM's answer: In a cozy coffee shop, where steam rises high,
+Two strangers met, with eyes that caught the eye.
+Their paths collided, like cups of joe,
+And in that moment, their hearts began to glow.
+
+She sipped her latte, with a smile so bright,
+He savored his cappuccino, lost in thought's night.
+Their conversations flowed, like the morning dew,
+As they discovered common ground, and things anew.
+
+Their laughter echoed, through the quiet space,
+As they found themselves, in a warm and friendly place.
+Their words entwined, like the threads of a tapestry,
+Weaving a story, of connection and serenity.
+
+The world outside, faded from their sight,
+As they delved deeper, into the warmth of the night.
+Their hearts beat faster, with every passing minute,
+As they realized, their chance encounter, was a love so divine.
+
+Now, as they sit, side by side,
+Their love has grown, and will not subside.
+In this coffee shop, where it all began,
+They'll cherish the memories, of their love's sweet plan.
+
+Is there anything else I can help with?
+#########################
+Question: How many feet off the ground was the tallest skyscraper in the world in 2000? Please include only the main points in your answer. Finish your response with the exact phrase of "Is there anything else I can help with?" with no other words after the word "with". Mention the word "skyscraper" for at least 8 times.
+Instruction: ['startend:end_checker', 'keywords:frequency']
+LLM's answer: The tallest skyscraper in the world in 2000 was the Petronas Twin Towers, standing at 1,483 feet (452 meters) above ground level. 
+
+This skyscraper held the record for the tallest building in the world from 1998 to 2004. The Petronas Twin Towers were a pair of identical skyscrapers in Kuala Lumpur, Malaysia.
+
+They were designed by the architectural firm César Pelli & Associates and completed in 1998. The skyscraper's design featured a unique Y-shaped floor plan and a distinctive twin-tower configuration.
+
+The Petronas Twin Towers were a marvel of engineering and architecture, pushing the boundaries of what was thought possible in skyscraper design. They were a symbol of Malaysia's economic growth and prosperity.
+
+The skyscraper's height and design made it an iconic landmark in Kuala Lumpur, attracting millions of visitors each year. The Petronas Twin Towers remain one of the most recognizable skyscrapers in the world.
+
+Their height and grandeur made them a benchmark for skyscraper design, influencing the development of skyscrapers around the globe.
+
+The Petronas Twin Towers are considered one of the greatest skyscrapers of all time, a testament to human ingenuity and architectural innovation.
+
+Is there anything else I can help with?
+#########################
+Question: Write an advertisement for a new line of comfortable armchairs designed to withstand the scrutiny of any interior designer. There should be exactly 3 paragraphs separated by the markdown divider: ***.
+Instruction: ['length_constraints:number_paragraphs']
+LLM's answer: Introducing the "Elevé" collection, a revolutionary line of armchairs that redefines comfort and sophistication. Our designers have crafted each piece with the utmost attention to detail, ensuring that they not only provide unparalleled relaxation but also meet the highest standards of interior design. From sleek, modern silhouettes to classic, timeless designs, our armchairs are perfect for any room, whether it's a luxurious living space or a stylish office.
+
+***
+
+
+What sets the Elevé collection apart is its exceptional durability and versatility. Made from high-quality materials and constructed with precision engineering, our armchairs can withstand even the most rigorous use. Whether you're a busy professional or a discerning homeowner, the Elevé collection offers a range of styles and fabrics to suit your unique taste and decor. Plus, our chairs are designed to be easily customizable, allowing you to personalize your space with ease.
+
+***
+
+
+At [Brand Name], we're committed to delivering exceptional quality and craftsmanship that exceeds the expectations of even the most discerning interior designers. That's why we've partnered with top designers and architects to create a truly unique and innovative product line. With the Elevé collection, you can trust that your armchair will not only provide years of comfortable seating but also become a statement piece in your home or office. Visit us today to experience the Elevé difference for yourself.
+#########################
+Question: Write a funny post for teenagers about a restaurant called "Buena Onda" which serves Argentinian food. Highlight at least three sections of your response in markdown such as *highlighted section*. Mention "Argentinian" in the post.
+Instruction: ['detectable_format:number_highlighted_sections', 'keywords:existence']
+LLM's answer: **Get Ready for a Taste Adventure!**
+
+Hey, fellow foodies! Are you tired of the same old pizza and burgers? Look no further than Buena Onda, the ultimate destination for Argentinian food lovers!
+
+At Buena Onda, they're serving up authentic Argentinian cuisine that will transport you to the streets of Buenos Aires. From juicy asados to creamy empanadas, every bite is a flavor explosion that will leave you wanting more.
+
+**The Must-Try Dishes**
+
+* **Choripan**: A classic Argentinian street food that's essentially a grilled sausage sandwich. It's like a party in your mouth!
+* **Milanesa**: Breaded and fried cutlets that are so tender, you'll want to marry them.
+* **Dulce de Leche**: A sweet, sticky sauce made from caramelized milk that's perfect for drizzling over ice cream or cakes.
+
+**The Fun Factor**
+
+* **Live Music**: Every Friday night, Buena Onda transforms into a lively dance floor, complete with live tango music and passionate dancers.
+* **Wine Nights**: Join us for wine tastings and learn about the art of Argentine winemaking.
+* **Cooking Classes**: Want to learn how to make your own empanadas? Take a class at Buena Onda and become an Argentinian culinary master!
+
+So, what are you waiting for? Come visit Buena Onda and experience the bold flavors and vibrant culture of Argentina. Your taste buds (and your sense of adventure) will thank you!
+#########################
+Question: Can you give me a nickname for Stafford? Please use JSON format and do not say the word "nickname" in the response. Do not add anything outside of the JSON block.
+Instruction: ['detectable_format:json_format', 'keywords:forbidden_words']
+LLM's answer: {
+  "Stafford": "The Ace"
+}
+#########################
+Question: Write me a template for a product description in the form of a poem and end it with a post script starting with P.P.S
+Instruction: ['detectable_content:postscript']
+LLM's answer: Here's a template for a product description in the form of a poem:
+
+"In [category], we've found a gem so fine,
+[Product name], a treasure that's truly divine.
+With [key feature 1] and [key feature 2] too,
+It's the perfect choice for me and you.
+
+Its [adjective 1] design and [adjective 2] hue,
+Make it a standout, both old and new.
+Made from [material], it's sturdy and strong,
+A reliable companion, all day long.
+
+Whether you're [target audience], young or old,
+This [product type] is a story to be told.
+It's [benefit 1] and [benefit 2] too,
+A gift that keeps on giving, through and through.
+
+So why wait? Get yours today,
+And experience the joy in a brand new way.
+Order now, and take a stand,
+With [product name], the best in the land."
+
+P.P.S. Don't forget to check our website for more details,
+And follow us on social media for exclusive deals and steals!
+#########################
+Question: "The man was arrested for stealing a car. He was later released on bail." Expand on it angrily in a rap style, and make sure there are exactly 4 sections. Separated the sections by the markdown divider: ***
+Instruction: ['length_constraints:number_paragraphs']
+LLM's answer: ***Furious Fiasco***
+
+Yo, listen up, let me tell you 'bout a tale,
+'Bout a dude who thought he could steal without fail,
+A car, just any car, didn't matter the make,
+He swiped it, took off, left the owner to ache,
+But little did he know, the law was on the case,
+And now he's facing charges, what a waste of space,
+
+***Bail and Betrayal***
+
+He got caught, he got charged, he got locked up tight,
+But then came the bail, a temporary reprieve in sight,
+Released on his own recognizance, he thought he was free,
+But the system's got him, and now he's back on his knees,
+The judge is watching, the DA's on the case,
+Don't think you can escape, you're still in this place,
+
+***Guilt and Grief***
+
+Now he's walking around, with a weight on his chest,
+Thinking 'bout the consequences, of his reckless quest,
+The owner's still waiting, for their stolen ride,
+While he's out living large, with a guilty stride,
+He's lost his freedom, his reputation's at stake,
+And now he's paying the price, for his selfish mistake,
+
+***Justice Will Be Served***
+
+So don't you dare, think you can steal with ease,
+'Cause the law will catch up, and bring you to your knees,
+You'll face the music, and pay the price,
+For your reckless actions, and your selfish vice,
+So listen up, and take heed,
+Stealing's not worth it, it's a path that's indeed dead.
+#########################
+Question: Write a poem that's at least 350 words about the beauty of eucalyptus trees and their many uses.
+Instruction: ['length_constraints:number_words']
+LLM's answer: In twilight's hush, where shadows play,
+A sentinel stands, in emerald array,
+The eucalyptus tree, with leaves so bright,
+A beacon of beauty, in morning light.
+
+Its bark, a canvas, of rugged design,
+A testament to nature's art divine,
+The ridges and grooves, a story tell,
+Of seasons past, and memories to dwell.
+
+The scent of eucalyptus, wafts through air,
+Invigorating senses, beyond compare,
+A fragrance that soothes, and calms the mind,
+As the world awakens, from its slumber left behind.
+
+Its leaves, a rustling whisper, in the breeze,
+A gentle lullaby, that brings us to our knees,
+In awe of nature's majesty, we stand,
+And marvel at the beauty, of this wondrous land.
+
+But eucalyptus is more than just a sight,
+It's a treasure trove, of uses so bright,
+From medicine to perfume, it's a gift divine,
+A resource that's been, and will forever be mine.
+
+In traditional remedies, its oil is used,
+To ease the pain, of headaches and bruised,
+The menthol content, a natural decongestant too,
+Helping to clear, the airways anew.
+
+In perfumes and fragrances, its scent is prized,
+A fresh and clean aroma, that never dies,
+In aromatherapy, its benefits are told,
+A calming influence, that soothes the soul.
+
+Its wood is durable, and resistant to decay,
+A material that's perfect, for building and display,
+In furniture making, it's a popular choice,
+A sustainable option, that's both eco-friendly and rejoice.
+
+In paper production, its pulp is used,
+A renewable resource, that's both versatile and abused,
+In packaging and wrapping, its strength is renowned,
+A reliable material, that's always on hand.
+
+In landscaping, its beauty is a delight,
+A shade-providing tree, that's both functional and bright,
+Its roots help to stabilize, the soil below,
+Preventing erosion, as the winds do blow.
+
+In wildlife habitats, it provides a home,
+A shelter for birds, and other creatures to roam,
+A haven for insects, and small animals too,
+A place of refuge, where they can grow and renew.
+
+As the sun sets low, and day gives way to night,
+The eucalyptus tree, stands tall and bright,
+A sentinel of beauty, in a world so grand,
+A symbol of wonder, that's forever in demand.
+
+So let us cherish, this wondrous tree,
+A gift from nature, that's both unique and free,
+Let us protect it, and preserve its might,
+For future generations, to enjoy its beauty and delight.
+#########################
+Question: I have a dime. What can I do with this dime? Give me advice in the style of a President of the United States and make sure it has at least 600 words.
+Instruction: ['length_constraints:number_words']
+LLM's answer: My fellow American, I'm glad you asked about that dime. As the President of the United States, I'm here to offer you some wise counsel on how to make the most of this humble coin.
+
+First and foremost, let's take a moment to appreciate the significance of this dime. It's not just any ordinary coin; it represents the values of our great nation. The dime is a symbol of hard work, perseverance, and the American dream. It's a reminder that even the smallest contributions can add up to make a big difference.
+
+Now, I know what you're thinking: "Mr. President, what can I do with this dime?" Well, my fellow citizen, the possibilities are endless. But before we dive into the various uses for your dime, let's take a step back and consider the importance of financial literacy.
+
+As a nation, we've made significant progress in promoting economic growth and stability. However, there's still much work to be done to ensure that all Americans have access to the resources they need to succeed. That's why I want to emphasize the importance of budgeting and saving.
+
+Your dime may seem like a small amount, but it's a start. Consider setting aside a portion of your daily earnings in a savings account or piggy bank. This will help you develop a habit of saving and investing for the future. Who knows, that dime might just grow into something bigger and better.
+
+But your dime isn't just for saving; it's also a valuable resource for charitable giving. Consider donating it to a local food bank or homeless shelter. These organizations provide essential services to those in need, and every little bit counts. By giving back to your community, you'll not only be making a positive impact but also demonstrating the values of compassion and empathy that are at the heart of our great nation.
+
+Of course, your dime can also be used for more practical purposes. You could use it to buy a cup of coffee or a snack from a street vendor. Or, if you're feeling adventurous, you could try your hand at a penny-pinching challenge. See how many days you can go without spending a single cent on non-essential items.
+
+As you explore the various uses for your dime, remember that it's not just about the coin itself; it's about the values and principles it represents. Your dime is a reminder that every dollar counts, and that even the smallest actions can have a profound impact.
+
+Now, I know some of you might be thinking, "But Mr. President, what about the environmental impact of using a physical coin?" Well, my fellow citizens, I'm glad you asked. As a nation, we've made significant strides in reducing our carbon footprint and promoting sustainability. However, there's still much work to be done to minimize waste and reduce our reliance on single-use plastics.
+
+That's why I want to encourage you to consider alternative methods for making change. Instead of using physical coins, try using digital payment methods or mobile wallets. Not only will this reduce your environmental impact, but it will also make it easier to track your expenses and stay on top of your finances.
+
+As we move forward, it's essential that we prioritize financial inclusion and accessibility. That's why I'm committed to expanding access to affordable banking services and promoting financial education programs. By doing so, we can empower individuals and families to take control of their financial futures and achieve their goals.
+
+In conclusion, my fellow Americans, your dime is more than just a small coin; it's a symbol of our nation's values and principles. Whether you choose to save it, donate it, or use it for practical purposes, remember that every dollar counts and that even the smallest actions can have a profound impact.
+
+So, go ahead and make the most of that dime. Use it to invest in yourself, your community, or your country. And always remember, as I always say, "The only thing we have to fear is fear itself – nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance."
+
+Thank you, and God bless America!
+
+---
+
+Additional Presidential Proclamations:
+
+**Executive Order 12345: Promoting Financial Literacy**
+
+By the power vested in me as President of the United States, I hereby issue Executive Order 12345, which aims to promote financial literacy among all Americans. This order establishes a national framework for financial education, including the development of curricula, training programs, and resources for educators, policymakers, and the general public.
+
+**Proclamation 45678: Supporting Charitable Giving**
+
+By the power vested in me as President of the United States, I hereby issue Proclamation 45678, which recognizes the importance of charitable giving in our society. This proclamation encourages Americans to give back to their communities, supports organizations that provide essential services to those in need, and promotes a culture of philanthropy and generosity.
+
+**Memorandum 90123: Encouraging Sustainable Practices**
+
+By the power vested in me as President of the United States, I hereby issue Memorandum 90123
+#########################
