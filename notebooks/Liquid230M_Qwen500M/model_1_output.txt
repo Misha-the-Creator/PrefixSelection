@@ -1,0 +1,1551 @@
+Right answer:
+Natalia sold 48/2 = <<48/2=24>>24 clips in May.
+Natalia sold 48+24 = <<48+24=72>>72 clips altogether in April and May.
+#### 72
+LLM's answer: Natalia sold clips to 48 friends in April.
+In May, she sold half as many clips as she sold in April, which is:
+\[
+\frac{48}{2} = 24 \text{ clips}
+\]
+So, she sold a total of:
+\[
+48 + 24 = 72 \text{ clips}
+\]
+Thus, Natalia sold \(\boxed{72}\) clips altogether in April and May.
+#########################
+Right answer:
+Half of the number of Randy's mango trees is 60/2 = <<60/2=30>>30 trees.
+So Randy has 30 - 5 = <<30-5=25>>25 coconut trees.
+Therefore, Randy has 60 + 25 = <<60+25=85>>85 treeson his farm.
+#### 85
+LLM's answer: Randy has 60 mango trees.
+He has 5 less than half as many coconut trees as mango trees.
+Half of the number of mango trees is \( \frac{60}{2} = 30 \) coconut trees.
+So, he has \( 30 - 5 = 25 \) coconut trees.
+In total, Randy has \( 60 + 25 = 85 \) trees.
+Thus, Randy has \(\boxed{85}\) trees on his farm.
+#########################
+Right answer:
+First find the total number of snakes eaten: 5 snakes/jaguar * 6 jaguars = <<5*6=30>>30 snakes
+Then find the total number of birds eaten per day: 30 snakes * 3 birds/snake = <<30*3=90>>90 snakes
+Then multiply the number of snakes by the number of beetles per snake to find the total number of beetles eaten per day: 90 snakes * 12 beetles/snake = <<90*12=1080>>1080 beetles
+#### 1080
+LLM's answer: There are 6 jaguars in the forest.
+Each jaguar eats 5 snakes per day, so each jaguar eats \(5 \text{ snakes/jaguar} \times 6 \text{ jaguars} = 30 \text{ snakes/day}\).
+Each bird eats 12 beetles per day, so each bird eats \(12 \text{ beetles/bird} \times 6 \text{ birds} = 72 \text{ beetles/day}\).
+Each snake eats 3 birds per day, so each snake eats \(3 \text{ birds/snake} \times 6 \text{ snakes} = 18 \text{ birds/day}\).
+Each bird eats 72 beetles, so the total number of beetles eaten by birds is \(72 \text{ beetles/bird} \times 6 \text{ birds} = 432 \text{ beetles/day}\).
+Each snake eats 18 beetles, so the total number of beetles eaten by snakes is \(18 \text{ beetles/snake} \times 6 \text{ snakes} = 108 \text{ beetles/day}\).
+Each jaguar eats 5 snakes, so the total number of beetles eaten by jaguars is \(5 \text{ snakes/jaguar} \times 6 \text{ jaguars} = 30 \text{ beetles/day}\).
+In total, the number of beetles eaten by birds, snakes, and jaguars is \(432 + 108 + 30 = 570 \text{ beetles/day}\).
+Thus, each bird, snake, and jaguar eats \(\boxed{570}\) beetles per day.
+#########################
+Right answer:
+In the first four houses, there are a total of 4 houses * 3 gnomes = <<4*3=12>>12 gnomes.
+Therefore, the fifth house had 20 total gnomes – 12 gnomes = <<20-12=8>>8 gnomes.
+#### 8
+LLM's answer: There are 5 houses on the street.
+Each of the first four houses has 3 gnomes, so that's \( 4 \times 3 = 12 \) gnomes.
+In total, there are 20 gnomes on the street.
+So, the number of gnomes in the fifth house is \( 20 - 12 = 8 \).
+Thus, the fifth house has \(\boxed{8}\) gnomes.
+#########################
+Right answer:
+In total, there are 4 x 4 = <<4*4=16>>16 pizza pieces.
+Bill and Dale eat 2 x 4 x 50% = <<2*4*50*.01=4>>4 pieces.
+Ann and Cate eat 2 x 4 x 75% = <<2*4*75*.01=6>>6 pieces.
+The four of them eat 4 + 6 = <<4+6=10>>10 pieces.
+There are 16 - 10 = <<16-10=6>>6 pizza pieces uneaten.
+#### 6
+LLM's answer: Ann buys 4 pieces per pizza.
+Bill and Dale eat 50% of their pizzas:
+\[
+0.5 \times 2 = 1 \text{ piece}
+\]
+So, they eat \(1 + 1 = 2\) pieces.
+Total number of pizzas eaten:
+\[
+2 \text{ pieces}
+\]
+
+Ann eats 75% of the pizzas:
+\[
+0.75 \times 2 = 1.5 \text{ pieces}
+\]
+So, Ann eats \(1.5\) pieces.
+Pizza pieces left:
+\[
+2 - 1.5 = 0.5 \text{ pieces}
+\]
+
+Cate eats 75% of the pizzas:
+\[
+0.75 \times 2 = 1.5 \text{ pieces}
+\]
+So, Cate eats \(1.5\) pieces.
+Pizza pieces left:
+\[
+2 - 1.5 = 0.5 \text{ pieces}
+\]
+
+Thus, the number of pizza pieces left uneaten is:
+\[
+\boxed{0.5}
+\]
+#########################
+Right answer:
+Tony got twice $1750 which is 2*$1750 = $<<2*1750=3500>>3500
+The total amount shared was $1750+$3500 = $<<1750+3500=5250>>5250
+#### 5250
+LLM's answer: Ken got $1750.
+Tony got twice as much as Ken, which is \(2 \times 1750 = 3500\).
+The total amount shared is the sum of Ken and Tony's amounts: \(1750 + 3500 = 5250\).
+Thus, the amount shared is \(\boxed{5250}\) dollars.
+#########################
+Right answer:
+Since 40% of his students got below B, 100% - 40% = 60% of Mr. Sanchez's students got B and above.
+Thus, 60 x 60/100 = <<60*60/100=36>>36 students got B and above in their final grade.
+#### 36
+LLM's answer: Mr. Sanchez found that 40% of his Grade 5 students got a final grade below B. This means:
+\[
+0.40 \times 60 = 24 \text{ students}
+\]
+The number of students who got a final grade of B or above is:
+\[
+60 - 24 = 36 \text{ students}
+\]
+Thus, Mr. Sanchez got \(\boxed{36}\) students with a final grade of B or above.
+#########################
+Right answer:
+Lisa earned $60 * 1/2 = $<<60*1/2=30>>30.
+Tommy earned $30 * 1/2 = $<<30*1/2=15>>15.
+Lisa earned $30 - $15 = $<<30-15=15>>15 more than Tommy.
+#### 15
+LLM's answer: Half of $60 is \( \frac{60}{2} = 30 \) dollars.
+Lisa earned $30.
+Tommy earned half of what Lisa earned, which is \( \frac{30}{2} = 15 \) dollars.
+The difference in earnings between Lisa and Tommy is \( 30 - 15 = 15 \) dollars.
+Thus, Lisa earned \(\boxed{15}\) dollars more than Tommy.
+#########################
+Right answer:
+Mr. Benson had a 5% discount for each of the 12 - 10 = <<12-10=2>>2 tickets.
+So, those two tickets had a $40 x 5/100 = $<<40*5/100=2>>2 discount each.
+Hence, each ticket cost $40 - $2 = $<<40-2=38>>38 each.
+Thus, two discounted tickets amount to $38 x 2 = $<<38*2=76>>76.
+And the other ten tickets amount to $40 x 10 = $<<40*10=400>>400.
+Hence, Mr. Benson paid a total of $400 + $76 = $<<400+76=476>>476.
+#### 476
+LLM's answer: Mr. Benson bought 12 tickets.
+He received a 5% discount for every ticket bought that exceeds 10.
+So he received a discount of \(12 \times 0.05 = 0.6\) dollars.
+Thus, he paid \(12 - 0.6 = 11.4\) dollars for the tickets.
+He paid a total of \(11.4\) dollars.
+Therefore, Mr. Benson paid \(\boxed{11.4}\) dollars in all.
+#########################
+Right answer:
+First find Carolyn's total violin practice time by tripling her piano practice time: 20 minutes/day * 3 = <<20*3=60>>60 minutes/day
+Then find the total amount of time she spends practicing each day: 60 minutes/day + 20 minutes/day = <<60+20=80>>80 minutes/day
+Then find the total time she spends practicing each week: 80 minutes/day * 6 days/week = <<80*6=480>>480 minutes/week
+Then find the total time she spends practicing each month: 480 minutes/week * 4 weeks/month = <<480*4=1920>>1920 minutes/month
+#### 1920
+LLM's answer: Carolyn practices the piano for 20 minutes a day.
+She practices the violin for three times as long as the piano, which is \(3 \times 20 = 60\) minutes.
+In one week, she practices for 6 days, so she practices for \(6 \times 20 = 120\) minutes per week.
+Over four weeks, she practices for \(4 \times 120 = 480\) minutes.
+Thus, Carolyn spends \(\boxed{480}\) minutes practicing in a month.
+#########################
+Right answer:
+Carlos memorized 24/6=<<24/6=4>>4 digits of pi.
+Sam memorized 4+6=10 digits of pi.
+#### 10
+LLM's answer: Sam memorized 6 more digits of pi than Carlos, and Carlos memorized 6 digits of pi.
+Thus, Sam memorized \(6 + 6 = 12\) digits of pi.
+Mina memorized six times as many digits of pi as Carlos, which is \(6 \times 6 = 36\) digits of pi.
+Therefore, Sam memorized \(12 + 36 = 48\) digits of pi.
+So, Sam memorized \(\boxed{48}\) digits of pi.
+#########################
+Right answer:
+10 cans are holding 8 liters each for a total of 10 * 8 = <<10*8=80>>80 liters
+There are 290 - 80 = <<290-80=210>>210 litres left
+There are 24 - 10 =<<24-10=14>>14 cans left
+Each of the remaining cans is holding 210 / 14 = <<210/14=15>>15 liters each
+#### 15
+LLM's answer: There are a total of 24 cans * 8 liters/can = 192 liters of oil.
+There are 290 liters in total, so there are 290 - 192 = 98 liters remaining.
+There are 10 cans holding 8 liters each, so that's 10 * 8 = 80 liters.
+Thus, there are 98 - 80 = 18 liters remaining.
+There are 18 liters / 10 cans = 1.8 liters per can.
+Therefore, each of the remaining cans holding oil is \(\boxed{1.8}\) liters.
+#########################
+Right answer:
+33 * 16 = $<<33*16=528>>528
+3 * 10 = $<<3*10=30>>30
+528 + 30 = $<<528+30=558>>558
+Lee earned $558 mowing lawns last week.
+#### 558
+LLM's answer: Lee mowed 16 lawns.
+He charged $33 for each lawn, so he earned \( 16 \times 33 = 528 \) dollars.
+He also gave a $10 tip to each customer, which is \( 3 \times 10 = 30 \) dollars.
+In total, Lee earned \( 528 + 30 = 558 \) dollars.
+Thus, Lee earned \(\boxed{558}\) dollars mowing lawns last week.
+#########################
+Right answer:
+The total ratio of the coins they both have is 10+45 = <<10+45=55>>55
+The fraction of the ratio representing the number of coins that Amalie has is 45/55, and since the total number of coins they both have is 440, Amalie has 45/55*440 = <<45/55*440=360>>360 coins.
+When Amalie spends 3/4 of what she has, she parts with 3/4*360 = <<3/4*360=270>>270 coins.
+She still has 360 coins - 270 coins = <<360-270=90>>90 coins
+#### 90
+LLM's answer: Let's denote the number of coins Elsa has as \(10x\) and the number of coins Amalie has as \(45x\), where \(x\) is a common multiplier.
+
+We are given that the total number of coins they have is 440:
+\[
+10x + 45x = 440
+\]
+\[
+55x = 440
+\]
+Solving for \(x\):
+\[
+x = \frac{440}{55} = 8
+\]
+
+Now we can find the number of coins each person has:
+- Elsa has \(10x = 10 \times 8 = 80\) coins.
+- Amalie has \(45x = 45 \times 8 = 360\) coins.
+
+Amalie spends \(\frac{3}{4}\) of what she has on toys:
+\[
+\frac{3}{4} \times 360 = \frac{1080}{4} = 270 \text{ coins}
+\]
+
+Therefore, Amalie will remain with:
+\[
+360 - 270 = 90 \text{ coins}
+\]
+
+Thus, Amalie will remain with \(\boxed{90}\) coins.
+#########################
+Right answer:
+Tim has 68-30 = <<68-30=38>>38 apples.
+Harry has 38/2 = <<38/2=19>>19 apples.
+#### 19
+LLM's answer: Martha has 68 apples.
+Tim has 30 less apples than Martha, so Tim has \(68 - 30 = 38 \) apples.
+Harry has half as many apples as Tim, which is \( \frac{1}{2} \times 38 = 19 \) apples.
+Thus, Harry has \(\boxed{19}\) apples.
+#########################
+Right answer:
+The garden produced 237 potatoes - 60 = <<237-60=177>>177 cucumbers.
+The garden produced 177 cucumbers * 2 peppers/cucumber = <<177*2=354>>354 peppers.
+The garden produced 237 potatoes + 177 cucumbers + 354 peppers = <<237+177+354=768>>768 vegetables.
+#### 768
+LLM's answer: The garden produced 237 potatoes.
+It produced 60 fewer cucumbers, so it produced \(237 - 60 = 177 \) cucumbers.
+It produced twice as many peppers as cucumbers, which is \(2 \times 177 = 354 \) peppers.
+In total, the garden produced \(237 + 177 + 354 = 720\) vegetables.
+Thus, the garden produced \(\boxed{720}\) vegetables.
+#########################
+Right answer:
+In 4 months, he will lose 3 x 4 = <<3*4=12>>12 kilograms.
+So his weight will be 97 – 12 = <<97-12=85>>85 kilograms.
+#### 85
+LLM's answer: The boxer loses 3 kg per month.
+Over 4 months, he loses \(3 \text{ kg/month} \times 4 \text{ months} = 12 \text{ kg}\).
+He originally weighed 97 kg.
+So, he will weigh \(97 \text{ kg} - 12 \text{ kg} = 85 \text{ kg}\) on the day of the fight.
+Thus, the boxer will weigh \(\boxed{85}\) kg on the day of the fight.
+#########################
+Right answer:
+If Irene worked 50 hours last week, the total number of hours counting as overtime is 50-40 = <<50-40=10>>10 hours.
+Since she's given $20 for every hour of overtime, she earned 10*$20 = $<<10*20=200>>200 in overtime.
+Her total income, including the overtime, is $500+$200= $<<500+200=700>>700
+#### 700
+LLM's answer: Irene earns $500 for working 40 hours a week.
+She works 50 hours last week, so she earns:
+\[
+500 \times 40 = 20000 \text{ dollars}
+\]
+For each hour of overtime, she earns $20 more than her regular hourly rate. Since she earns $20 for each overtime hour, the number of overtime hours is:
+\[
+\frac{50}{40} = 1.25 \text{ overtime hours}
+\]
+Thus, her overtime earnings are:
+\[
+1.25 \times 20 = 25 \text{ dollars}
+\]
+The total income is:
+\[
+20000 + 25 = 20225 \text{ dollars}
+\]
+
+Therefore, Irene's total income is \(\boxed{20225}\) dollars.
+#########################
+Right answer:
+He spend $1.5 on soda because 2 - .5 = <<2-.5=1.5>>1.5
+He bought 6 ounces of soda because 1.5 / .25 = <<6=6>>6
+#### 6
+LLM's answer: Peter initially has $2.
+He leaves with $0.50.
+So, the amount he spent is:
+\[
+2 - 0.50 = 1.50 \text{ dollars}
+\]
+Each ounce of soda costs $0.25.
+Thus, the number of ounces he bought is:
+\[
+\frac{1.50}{0.25} = 6 \text{ ounces}
+\]
+
+Therefore, Peter bought \(\boxed{6}\) ounces of soda.
+#########################
+Right answer:
+The cow initially weighs 400*1.5=<<400*1.5=600>>600 pounds
+So it gained 600 - 400 = <<600-400=200>>200 pounds
+So its value increased by 200*$3 = $<<200*3=600>>600
+#### 600
+LLM's answer: John's cow originally weighed 400 pounds.
+It increased its weight to 1.5 times its starting weight, which is \(1.5 \times 400 = 600\) pounds.
+So, the new weight of the cow is \(400 + 600 = 1000\) pounds.
+John sells the cow for $3 per pound, so the total revenue is \(1000 \times 3 = 3000\) dollars.
+The difference in value between the original and new revenue is \(3000 - 3000 = 0\) dollars.
+Thus, John is worth \(\boxed{0}\) dollars more after gaining the weight.
+#########################
+Right answer:
+December has 31 days, January has 31 days and February has 28 days for a total of 31+31+28 = <<31+31+28=90>>90 days
+He feeds them 1/2 cup in the morning and 1/2 cup in the afternoon for a total of 1/2+1/2 = <<1/2+1/2=1>>1 cup per day
+If he feeds them 1 cup per day for 90 days then he will need 1*90 = <<1*90=90>>90 cups of birdseed
+#### 90
+LLM's answer: Herman feeds the birds 1/2 cup in the morning and 1/2 cup in the afternoon.
+So, the total amount of food he feeds per month is:
+\[
+\frac{1}{2} + \frac{1}{2} = 1 \text{ cup}
+\]
+Over three months, he needs:
+\[
+3 \times 1 = 3 \text{ cups}
+\]
+Thus, Herman needs \(\boxed{3}\) cups of food.
+#########################
+Right answer:
+The beef cost $8 * 1000 = $<<8*1000=8000>>8000
+He buys 1000 * 2 = <<1000*2=2000>>2000 pounds of chicken
+So the chicken cost 2000 * $3 = $<<2000*3=6000>>6000
+So the total cost is $8000 + $6000 = $<<8000+6000=14000>>14,000
+#### 14000
+LLM's answer: John orders 1000 pounds of beef, which costs 1000 * $8 = $8000.
+He also orders twice as much chicken as beef, which is 2 * 1000 = 2000 pounds of chicken.
+The cost of chicken is 2000 * $3 = $6000.
+In total, the cost is $8000 + $6000 = $14000.
+Thus, everything cost John $14000.
+#### 14000
+#########################
+Right answer:
+During each boat trip, there can be 12 people onboard, so during 4 boat trips, there can be 4 * 12 = <<4*12=48>>48 people in total.
+During two days the boat can transport a total of 48 * 2 = <<48*2=96>>96 people.
+#### 96
+LLM's answer: There are 4 boat trips per day.
+So in one day, the boat can transport \( 4 \text{ trips/day} \times 12 \text{ people/trip} = 48 \text{ people/day} \).
+
+In 2 days, the boat can transport:
+\[ 48 \text{ people/day} \times 2 \text{ days} = 96 \text{ people} \]
+
+Thus, the boat can transport \(\boxed{96}\) people in 2 days.
+#########################
+Right answer:
+There were 9-4 = <<9-4=5>>5 other pills
+Each of the other pills cost 1.50+5.50 = <<1.50+5.50=7>>7 dollars each.
+The 5 pills cost a total of 7*5 = <<7*5=35>>35 dollars.
+The first 4 pills cost 1.50*4 = <<1.50*4=6>>6 dollars in total.
+Henry spent a total of 35+6 = <<35+6=41>>41 dollars.
+#### 41
+LLM's answer: Henry took 9 pills a day for 14 days.
+So he took \( 9 \text{ pills/day} \times 14 \text{ days} = 126 \text{ pills} \).
+Of these 126 pills, 4 cost $1.50 each, so they cost \( 4 \times 1.50 = 6 \) dollars.
+The remaining pills cost \( 126 - 6 = 120 \) dollars.
+Each of these remaining pills costs $5.50 more than each of the first 4 pills, so they cost \( 4 \times 5.50 + 4 \times 5.50 = 22 + 22 = 44 \) dollars.
+Thus, Henry spent a total of \( 6 + 44 = 50 \) dollars on the pills.
+#### 50
+The answer is 50
+#########################
+Right answer:
+To figure out this problem we need to turn it into an equation. Let’s make A the number of nuggets Alyssa ate. We know all three girls ate 100 nuggets total, so 100 nuggets = A (how many Alyssa ate) + 2A (how many Keely ate) + 3A (how many Kendall ate) or 100 = A + 2A + 3A which is 100 = 5A
+Then we will divide each side by 5 to figure out how many nuggets Alyssa ate, 100/5 = 5A/5 or 20 = A.
+#### 20
+LLM's answer: Let \( x \) be the number of chicken nuggets Alyssa ate.
+Keely eats twice as many as Alyssa, so Keely eats \( 2x \) nuggets.
+Kendall eats twice as many as Keely, so Kendall eats \( 2(2x) = 4x \) nuggets.
+In total, they ordered 100 chicken nuggets, so we can write the equation:
+\[
+x + 2x + 4x = 100
+\]
+Simplify the left-hand side:
+\[
+7x = 100
+\]
+Solve for \( x \):
+\[
+x = \frac{100}{7} \approx 14.2857
+\]
+Since \( x \) must be an integer (you can't eat a fraction of a nugget), we round to the nearest whole number:
+\[
+x = 14
+\]
+Thus, Alyssa ate \(\boxed{14}\) chicken nuggets.
+#########################
+Right answer:
+The price of the juice was 2 * 2 = $<<2*2=4>>4.
+So in total he paid for his shopping 2 + 3 + 4 = $<<2+3+4=9>>9.
+That means he had 15 - 9 = $<<15-9=6>>6 left.
+#### 6
+LLM's answer: Paul bought bread for $2.
+He bought butter for $3.
+He bought juice for two times the price of the bread, which is \( 2 \times 2 = 4 \) dollars.
+In total, he bought \( 2 + 3 + 4 = 9 \) dollars.
+He had $15 for his shopping, so he has \( 15 - 9 = 6 \) dollars left.
+Thus, Paul has \(\boxed{6}\) dollars left.
+#########################
+Right answer:
+She loses 5 marbles because 25 x .2 = <<25*.2=5>>5
+She has 20 marbles after this because 25 - 5 = <<25-5=20>>20
+Her friend gives her 40 marbles because 20 x 2 = <<20*2=40>>40
+Adding those marbles to the 20 she had before, she ends up with 40 marbles + 20 marbles = <<40+20=60>>60 marbles
+#### 60
+LLM's answer: Baez starts with 25 marbles.
+She loses 20% of them, which is \( 0.20 \times 25 = 5 \) marbles.
+So, she loses 5 marbles, leaving her with \( 25 - 5 = 20 \) marbles.
+Then, a friend gives her double the amount that Baez has, which is \( 2 \times 20 = 40 \) marbles.
+Thus, Baez ends up with \( 40 + 40 = 80 \) marbles.
+So, Baez ends up with \(\boxed{80}\) marbles.
+#########################
+Right answer:
+First find the total number of additional objects she learns to juggle: 2 objects/week * 5 weeks = <<2*5=10>>10 objects
+Then add the initial number of objects she could juggle to find the total: 10 objects + 3 objects = <<10+3=13>>13 objects
+#### 13
+LLM's answer: Jeanette starts with 3 objects.
+Each week she juggles 2 more objects than the previous week.
+So in each week, she juggles \(3 + 2 = 5 \) objects.
+Over 5 weeks, she juggles \(5 \times 5 = 25\) objects.
+Thus, Jeanette can juggle \(\boxed{25}\) objects.
+#########################
+Right answer:
+For the fourth-grade classes, Jessa needs 3 classes * 30 cupcakes/class = <<3*30=90>>90 cupcakes
+Adding the cupcakes for the P.E. class 50, she needs to make a total of 90 cupcakes + 50 cupcakes = <<90+50=140>>140 cupcakes
+#### 140
+LLM's answer: Jessa needs to make cupcakes for 3 fourth-grade classes, which is \(3 \times 30 = 90\) students.
+She also needs to make P.E. classes with 50 students each.
+So, the total number of students is \(90 + 50 = 140\).
+Thus, Jessa needs to make \(\boxed{140}\) cupcakes.
+#########################
+Right answer:
+He sold 50 cones because 100 / 2 = <<100/2=50>>50
+He gave away 10 cones because 50 / 5 = <<50/5=10>>10
+#### 10
+LLM's answer: Dan sells $100 worth of cones.
+Each cone costs $2, so the total number of cones sold is:
+\[
+\frac{100}{6} = 16.\overline{6}
+\]
+Since he can't sell a fraction of a cone, we consider only whole cones, which means he sold 16 cones (rounding down to the nearest whole number).
+
+Each free cone gives Dan $2, so the number of free cones he gave away is:
+\[
+16 \text{ cones} \times 2 \text{ dollars per cone} = 32 \text{ dollars}
+\]
+
+Thus, Dan gave away \(\boxed{32}\) free ice cream cones.
+#########################
+Right answer:
+Out of the 40, 40 x 1/10 = <<40*1/10=4>>4 students are absent.
+So, 40 - 4 = <<40-4=36>>36 students are present in school.
+Out of the 36, 36 x 3/4 = <<36*3/4=27>>27 students are in the classroom.
+This means, 36 - 27 = <<36-27=9>>9 students are in the canteen.
+#### 9
+LLM's answer: There are 40 students in total.
+1/10 are absent, which is:
+\[
+\frac{1}{10} \times 40 = 4 \text{ students absent}
+\]
+So, the number of students present is:
+\[
+40 - 4 = 36 \text{ students present}
+\]
+3/4 of the present students are in the classroom:
+\[
+\frac{3}{4} \times 36 = 27 \text{ students in the classroom}
+\]
+The number of students in the canteen is:
+\[
+36 - 27 = 9 \text{ students in the canteen}
+\]
+
+Thus, the number of students in the canteen is:
+\[
+\boxed{9}
+\]
+#########################
+Right answer:
+Let the number of square feet in Benedict's house be x. So, we can write the equation 4 * x + 600 = 10000.
+Subtracting 600 from both sides we get 4 * x = 9400
+Dividing both sides by 4 we get x = 2350 square feet.
+#### 2350
+LLM's answer: Kennedy's house is 600 square feet larger than 4 times Benedict's house.
+Let \( B \) represent the number of square feet in Benedict's house.
+Then Kennedy's house is \( 4B + 600 \) square feet.
+We are given that Kennedy's house is 10000 square feet, so:
+\[ 4B + 600 = 10000 \]
+
+Subtract 600 from both sides:
+\[ 4B = 9400 \]
+
+Divide both sides by 4:
+\[ B = \frac{9400}{4} \]
+\[ B = 2350 \]
+
+Thus, Benedict's house has \(\boxed{2350}\) square feet.
+#########################
+Right answer:
+Larry spends 30 * 2 = <<30*2=60>>60 minutes per day walking his dog.
+Larry spends 60 / 5 = <<60/5=12>>12 minutes every day feeding his dog.
+Larry spends 60 + 12 = <<60+12=72>>72 minutes per day on his dog.
+#### 72
+LLM's answer: Larry spends half an hour twice a day walking and playing with his dog, which is:
+\[
+\frac{1}{2} \text{ hour/day} \times 2 \text{ days} = 1 \text{ hour/day}
+\]
+
+He also spends a fifth of an hour every day feeding his dog, which is:
+\[
+\frac{1}{5} \text{ hour/day} = \frac{1}{5} \text{ hour/day}
+\]
+
+In total, Larry spends:
+\[
+1 \text{ hour/day} + \frac{1}{5} \text{ hour/day} = \frac{6}{5} \text{ hours/day}
+\]
+
+Converting this to minutes:
+\[
+\frac{6}{5} \text{ hours} \times 60 \text{ minutes/hour} = 72 \text{ minutes/day}
+\]
+
+Thus, Larry spends \(\boxed{72}\) minutes on his dog each day.
+#########################
+Right answer:
+He watched 2*20=<<2*20=40>>40 minutes of Jeopardy.
+Wheel of Fortune is 2*20=<<2*20=40>>40 minutes each.
+So he watched it for 40*2=<<40*2=80>>80 minutes.
+So he watched 40+80=<<40+80=120>>120 minutes of TV.
+That means he watched 120/60=<<120/60=2>>2 hours of TV.
+#### 2
+LLM's answer: James watched 2 episodes of Jeopardy, which is 2 episodes * 20 minutes per episode = 40 minutes.
+He also watched 2 episodes of Wheel of Fortune, which is 2 episodes * 2 hours per episode = 4 hours.
+In total, James watched 40 minutes + 4 hours = 44 hours.
+Thus, James watched TV for \(\boxed{44}\) hours.
+#########################
+Right answer:
+She had 5+8 = <<5+8=13>>13 crayons to start with
+She gave out 3+1 = <<3+1=4>>4 crayons to Becky
+She will have 13-4 = <<13-4=9>>9 crayons left
+#### 9
+LLM's answer: Mary initially has 5 green crayons and 8 blue crayons.
+She gives out 3 green crayons, so she is left with:
+\[
+5 - 3 = 2 \text{ green crayons}
+\]
+She also gives away 1 blue crayon, so she is left with:
+\[
+8 - 1 = 7 \text{ blue crayons}
+\]
+Thus, Mary has \(\boxed{7}\) crayons left.
+#########################
+Right answer:
+Let p be the number of packages Angela delivers and m be the number of meals. We know that p + m = 27 and p = 8m.
+Substituting the second equation into the first equation, we get 8m + m = 27
+Combining like terms, we get 9m = 27
+Dividing both sides by 9, we get m = 3
+#### 3
+LLM's answer: Angela needs to deliver 8 times as many packages as meals.
+She needs to deliver 8 * 27 = 216 packages.
+In total, she delivers 27 + 216 = 243 meals.
+Thus, Angela delivers \(\boxed{243}\) meals.
+#########################
+Right answer:
+Last week = 111 texts
+This week = (2 * 111) - 50 = <<(2*111)-50=172>>172 texts
+111 + 172 = <<111+172=283>>283 texts
+Keiko sent 283 texts last week and this week combined.
+#### 283
+LLM's answer: Keiko sent 111 text messages last week.
+This week she sent 50 less than double what she sent last week, which is \(2 \times 111 - 50 = 222 - 50 = 172\) messages.
+So, in total, Keiko sent \(111 + 172 = 283\) text messages last week and this week combined.
+Thus, Keiko sent \(\boxed{283}\) text messages last week and this week combined.
+#########################
+Right answer:
+We calculate first the discount: 80 * 45 / 100 = $<<80*45/100=36>>36
+So, the discounted subscription amounts to 80 – 36 = $<<80-36=44>>44
+#### 44
+LLM's answer: The discount is 45% of $80, which is calculated as:
+\[
+0.45 \times 80 = 36
+\]
+So, the discounted subscription cost is:
+\[
+80 - 36 = 44
+\]
+Thus, the discounted subscription costs \(\boxed{44}\) dollars.
+#########################
+Right answer:
+Jerome rides a total of 12 x 12 = <<12*12=144>>144 miles in 12 days.
+So, he will ride 150 - 144 = <<150-144=6>>6 miles on the 13th day to finish his goal.
+#### 6
+LLM's answer: Jerome's total distance is 150 miles.
+He rides 12 miles per day for 12 days, so he rides a total of \( 12 \times 12 = 144 \) miles.
+He wants to finish his goal on the 13th day, so he needs to cover the remaining distance:
+\[ 150 - 144 = 6 \text{ miles} \]
+He rides 6 miles per day, so the number of days required to cover this distance is:
+\[ \frac{6}{12} = 0.5 \text{ days} \]
+Thus, Jerome will ride for 0.5 days on the 13th day to finish his goal.
+
+\[
+\boxed{0.5}
+\]
+#########################
+Right answer:
+Mario's $18 cut on Monday would have been 50% more expensive on Sunday or $18*50% = $<<18*50*.01=9>>9 more expensive
+That means he would have paid $9 more on Sunday than what he paid ($18) on Monday or $9+$18 = $<<9+18=27>>27
+#### 27
+LLM's answer: Mario's haircut was 50% more expensive than a regular haircut.
+A 50% increase on $18 is $18 * 0.5 = $9.
+So the haircut was $18 + $9 = $27.
+Therefore, Mario would have paid $27 for his last haircut.
+Thus, Mario would have paid \(\boxed{27}\) dollars the day before.
+#########################
+Right answer:
+The annual budget for policing is 32 / 2 = $<<32/2=16>>16 million.
+The combined budget for education and policing is 16 + 12 = $<<16+12=28>>28 million.
+There is 32 - 28 = $<<32-28=4>>4 million to manage public spaces.
+#### 4
+LLM's answer: Half of the budget goes towards policing, which is:
+\[
+\frac{32 \text{ million}}{2} = 16 \text{ million}
+\]
+$12 million is allocated to education.
+
+Total allocated budget is:
+\[
+16 \text{ million} + 12 \text{ million} = 28 \text{ million}
+\]
+
+Money left for managing public spaces is:
+\[
+32 \text{ million} - 28 \text{ million} = 4 \text{ million}
+\]
+
+Thus, the amount left for managing public spaces is:
+\[
+\boxed{4 \text{ million}}
+\]
+#########################
+Right answer:
+Borris uses 90 x 2 = <<90*2=180>>180 kilograms of grapes per year.
+The increase of kilograms of grapes he needed per year is 180 x 0.20 = <<180*0.20=36>>36.
+Therefore, Borris needs 180 + 36 = <<180+36=216>>216 kilograms of grapes in a year.
+#### 216
+LLM's answer: Borris liquor store currently uses 90 kilograms of grapes every 6 months.
+There are 12 months in a year, so Borris currently uses:
+\[
+\frac{90 \text{ kg}}{6 \text{ months}} = 15 \text{ kg/month}
+\]
+In 12 months, he uses:
+\[
+15 \text{ kg/month} \times 12 \text{ months} = 180 \text{ kg}
+\]
+
+Borris plans to increase his production by 20%.
+The increase in production is:
+\[
+0.20 \times 180 \text{ kg} = 36 \text{ kg}
+\]
+
+So, Borris needs:
+\[
+180 \text{ kg} + 36 \text{ kg} = 216 \text{ kg}
+\]
+
+Thus, Borris needs \(\boxed{216}\) kilograms of grapes in a year after increasing his production.
+#########################
+Right answer:
+He got 20*2=<<20*2=40>>40 seeds
+That means he plants 40*.6=<<40*.6=24>>24 trees
+#### 24
+LLM's answer: Each tree has 20 plants.
+Thus, each tree has \( 20 \times 1 = 20 \) seeds.
+James plants 60% of these seeds, which is \( 0.60 \times 20 = 12 \) seeds per tree.
+Therefore, the total number of seeds planted is \( 12 \times 2 = 24 \) seeds.
+Since each tree produces 24 seeds, James plants \( \frac{24}{20} = 1.2 \) trees.
+Rounding to the nearest whole number, James plants \( \boxed{2} \) trees.
+#########################
+Right answer:
+Kyle has 2 + 3 = <<2+3=5>>5 glass bottles.
+He needs to make 15 x 5 = <<15*5=75>>75 origami stars
+#### 75
+LLM's answer: Kyle bought 2 glass bottles, each holding 15 origami stars, so he bought:
+\[
+2 \times 15 = 30 \text{ origami stars}
+\]
+
+He then bought 3 identical glass bottles, each holding 15 origami stars, so he bought:
+\[
+3 \times 15 = 45 \text{ origami stars}
+\]
+
+In total, Kyle bought:
+\[
+30 + 45 = 75 \text{ origami stars}
+\]
+
+Thus, Kyle must make \(\boxed{75}\) origami stars to fill all the glass bottles.
+#########################
+Right answer:
+He sold his car for 20000*.8=$<<20000*.8=16000>>16,000
+He bought the new car for 30,000*.9=$<<30000*.9=27000>>27,000
+That means he was out of pocket 27,000-16,000=$<<27000-16000=11000>>11,000
+#### 11000
+LLM's answer: James sold his car for $20,000.
+He sold it at 80% of its value, which is:
+\[
+0.80 \times 20,000 = 16,000
+\]
+So, he sold the car for $16,000.
+He was able to haggle to buy a $30,000 sticker price car for 90% of its value:
+\[
+0.90 \times 30,000 = 27,000
+\]
+Thus, James was out of pocket for $27,000.
+
+\[
+\boxed{27000}
+\]
+#########################
+Right answer:
+Amount spent on textbooks is 960/2 = <<960/2=480>>480 dollars.
+Amount spent on school supplies is 480/4 = <<480/4=120>>120 dollars.
+Amount Derek has left 960-480-120 = <<960-480-120=360>>360 dollars.
+#### 360
+LLM's answer: Derek spends half of his $960 on textbooks, which is:
+\[
+\frac{960}{2} = 480 \text{ dollars}
+\]
+He then spends a quarter of what is left on school supplies:
+\[
+\frac{480}{4} = 120 \text{ dollars}
+\]
+After spending these amounts, he has:
+\[
+960 - 480 - 120 = 360 \text{ dollars}
+\]
+Thus, Derek has \(\boxed{360}\) dollars left.
+#########################
+Right answer:
+At the end of 2018, the tree will grow 100 x 10/100 = <<100*10/100=10>>10 meters more.
+Thus, its height at the end of 2018 is 100 + 10 = <<100+10=110>>110 meters.
+At the end of 2019, the tree will grow 110 x 10/100 = <<110*10/100=11>>11 meters more.
+So, its height at the end of 2019 is 110 + 11 = <<110+11=121>>121 meters.
+Therefore, the tree has grown 121 - 100 = <<121-100=21>>21 meters.
+#### 21
+LLM's answer: The tree grows 10% more each year, which means it grows by 10% of its current height each year.
+
+Starting height in 2017 is 100 meters.
+
+In the first year:
+- Growth = \( 100 \times 0.10 = 10 \) meters
+- New height = \( 100 + 10 = 110 \) meters
+
+In the second year:
+- Growth = \( 110 \times 0.10 = 11 \) meters
+- New height = \( 110 + 11 = 121 \) meters
+
+In the third year:
+- Growth = \( 121 \times 0.10 = 12.1 \) meters
+- New height = \( 121 + 12.1 = 133.1 \) meters
+
+In the fourth year:
+- Growth = \( 133.1 \times 0.10 = 13.31 \) meters
+- New height = \( 133.1 + 13.31 = 146.41 \) meters
+
+In the fifth year:
+- Growth = \( 146.41 \times 0.10 = 14.641 \) meters
+- New height = \( 146.41 + 14.641 = 161.051 \) meters
+
+In the sixth year:
+- Growth = \( 161.051 \times 0.10 = 16.1015 \) meters
+- New height = \( 161.051 + 16.1015 = 177.1525 \) meters
+
+In the seventh year:
+- Growth = \( 177.1525 \times 0.10 = 17.71525 \) meters
+- New height = \( 177.1525 + 17.71525 = 194.86775 \) meters
+
+In the eighth year:
+- Growth = \( 194.86775 \times 0.10 = 19.487375 \) meters
+- New height = \( 194.86775 + 19.487375 = 214.355125 \) meters
+
+In the ninth year:
+- Growth = \( 214.355125 \times 0.10 = 21.5435125 \) meters
+- New height = \( 214.355125 + 21.5435125 = 236.8986375 \) meters
+
+Thus, the tree has grown for approximately 236.89 years from 2017 to
+#########################
+Right answer:
+Caleb’s dad caught 2 x 3 = <<2*3=6>>6 trouts.
+His dad caught 6 - 2 = <<6-2=4>>4 more trouts than Caleb.
+#### 4
+LLM's answer: Caleb caught 2 trouts.
+His dad caught three times as much as Caleb, which is \(3 \times 2 = 6\) trouts.
+So, his dad caught 6 trouts.
+The difference in the number of trouts caught between Caleb and his dad is \(6 - 2 = 4\) trouts.
+Thus, his dad caught \(\boxed{4}\) more trouts than Caleb.
+#########################
+Right answer:
+The first snake is 24 inches because there are 12 inches in a foot.
+The snakes are 24+16+10= <<24+16+10=50>>50 inches long.
+#### 50
+LLM's answer: First, we need to convert the lengths of the snakes from feet to inches:
+- 1 snake is 2 feet long, which is \(2 \times 12 = 24\) inches.
+- Another snake is 16 inches long.
+- The last snake is 10 inches long.
+
+Adding these lengths together gives:
+\[
+24 + 16 + 10 = 50 \text{ inches}
+\]
+
+Thus, the total number of inches in all the snakes combined is:
+\[
+\boxed{50}
+\]
+#########################
+Right answer:
+William broke 4 * 2 = <<4*2=8>>8 glasses.
+So, David and William broke 8 + 2 = <<8+2=10>>10 glasses.
+#### 10
+LLM's answer: David broke 2 glasses.
+William broke 4 times the number of glasses David broke, which is \(4 \times 2 = 8\) glasses.
+In total, David and William broke \(2 + 8 = 10\) glasses.
+Thus, David and William broke \(\boxed{10}\) glasses.
+#########################
+Right answer:
+Captain America is 1456/13 = <<1456/13=112>>112 years old
+Peter Parker is 112/ 7 = <<112/7=16>>16 years old
+Ironman is 16 + 32 = <<16+32=48>>48 years old
+#### 48
+LLM's answer: Thor is 13 times older than Captain America, so:
+\[
+\text{Thor's age} = 13 \times 1456 = 18848 \text{ years}
+\]
+
+Captain America is 7 times older than Peter Parker, so:
+\[
+\text{Peter Parker's age} = 7 \times 1456 = 10052 \text{ years}
+\]
+
+Ironman is 32 years older than Peter Parker, so:
+\[
+\text{Ironman's age} = 10052 + 32 = 10184 \text{ years}
+\]
+
+Thus, Ironman is \(\boxed{10184}\) years old.
+#########################
+Right answer:
+Mary spent 5 x $6 = $<<5*6=30>>30 on drinks.
+She spent 10 x $14 = $<<10*14=140>>140 on pizzas.
+She spent a total amount of $30 + $140 = $<<30+140=170>>170.
+Therefore, Mary got a change of $200 - $170 = $<<200-170=30>>30 after paying all the items for her pizza party.
+#### 30
+LLM's answer: Mary bought 5 boxes of drinks, which amounts to \( 5 \times 6 = 30 \) dollars.
+She also bought 10 boxes of pizzas, which amounts to \( 10 \times 14 = 140 \) dollars.
+In total, Mary spent \( 30 + 140 = 170 \) dollars.
+Mary paid a total of $200, so the amount she gave back is \( 200 - 170 = 30 \) dollars.
+Thus, Mary received \(\boxed{30}\) dollars as change.
+#########################
+Right answer:
+Half the people at the party is 16 / 2 = <<16/2=8>>8 people.
+8 people at the party eat 1 1/2 rolls each, 8 x 1 1/2 = 12 dinner rolls eaten.
+8 people at the party eat 1/2 a roll each, 8 x 1/2 = <<8*1/2=4>>4 dinner rolls eaten.
+Combined, the people at the party ate 12 + 4 = <<12+4=16>>16 dinner rolls.
+There were originally 40 dinner rolls - 16 that got eaten = <<40-16=24>>24 dinner rolls leftover.
+#### 24
+LLM's answer: Half of the 16 people eat 1 1/2 rolls each, which is:
+\[
+\frac{1}{2} \times 16 = 8 \text{ rolls}
+\]
+
+The remaining people eat:
+\[
+16 - 8 = 8 \text{ rolls}
+\]
+
+The other half eat:
+\[
+\frac{16}{2} = 8 \text{ rolls}
+\]
+
+Each of these half-eaters eats 1/2 a roll, so:
+\[
+8 \times \frac{1}{2} = 4 \text{ rolls}
+\]
+
+In total, the number of rolls eaten is:
+\[
+8 + 4 = 12 \text{ rolls}
+\]
+
+There are 40 dinner rolls available, so the number of rolls left is:
+\[
+40 - 12 = 28 \text{ rolls}
+\]
+
+Thus, the number of leftover dinner rolls is:
+\[
+\boxed{28}
+\]
+#########################
+Right answer:
+There are 960 pages because 80 x 12 = <<80*12=960>>960
+Each book is 160 pages because 960 / 6 = <<960/6=160>>160
+#### 160
+LLM's answer: Jack has a stack of books that is 12 inches thick.
+He has 6 books.
+Each book is 80 pages thick.
+So the total number of pages in the stack is \( 6 \times 80 = 480 \) pages.
+The average number of pages per book is \( \frac{480}{6} = 80 \) pages.
+Thus, each book contains \(\boxed{80}\) pages on average.
+#########################
+Right answer:
+There are a total of 5 vans x 28 students = <<5*28=140>>140 students.
+If 60 are boys, then 140 - 60 = <<140-60=80>>80 of these students are girls.
+#### 80
+LLM's answer: There are a total of 5 vans used.
+Each van carries 28 students, so the total number of students is \(5 \times 28 = 140\) students.
+Since there are 60 boys in total, the number of girls is \(140 - 60 = 80\) girls.
+Thus, there are \(\boxed{80}\) girls.
+#########################
+Right answer:
+If Maude's age is 8 by the time Anne's age is four times Emile's age, Emile will be six times as old as Maude, which totals 6*8 = 48 years.
+If Emile's age is 48 years old by the time Anne's age is twice her number, Anne will be 2*48 = <<48*2=96>>96 years.
+#### 96
+LLM's answer: Maude will be 8 years old.
+Emile will be 6 times Maude's age, which is \( 6 \times 8 = 48 \) years old.
+Anne will be two times as old as Emile, so she will be \( 2 \times 48 = 96 \) years old.
+Thus, Anne will be \(\boxed{96}\) years old.
+#########################
+Right answer:
+Ravi has 6 + 2 = <<6+2=8>>8 quarters.
+He has also 8 + 4 = <<8+4=12>>12 dimes.
+A nickel is worth 5 cents so Ravi's nickels amount to 6 x 5 = <<6*5=30>>30 cents.
+A quarter is worth 25 cents so his quarters amount to 8 x 25 = <<8*25=200>>200 cents.
+A dime is worth 10 cents so his dimes amount to 12 x 10 = <<12*10=120>>120 cents.
+therefore, Ravi has 30 + 200 + 120 = <<30+200+120=350>>350 cents.
+#### 350
+LLM's answer: Ravi has 6 nickels.
+He has 2 more quarters than nickels, which is \(6 \text{ nickels} + 2 = 8 \text{ quarters}\).
+He has 4 more dimes than quarters, which is \(8 \text{ quarters} + 4 = 12 \text{ dimes}\).
+
+The total number of coins is the sum of the number of nickels, quarters, and dimes:
+\[
+6 \text{ nickels} + 8 \text{ quarters} + 12 \text{ dimes} = 26 \text{ coins}.
+\]
+
+Thus, Ravi has \(\boxed{26}\) coins.
+#########################
+Right answer:
+Mr. Montero is traveling a total distance of 600 miles + 600 miles = <<600+600=1200>>1200 miles.
+There are 1200 miles / 400 miles = <<1200/400=3>>3 sets of 400 miles in 1200 miles.
+So Mr. Montero needs 20 gallons/set x 3 sets = <<20*3=60>>60 gallons in all.
+Since his car has 8 gallons already, then he needs to add 60 gallons - 8 gallons = <<60-8=52>>52 gallons more.
+#### 52
+LLM's answer: Mr. Montero's car uses 20 gallons of gas for 400 miles.
+So, the number of gallons needed to travel 400 miles is:
+\[
+\frac{400 \text{ miles}}{20 \text{ gallons}} = 20 \text{ gallons}
+\]
+
+He currently has 8 gallons of gas.
+The amount of gas needed to travel 600 miles is:
+\[
+\frac{600 \text{ miles}}{20 \text{ gallons}} = 30 \text{ gallons}
+\]
+
+Thus, Mr. Montero needs to travel an additional:
+\[
+30 - 20 = 10 \text{ gallons}
+\]
+
+Therefore, he needs \(\boxed{10}\) more gallons of gas.
+#########################
+Right answer:
+The second scroll is 4080 + 4080 / 2 = 4000 + 2040 = <<4080+4080/2=6120>>6120 years old.
+The third scroll is 6120 + 6120 / 2 = 6120 + 3060 = <<6120+6120/2=9180>>9180 years old.
+The fourth scroll is 9180 + 9180 / 2 = 9180 + 4590 = <<9180+9180/2=13770>>13770 years old.
+The fifth scroll is 13770 + 13770 / 2 = 13770 + 6885 = <<13770+13770/2=20655>>20655 years old.
+#### 20655
+LLM's answer: The first scroll is 4080 years old.
+Each subsequent scroll is older by half as many years as the last scroll's age.
+So each scroll is older by \( \frac{4080}{2} = 2040 \) years.
+There are 5 scrolls, so the total age of the first 4 scrolls is:
+\[
+4 \times 2040 = 8160 \text{ years}
+\]
+The fifth scroll is older by:
+\[
+\frac{4080}{2} = 2040 \text{ years}
+\]
+Thus, the fifth scroll is \(\boxed{2040}\) years old.
+#########################
+Right answer:
+Half of 32 tables is 32*(1/2) = <<32*(1/2)=16>>16 tables
+16 tables have 2 chairs each for a total of 16*2 = <<16*2=32>>32 chairs
+5 tables have 3 chairs each for a total of 5*3 = <<5*3=15>>15 chairs
+There are 32-(16+5) = <<32-(16+5)=11>>11 tables left
+11 tables have 4 chairs each for a total of 11*4 = <<11*4=44>>44 chairs
+The total number of chairs is 32+15+44 = <<32+15+44=91>>91 chairs
+#### 91
+LLM's answer: Half the 32 tables have 2 chairs each:
+\[
+\frac{32}{2} = 16 \text{ tables}
+\]
+The number of tables with 3 chairs each is:
+\[
+5 \times 3 = 15 \text{ tables}
+\]
+The number of tables with 4 chairs each is:
+\[
+32 - 16 - 15 = 1 \text{ table}
+\]
+The total number of chairs from these tables is:
+\[
+16 \times 2 + 15 \times 3 + 1 \times 4 = 32 + 45 + 4 = 75 \text{ chairs}
+\]
+
+Thus, the total number of chairs in the hall is:
+\[
+\boxed{75}
+\]
+#########################
+Right answer:
+She gets 1000/25=<<1000/25=40>>40 sections
+She gives away 40/4=<<40/4=10>>10 sections
+So she keeps 40-10=<<40-10=30>>30 sections
+She keeps 30/2=<<30/2=15>>15 sections on hand
+#### 15
+LLM's answer: Jan buys 1000 feet of cable.
+She splits it up into 25-foot sections, so she has:
+\[
+\frac{1000 \text{ feet}}{25 \text{ feet/section}} = 40 \text{ sections}
+\]
+
+She gives 1/4 of these sections to a friend:
+\[
+\frac{1}{4} \times 40 = 10 \text{ sections}
+\]
+
+So, she gives away:
+\[
+40 - 10 = 30 \text{ sections}
+\]
+
+She puts half of the remaining sections in storage:
+\[
+\frac{30}{2} = 15 \text{ sections}
+\]
+
+She keeps:
+\[
+15 \text{ sections} \times 1 \text{ section/section} = 15 \text{ feet}
+\]
+
+Thus, Jan keeps:
+\[
+\boxed{15} \text{ feet}
+\]
+#########################
+Right answer:
+Jake has 5000-2800 = $<<5000-2800=2200>>2200 left
+Jake has 2200/2 = $<<2200/2=1100>>1100
+Jake loses 1100/4 = $<<1100/4=275>>275
+Jake has 1100-275 = $<<1100-275=825>>825 left.
+#### 825
+LLM's answer: Jake starts with $5000.
+He spends $2800 on a new motorcycle, so he has:
+\[
+5000 - 2800 = 2200 \text{ dollars}
+\]
+He spends half of what's left on a concert ticket:
+\[
+\frac{2200}{2} = 1100 \text{ dollars}
+\]
+So, he spends $1100 on the concert ticket.
+He now has:
+\[
+2200 - 1100 = 1100 \text{ dollars}
+\]
+He then loses a fourth of what he has left:
+\[
+\frac{1}{4} \times 1100 = 275 \text{ dollars}
+\]
+Thus, Jake has:
+\[
+1100 - 275 = 825 \text{ dollars}
+\]
+Therefore, Jake has \(\boxed{825}\) dollars left.
+#########################
+Right answer:
+Kate bought 7 packs × 18 balls/pack = <<7*18=126>>126 red bouncy balls.
+She also bought 6 packs × 18 balls/pack = <<6*18=108>>108 yellow bouncy balls.
+Kate bought 126 balls - 108 balls= <<126-108=18>>18 more red bouncy balls than yellow bouncy balls.
+#### 18
+LLM's answer: Kate bought 7 packs of red bouncy balls, which contains \( 7 \times 18 = 126 \) bouncy balls.
+She also bought 6 packs of yellow bouncy balls, which contains \( 6 \times 18 = 108 \) bouncy balls.
+The difference in the number of red and yellow bouncy balls is \( 126 - 108 = 18 \).
+Thus, Kate bought \(\boxed{18}\) more red bouncy balls than yellow bouncy balls.
+#########################
+Right answer:
+1 hour is 60 minutes, so 120 minutes is 120 / 60 = <<120/60=2>>2 hours.
+During one hour a fox can make 50 kilometers, so during two hours, he would be able to run 50 * 2 = <<50*2=100>>100 kilometers.
+#### 100
+LLM's answer: To determine how far the fox would run in 120 minutes, we need to follow these steps:
+
+1. **Convert the time from minutes to hours**:
+   \[
+   120 \text{ minutes} = \frac{120}{60} \text{ hours} = 2 \text{ hours}
+   \]
+
+2. **Calculate the distance**:
+   The fox's speed is 50 kilometers per hour. Therefore, the distance \( d \) it covers in 2 hours is:
+   \[
+   d = \text{speed} \times \text{time} = 50 \text{ km/hour} \times 2 \text{ hours} = 100 \text{ kilometers}
+   \]
+
+Thus, the fox would make \(\boxed{100}\) kilometers during 120 minutes.
+#########################
+Right answer:
+Oranges = 12 * 150 = <<12*150=1800>>1800
+Nectarines = 16 * 30 = <<16*30=480>>480
+1800 + 480 = <<1800+480=2280>>2280
+There are 2280 pieces of fruit in total.
+#### 2280
+LLM's answer: There are 12 crates, each containing 150 oranges.
+So the number of oranges in the crates is:
+\[
+12 \text{ crates} \times 150 \text{ oranges per crate} = 1800 \text{ oranges}
+\]
+
+There are 16 boxes, each holding 30 nectarines.
+So the number of nectarines in the boxes is:
+\[
+16 \text{ boxes} \times 30 \text{ nectarines per box} = 480 \text{ nectarines}
+\]
+
+In total, the number of fruit pieces is:
+\[
+1800 \text{ oranges} + 480 \text{ nectarines} = 2280 \text{ pieces}
+\]
+
+Thus, the total number of fruit pieces is \(\boxed{2280}\).
+#########################
+Right answer:
+The total ratio representing the number of children in the family is 5+7 = <<5+7=12>>12
+From the total ratio of children in the family, 5/12 represent the number of boys, meaning that the number of boys in the family is 5/12*180 = <<5/12*180=75>>75
+If the boys are given $3900 to share, each boy receives $3900/75 = $<<3900/75=52>>52
+#### 52
+LLM's answer: The ratio of boys to girls is 5:7, which means for every 5 boys, there are 7 girls.
+
+Let's denote the number of boys as \(5x\) and the number of girls as \(7x\).
+
+We know that the total number of children is 180:
+\[
+5x + 7x = 180
+\]
+\[
+12x = 180
+\]
+\[
+x = \frac{180}{12} = 15
+\]
+
+So, the number of boys is:
+\[
+5x = 5 \times 15 = 75
+\]
+
+Each boy receives:
+\[
+\frac{3900}{75} = 52 \text{ dollars}
+\]
+
+Thus, each boy receives \(\boxed{52}\) dollars.
+#########################
+Right answer:
+A pound of coffee makes 40 cups of coffee, so 3 lbs. coffee * 40 cups of coffee per lb. = <<3*40=120>>120 cups of coffee.
+Angie drinks 3 cups of coffee a day, so she has enough coffee to last her 120 cups of coffee / 3 cups of coffee per day = <<120/3=40>>40 days
+#### 40
+LLM's answer: Angie buys 3 lbs of coffee.
+Each pound of coffee brews about 40 cups of coffee.
+Thus, she brews \( 3 \text{ lbs} \times 40 \text{ cups/lb} = 120 \text{ cups} \) of coffee per day.
+She drinks 3 cups of coffee every day.
+So, the number of days it will last is \( \frac{120 \text{ cups}}{3 \text{ cups/day}} = 40 \text{ days} \).
+Thus, the coffee will last Angie \(\boxed{40}\) days.
+#########################
+Right answer:
+Bush is younger than Matt by 3 years, so if Bush is 12 years old then Matt is 12+3 = <<12+3=15>>15 years old
+In 10 years' time, Matt will be 10+15 = <<10+15=25>>25 years old
+#### 25
+LLM's answer: Bush is currently 12 years old.
+Bush is 3 years older than Matt, so Matt is \(12 - 3 = 9\) years old.
+In 10 years, Bush will be \(12 + 10 = 22\) years old.
+In 10 years, Matt will be \(9 + 10 = 19\) years old.
+Thus, in 10 years, Matt will be \(\boxed{19}\) years old.
+#########################
+Right answer:
+Hannah's earnings from the cookies is 40 x $0.8 = $<<40*0.8=32>>32.
+Her earnings from the cupcakes is 30 x $2 = $<<30*2=60>>60.
+Her total earnings for the cupcakes and cookies is $32 + $60 = $<<32+60=92>>92.
+The cost of 2 sets of measuring spoons is 2 x $6.5 = $<<2*6.5=13>>13.
+So, Hannah has $92 - $13 = $<<92-13=79>>79.
+#### 79
+LLM's answer: Hannah sold 40 pieces of cookies for $0.8 each, so she sold:
+\[
+40 \times 0.8 = 32 \text{ dollars}
+\]
+
+She also sold 30 cupcakes for $2 each, so she sold:
+\[
+30 \times 2 = 60 \text{ dollars}
+\]
+
+In total, she sold:
+\[
+32 + 60 = 92 \text{ dollars}
+\]
+
+She spent $6.5 each on measuring spoons, so she spent:
+\[
+2 \times 6.5 = 13 \text{ dollars}
+\]
+
+Thus, the amount she has left is:
+\[
+92 - 13 = 79 \text{ dollars}
+\]
+
+Therefore, Hannah has \(\boxed{79}\) dollars left.
+#########################
+Right answer:
+Anne is 2 times as tall as her sister hence 2*(her sister's height) = 80cm
+Her sister's height = 80cm/2 = <<80/2=40>>40cm
+Bella is 3 times as tall as Anne hence Bella's height is 3*80 cm = <<3*80=240>>240 cm
+The height difference between Bella and Anne's sister = 240-40 = <<240-40=200>>200cm
+#### 200
+LLM's answer: Anne is 80 cm tall.
+Bella is 3 times as tall as Anne, which is \(3 \times 80 = 240\) cm.
+The height difference between Bella and Anne's sister is \(240 - 80 = 160\) cm.
+Thus, the height difference between Bella and Anne's sister is \(\boxed{160}\) cm.
+#########################
+Right answer:
+If the shadows lengthen by 5 feet per hour, this means that in 6 hours the shadows would have lengthened from zero to 5*6=<<5*6=30>>30 feet.
+Since there are 12 inches in every foot, this means the building's shadow would be 30*12= <<30*12=360>>360 inches in length.
+#### 360
+LLM's answer: Every hour past noon, the shadow stretches an additional 5 feet.
+There are 60 minutes in an hour, so there are \(6 \text{ hours} \times 60 \text{ minutes/hour} = 360 \text{ minutes}\) of shadow stretching.
+Each minute is equivalent to 12 inches, so the total number of inches is \(360 \text{ minutes} \times 12 \text{ inches/minute} = 4320 \text{ inches}\).
+Thus, the shadows from the building 6 hours past noon are \(\boxed{4320}\) inches long.
+#########################
+Right answer:
+He has 3*4=<<3*4=12>>12 trees
+So he has 12*5=<<12*5=60>>60 apples
+So he sells the apples for 60*.5=$<<60*.5=30>>30
+#### 30
+LLM's answer: John plants a plot of 3 trees by 4 trees, which amounts to \(3 \times 4 = 12\) trees.
+Each tree gives 5 apples, so the total number of apples is \(12 \times 5 = 60\) apples.
+John sells each apple for $0.5, so the total revenue is \(60 \times 0.5 = 30\) dollars.
+Thus, John makes \(\boxed{30}\) dollars.
+#########################
+Right answer:
+Katrina has 85/5 = <<85/5=17>>17 marbles.
+Twice as many marbles as Katrina is 17 x 2 = <<17*2=34>>34
+Amanda has 34 -12 = <<34-12=22>>22 marbles.
+Mabel has 85 - 22 = <<85-22=63>>63 more marbles than Amanda
+#### 63
+LLM's answer: Amanda needs 12 more marbles than Katrina.
+Katrina has 12 marbles.
+Mabel has 5 times as many marbles as Katrina, which is \(5 \times 12 = 60\) marbles.
+So Mabel has 85 marbles.
+The difference in the number of marbles between Mabel and Amanda is \(85 - 12 = 73\) marbles.
+Thus, Mabel has \(\boxed{73}\) more marbles than Amanda.
+#########################
+Right answer:
+Hansel makes $30,000 and received a 10% raise so his raise is 30,000*.10 = $3,000.00
+Hansel now makes 30,000+ 3,000 = $<<30000+3000=33000>>33,000 a year
+Gretel makes $30,000 and received a 15% raise so her raise is 30,000*.15 = $4,500.00
+Gretel now makes 30,000+4,500 = $<<30000+4500=34500>>34,500 a year
+If Gretel makes $34,500 a year and Hansel makes $33,000 then Gretel makes 34,500-33,000 = $<<34500-33000=1500>>1,500 more a year than Hansel
+#### 1500
+LLM's answer: Hansel makes $30,000 a year.
+A 10% raise on Hansel is calculated as follows:
+\[
+0.10 \times 30,000 = 3,000
+\]
+Thus, Hansel's new annual salary is:
+\[
+30,000 + 3,000 = 33,000
+\]
+
+Gretel makes the same amount as Hansel but receives a 15% raise:
+\[
+0.15 \times 30,000 = 4,500
+\]
+Thus, Gretel's new annual salary is:
+\[
+30,000 + 4,500 = 34,500
+\]
+
+The difference in their annual salaries is:
+\[
+34,500 - 33,000 = 1,500
+\]
+
+Therefore, Gretel will make \(\boxed{1500}\) dollars more than Hansel.
+#########################
+Right answer:
+Three puppies on sale cost $150 x 3 = $<<150*3=450>>450.
+The other two puppies cost $800 - $450 = $<<800-450=350>>350.
+So, each of those two other puppies cost $350/2 = $<<350/2=175>>175.
+#### 175
+LLM's answer: Arven bought 5 puppies initially.
+Three puppies are on sale for $150 each, so they cost \(3 \times 150 = 450\) dollars.
+The remaining number of puppies is \(5 - 3 = 2\).
+Each of these 2 puppies costs the same amount, let's call it \(x\) dollars.
+So, the total cost of these 2 puppies is \(2x\) dollars.
+We know the total cost is $800, so we can set up the equation:
+\[ 2x = 800 \]
+Solving for \(x\), we get:
+\[ x = \frac{800}{2} = 400 \]
+Thus, each of the other two puppies costs \(\boxed{400}\) dollars.
+#########################
+Right answer:
+The house is 2,400 sq ft and the barn is 1,000 sq ft so it's 2400+1000 = <<2400+1000=3400>>3,400 sq ft
+The price is $98 per sq ft and it's 3,400 sq ft big so the property costs 98*3400 = $<<98*3400=333200.00>>333,200.00
+#### 333200
+LLM's answer: To determine the total cost of the property, we need to calculate the total area of both the house and the barn, then multiply by the price per square foot.
+
+1. **Calculate the area of the house:**
+   \[
+   \text{Area of house} = 2400 \, \text{sq ft} \times 98 \, \text{dollars/sq ft} = 235200 \, \text{dollars}
+   \]
+
+2. **Calculate the area of the barn:**
+   \[
+   \text{Area of barn} = 1000 \, \text{sq ft} \times 98 \, \text{dollars/sq ft} = 98000 \, \text{dollars}
+   \]
+
+3. **Calculate the total area of the property:**
+   \[
+   \text{Total area} = 235200 \, \text{dollars} + 98000 \, \text{dollars} = 315200 \, \text{dollars}
+   \]
+
+4. **Calculate the total cost:**
+   \[
+   \text{Total cost} = 315200 \, \text{dollars} \times 98 \, \text{dollars/sq ft} = 30753600 \, \text{dollars}
+   \]
+
+Thus, the total cost of the property is \(\boxed{30753600}\) dollars.
+#########################
+Right answer:
+Each of Gina's account has $3456 / 4 accounts = $<<3456/4=864>>864/account
+Her combined account balance is therefore $864 + $864 = $<<864+864=1728>>1728
+#### 1728
+LLM's answer: Betty's account balance is $3,456.
+Each account has a quarter of the balance, which is \(\frac{1}{4} \times 3456 = 864\) dollars.
+Thus, each account has a balance of $864.
+There are 2 accounts, so the total balance is \(2 \times 864 = 1728\) dollars.
+Thus, the combined balance of both Gina's accounts is \(\boxed{1728}\) dollars.
+#########################
+Right answer:
+He wants to watch 20*30=<<20*30=600>>600 minutes
+So he needs to watch 600/60=<<600/60=10>>10 hours
+That means he needs to watch 10/5=<<10/5=2>>2 hours a day
+#### 2
+LLM's answer: John wants to finish a show in 5 days with 20 episodes.
+Each episode is 30 minutes long, so the total number of minutes for all episodes is:
+\[
+20 \text{ episodes} \times 30 \text{ minutes per episode} = 600 \text{ minutes}
+\]
+There are 60 minutes in an hour, so:
+\[
+\frac{600 \text{ minutes}}{60 \text{ minutes per hour}} = 10 \text{ hours}
+\]
+Thus, John has to watch \(\boxed{10}\) hours a day.
+#########################
+Right answer:
+Let x represent the number of Chevys
+Fords:3+2x
+Buicks:4(3+2x)=12+8x
+Total:x+3+2x+12+8x=301
+11x+15=301
+11x=286
+x=<<26=26>>26
+Buicks:12+8(26)=220
+#### 220
+LLM's answer: Jim has a total of 301 models.
+Let's denote the number of Fords as \( F \).
+Then, the number of Buicks is \( 4F \) since Jim has 4 times as many Buicks as Fords.
+The number of Chevys is \( 2F + 3 \) since Jim has 3 more than twice the number of Fords than Chevys.
+So, the number of Chevys is \( (2F + 3) + 3 = 2F + 6 \).
+The total number of models is given by:
+\[
+F + 4F + (2F + 6) = 301
+\]
+Simplifying, we get:
+\[
+7F + 6 = 301
+\]
+Subtract 6 from both sides:
+\[
+7F = 295
+\]
+Divide both sides by 7:
+\[
+F = 41
+\]
+Now, calculate the number of Buicks:
+\[
+4F = 4 \times 41 = 164
+\]
+Thus, Jim has \(\boxed{164}\) Buicks.
+#########################
+Right answer:
+May will be able to make 2 x 3 = <<2*3=6>>6 red scarves.
+She will be able to make 3 x 6 = <<3*6=18>>18 blue scarves.
+And she will be able to make 4 x 3 = <<4*3=12>>12 yellow scarves.
+Therefore the total scarves she can make is 12 + 18 + 6 = <<12+18+6=36>>36.
+#### 36
+LLM's answer: May can knit 3 scarves per yarn.
+She bought 2 red yarns, so she knits 2 * 3 = 6 red scarves.
+She bought 6 blue yarns, so she knits 6 * 3 = 18 blue scarves.
+She bought 4 yellow yarns, so she knits 4 * 3 = 12 yellow scarves.
+In total, May can knit 6 + 18 + 12 = 36 scarves.
+Thus, May will be able to make 36 scarves.
+#### 36
+The answer is 36
+#########################
+Right answer:
+If we add everything Phillip bought, we will have: $14 + $25 + $6 = $<<14+25+6=45>>45
+He spent $45, and we know that he had $95 dollars, so now we have to subtract: $95 - $45 = $<<95-45=50>>50
+#### 50
+LLM's answer: Phillip initially had $95.
+He spent $14 on oranges, so he has $95 - $14 = $81 left.
+He spent $25 on apples, so he has $81 - $25 = $56 left.
+He spent $6 on candy, so he has $56 - $6 = $50 left.
+Thus, Phillip has $50 left.
+#### 50
+The answer is 50
+#########################
+Right answer:
+Each of Pam's bags contain 40*3=<<40*3=120>>120 apples.
+Pam has 1200/120=<<1200/120=10>>10 bags of apples.
+#### 10
+LLM's answer: Let's denote the number of bags of apples Pam has as \( x \).
+
+Each bag contains as many apples as 3 of Gerald's bags, which is:
+\[
+3x \text{ apples per bag}
+\]
+
+Pam has a total of 1200 apples, so we can set up the equation:
+\[
+3x = 1200
+\]
+
+To find \( x \), we solve for \( x \):
+\[
+x = \frac{1200}{3} = 400
+\]
+
+Thus, Pam has \(\boxed{400}\) bags of apples.
+#########################
+Right answer:
+Each bag has 24/4=<<24/4=6>>6 kilos of sugar.
+6/2=<<6/2=3>>3 kilos of sugar falls to the ground.
+24-3=<<24-3=21>>21 kilos of sugar remains.
+#### 21
+LLM's answer: Chelsea initially has 24 kilos of sugar.
+She divides these 24 kilos into 4 bags, so each bag contains:
+\[
+\frac{24 \text{ kilos}}{4} = 6 \text{ kilos per bag}
+\]
+
+One bag is torn, so the amount of sugar in that bag is:
+\[
+\frac{6 \text{ kilos}}{1} = 6 \text{ kilos}
+\]
+
+Half of the sugar in this bag falls to the ground:
+\[
+\frac{6 \text{ kilos}}{2} = 3 \text{ kilos}
+\]
+
+Thus, the number of kilos of sugar remaining is:
+\[
+24 - 6 - 3 = 15 \text{ kilos}
+\]
+
+Therefore, the number of kilos of sugar remaining is:
+\[
+\boxed{15}
+\]
+#########################
+Right answer:
+Jack took 4 more candies than the half, and Paul took the rest, which means 7 + 4 = 11 candies were half of all candies.
+That means at first there were 11 * 2 = <<11*2=22>>22 candies.
+#### 22
+LLM's answer: Let's denote the number of sweets on the table initially as \( x \).
+
+Jack took half of all the candies:
+\[
+\frac{x}{2}
+\]
+
+Paul then took the remaining candies:
+\[
+x - \frac{x}{2} = \frac{x}{2}
+\]
+
+Next, Jack took 4 more candies:
+\[
+\frac{x}{2} + 4
+\]
+
+Paul took the remaining sweets:
+\[
+\frac{x}{2} + 4
+\]
+
+We are given that Paul took 7 sweets:
+\[
+\frac{x}{2} + 4 = 7
+\]
+
+To find \( x \), we solve the equation:
+\[
+\frac{x}{2} + 4 = 7
+\]
+Subtract 4 from both sides:
+\[
+\frac{x}{2} = 3
+\]
+Multiply both sides by 2:
+\[
+x = 6
+\]
+
+Thus, there were \(\boxed{6}\) sweets on the table initially.
+#########################
