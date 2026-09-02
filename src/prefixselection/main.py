@@ -1,4 +1,4 @@
-from cli import select_lang
+from cli.cli import entry
 
 if __name__ == "__main__":
-    select_lang()
+    entry()
