@@ -1,4 +1,4 @@
-from cli.cli import entry
+from cli import entry
 
 if __name__ == "__main__":
     entry()

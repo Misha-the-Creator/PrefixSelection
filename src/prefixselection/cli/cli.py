@@ -2,7 +2,8 @@ from typing import cast
 
 import click
 import torch
-from constants.constants import MENU, MESSAGES
+from algorithm import Generation, PrefixDense
+from constants import MENU, MESSAGES
 from logic.parser import ModelHandler
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
@@ -48,17 +49,21 @@ def load_model(obj, model):
     click.echo(t["chosen"].format(model_name=model.name_or_path, number_of_models=len(obj["models"])))
 
 
-@entry.command("generate")
+@entry.command("enter-generation-text")
 @click.option("--text", default=None)
 @click.pass_obj
-def generate(obj, text):
+def enter_generation_text(obj, text):
     t = obj["t"]
     if not obj["models"]:
         raise click.UsageError(t["empty"])
 
-    click.echo(f'Доступные модели {', '.join([elem[0].name_or_path for elem in obj['models']])}')
-    
-    click.echo("Сейчас производится генерация...")
+    input_text = click.prompt(t["model_prompt"])
+    generation = Generation(llms=[elem[0] for elem in obj['models']], tokenizers=[elem[1] for elem in obj['models']], top_k=5)
+    selection = PrefixDense(probs_generator=generation, 
+                            input_str=input_text,
+                            stop_token=['<|im_end|>', '<|endoftext|>', '</s>', '<end_of_turn>', '<|end_of_response|>', '<|end_of_inference|>'])
+    answer = selection.runpipe()
+    click.echo(f'Ответ модели: {answer}')
 
 
 def menu_loop(ctx: click.Context):

@@ -65,7 +65,6 @@ class Generation:
         self,
         log_probs: torch.Tensor,
         tokenizer: TokenizerType,
-        model_number: int,
     ) -> dict[str, float]:
         k = min(self.top_k, log_probs.shape[-1])
 
@@ -76,9 +75,7 @@ class Generation:
 
         distribution: dict[str, float] = {}
 
-        print(f"Модель {model_number}")
-
-        for rank, (token_id, log_prob) in enumerate(
+        for _, (token_id, log_prob) in enumerate(
             zip(top_token_ids, top_log_probs, strict=True),
             start=1,
         ):
@@ -90,13 +87,6 @@ class Generation:
             )
 
             probability = log_prob.exp().item()
-
-            print(
-                f"{rank}. "
-                f"token={token_text!r}, "
-                f"id={token_id_int}, "
-                f"prob={probability:.6f}"
-            )
 
             distribution[token_text] = (
                 distribution.get(token_text, 0.0)
@@ -122,10 +112,8 @@ class Generation:
                 "Сначала вызови initialize_chat(user_message)"
             )
 
-        print(f'Внутри generate pipe {model_to_run=}')
         distributions: dict[str, dict[str, float]] = {}
         if model_to_run == "":
-            print('попали в условие запуска всех моделей')
             for idx, (llm, tokenizer) in enumerate(zip(self.llms, self.tokenizers, strict=True)):
                 prompt = self.chat_prefixes[idx] + generated_text
                 inputs = self._tokenize_prompt(
@@ -135,18 +123,14 @@ class Generation:
                 )
 
                 log_probs = self._generate_log_probs(model=llm,
-                                                     inputs=inputs)
+                                                     inputs=inputs,)
 
                 distributions[idx] = self._get_top_distribution(log_probs=log_probs,
-                                                                tokenizer=tokenizer,
-                                                                model_number=idx,)
+                                                                tokenizer=tokenizer,)
 
         if model_to_run != "":
-            print(f'{model_to_run=}')
             model_to_run = int(model_to_run)
             prompt = self.chat_prefixes[model_to_run] + generated_text
-            print(f'попали в условие запуска модели {model_to_run}')
-            print(f'{type(model_to_run)}')
             inputs = self._tokenize_prompt(tokenizer=self.tokenizers[model_to_run],
                                            prompt=prompt,
                                            device=self.devices[model_to_run])
@@ -155,7 +139,6 @@ class Generation:
                                                  inputs=inputs,)
 
             distributions[model_to_run] = self._get_top_distribution(log_probs=log_probs,
-                                                                     tokenizer=self.tokenizers[model_to_run],
-                                                                     model_number=model_to_run,)
+                                                                     tokenizer=self.tokenizers[model_to_run],)
 
         return distributions

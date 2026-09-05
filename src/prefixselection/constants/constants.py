@@ -8,6 +8,7 @@ MESSAGES = {
         'chosen': 'The model {model_name} is installed. The number of models in the ensemble: {number_of_models}',
         'menu': 'Choose command',
         'quit': 'Quit',
+        'enter_text': 'Please enter your request to the ensemble.'
     },
     'RU': {
         'enter_model_to_download': 'Добавить модель к ансамблю',
@@ -18,10 +19,11 @@ MESSAGES = {
         'chosen': 'Модель {model_name} установлена. Число моделей в ансамбле: {number_of_models}',
         'menu': 'Выберите команду',
         'quit': 'Выход',
+        'enter_text': 'Введите запрос к ансамблю'
     },
 }
 
 MENU = [
     ("enter_model_to_download", "load-model"),
-    ("generate", "generate"),
+    ("generate", "enter-generation-text"),
 ]
