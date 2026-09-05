@@ -4,7 +4,7 @@ import click
 import torch
 from algorithm import Generation, PrefixDense
 from constants import MENU, MESSAGES
-from logic.parser import ModelHandler
+from logic import ModelHandler
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 
